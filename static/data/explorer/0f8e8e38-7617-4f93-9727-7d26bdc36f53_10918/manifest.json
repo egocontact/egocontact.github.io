@@ -1,0 +1,118 @@
+{
+  "event": "0f8e8e38-7617-4f93-9727-7d26bdc36f53_10918",
+  "action": "pick up the garment from the bed",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 10903,
+  "observation": 10903,
+  "contact": 10918,
+  "anchors": {
+    "10903": {
+      "contact_thumb": {
+        "x": 766.8367346938776,
+        "y": 772.4745762711865,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 807.2448979591837,
+        "y": 746.8474576271187,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          1116.0,
+          667.636,
+          1073.455,
+          546.545,
+          471.273,
+          1060.364,
+          880.364,
+          1066.909
+        ]
+      }
+    },
+    "10918": {
+      "contact_index": {
+        "x": 801.7346938775511,
+        "y": 728.542372881356,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 768.6734693877552,
+        "y": 768.8135593220339,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 10903,
+      "src": "/data/explorer/0f8e8e38-7617-4f93-9727-7d26bdc36f53_10918/000.webp"
+    },
+    {
+      "index": 10904,
+      "src": "/data/explorer/0f8e8e38-7617-4f93-9727-7d26bdc36f53_10918/001.webp"
+    },
+    {
+      "index": 10905,
+      "src": "/data/explorer/0f8e8e38-7617-4f93-9727-7d26bdc36f53_10918/002.webp"
+    },
+    {
+      "index": 10906,
+      "src": "/data/explorer/0f8e8e38-7617-4f93-9727-7d26bdc36f53_10918/003.webp"
+    },
+    {
+      "index": 10907,
+      "src": "/data/explorer/0f8e8e38-7617-4f93-9727-7d26bdc36f53_10918/004.webp"
+    },
+    {
+      "index": 10908,
+      "src": "/data/explorer/0f8e8e38-7617-4f93-9727-7d26bdc36f53_10918/005.webp"
+    },
+    {
+      "index": 10909,
+      "src": "/data/explorer/0f8e8e38-7617-4f93-9727-7d26bdc36f53_10918/006.webp"
+    },
+    {
+      "index": 10910,
+      "src": "/data/explorer/0f8e8e38-7617-4f93-9727-7d26bdc36f53_10918/007.webp"
+    },
+    {
+      "index": 10911,
+      "src": "/data/explorer/0f8e8e38-7617-4f93-9727-7d26bdc36f53_10918/008.webp"
+    },
+    {
+      "index": 10912,
+      "src": "/data/explorer/0f8e8e38-7617-4f93-9727-7d26bdc36f53_10918/009.webp"
+    },
+    {
+      "index": 10913,
+      "src": "/data/explorer/0f8e8e38-7617-4f93-9727-7d26bdc36f53_10918/010.webp"
+    },
+    {
+      "index": 10914,
+      "src": "/data/explorer/0f8e8e38-7617-4f93-9727-7d26bdc36f53_10918/011.webp"
+    },
+    {
+      "index": 10915,
+      "src": "/data/explorer/0f8e8e38-7617-4f93-9727-7d26bdc36f53_10918/012.webp"
+    },
+    {
+      "index": 10916,
+      "src": "/data/explorer/0f8e8e38-7617-4f93-9727-7d26bdc36f53_10918/013.webp"
+    },
+    {
+      "index": 10917,
+      "src": "/data/explorer/0f8e8e38-7617-4f93-9727-7d26bdc36f53_10918/014.webp"
+    },
+    {
+      "index": 10918,
+      "src": "/data/explorer/0f8e8e38-7617-4f93-9727-7d26bdc36f53_10918/015.webp"
+    }
+  ]
+}

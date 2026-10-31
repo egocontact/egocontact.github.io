@@ -1,0 +1,118 @@
+{
+  "event": "2662dad5-c487-492d-8761-3b30d014748d_12097",
+  "action": "take a food bag from the cabinet",
+  "width": 1920,
+  "height": 1440,
+  "fps": 30.0,
+  "first": 12082,
+  "observation": 12082,
+  "contact": 12097,
+  "anchors": {
+    "12082": {
+      "contact_thumb": {
+        "x": 811.1854103343466,
+        "y": 820.766069965978,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 840.3647416413374,
+        "y": 727.8628441595263,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          765.68,
+          683.021,
+          857.039,
+          665.619,
+          896.193,
+          857.039,
+          787.432,
+          904.894
+        ]
+      }
+    },
+    "12097": {
+      "contact_index": {
+        "x": 976.5348356762918,
+        "y": 681.4112312563004,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 924.0120393237082,
+        "y": 762.7015538369457,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 12082,
+      "src": "/data/explorer/2662dad5-c487-492d-8761-3b30d014748d_12097/000.webp"
+    },
+    {
+      "index": 12083,
+      "src": "/data/explorer/2662dad5-c487-492d-8761-3b30d014748d_12097/001.webp"
+    },
+    {
+      "index": 12084,
+      "src": "/data/explorer/2662dad5-c487-492d-8761-3b30d014748d_12097/002.webp"
+    },
+    {
+      "index": 12085,
+      "src": "/data/explorer/2662dad5-c487-492d-8761-3b30d014748d_12097/003.webp"
+    },
+    {
+      "index": 12086,
+      "src": "/data/explorer/2662dad5-c487-492d-8761-3b30d014748d_12097/004.webp"
+    },
+    {
+      "index": 12087,
+      "src": "/data/explorer/2662dad5-c487-492d-8761-3b30d014748d_12097/005.webp"
+    },
+    {
+      "index": 12088,
+      "src": "/data/explorer/2662dad5-c487-492d-8761-3b30d014748d_12097/006.webp"
+    },
+    {
+      "index": 12089,
+      "src": "/data/explorer/2662dad5-c487-492d-8761-3b30d014748d_12097/007.webp"
+    },
+    {
+      "index": 12090,
+      "src": "/data/explorer/2662dad5-c487-492d-8761-3b30d014748d_12097/008.webp"
+    },
+    {
+      "index": 12091,
+      "src": "/data/explorer/2662dad5-c487-492d-8761-3b30d014748d_12097/009.webp"
+    },
+    {
+      "index": 12092,
+      "src": "/data/explorer/2662dad5-c487-492d-8761-3b30d014748d_12097/010.webp"
+    },
+    {
+      "index": 12093,
+      "src": "/data/explorer/2662dad5-c487-492d-8761-3b30d014748d_12097/011.webp"
+    },
+    {
+      "index": 12094,
+      "src": "/data/explorer/2662dad5-c487-492d-8761-3b30d014748d_12097/012.webp"
+    },
+    {
+      "index": 12095,
+      "src": "/data/explorer/2662dad5-c487-492d-8761-3b30d014748d_12097/013.webp"
+    },
+    {
+      "index": 12096,
+      "src": "/data/explorer/2662dad5-c487-492d-8761-3b30d014748d_12097/014.webp"
+    },
+    {
+      "index": 12097,
+      "src": "/data/explorer/2662dad5-c487-492d-8761-3b30d014748d_12097/015.webp"
+    }
+  ]
+}

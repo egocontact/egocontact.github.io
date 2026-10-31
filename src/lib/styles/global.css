@@ -1,0 +1,491 @@
+/* The same font pairing used by the original Nerfies / HiFiEgo page. */
+:root {
+  --font-body: "Noto Sans", sans-serif;
+  --font-publication: "Google Sans", "Noto Sans", sans-serif;
+  --reading-sidebar-width: clamp(19rem, 24vw, 23rem);
+  --reading-width: 53rem;
+  --paper-ink: #111;
+  --paper-blue: #248ab8;
+  --paper-magenta: #b84e9d;
+}
+/* Reading layout beside persistent contents. */
+.reading-content {
+  margin-left: var(--reading-sidebar-width);
+  min-width: 0;
+}
+.reading-column {
+  width: 100%;
+  max-width: var(--reading-width);
+  margin-inline: auto;
+}
+.reading-content [id] {
+  scroll-margin-top: 32px;
+}
+.reading-content [tabindex="-1"]:focus-visible {
+  outline: 2px solid var(--paper-blue);
+  outline-offset: 6px;
+}
+@media (max-width: 1099px) {
+  .reading-content {
+    margin-left: 0;
+  }
+  .reading-content [id] {
+    scroll-margin-top: 88px;
+  }
+}
+@media print {
+  .reading-content {
+    margin-left: 0;
+  }
+}
+body,
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: var(--font-body);
+}
+
+.footer .icon-link {
+  font-size: 25px;
+  color: #000;
+}
+
+.link-block a {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.dnerf {
+  font-variant: small-caps;
+}
+
+.teaser .hero-body {
+  padding-top: 0;
+  padding-bottom: 3rem;
+}
+
+.teaser {
+  font-family: var(--font-publication);
+}
+
+.publication-banner video {
+  position: relative;
+  left: auto;
+  top: auto;
+  transform: none;
+}
+
+.publication-venue {
+  color: #555;
+  width: fit-content;
+  font-weight: bold;
+}
+
+.publication-awards {
+  color: #ff3860;
+  width: fit-content;
+  font-weight: bolder;
+}
+
+.author-block {
+  display: inline-block;
+}
+
+.publication-video {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+
+  overflow: hidden;
+  border-radius: 10px !important;
+}
+
+.publication-video iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.publication-figure {
+  overflow: hidden;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  background: #fff;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+}
+
+.figure-caption {
+  margin-top: 0.75rem;
+  color: #555;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.results-carousel {
+  overflow: hidden;
+}
+
+.results-carousel .item {
+  margin: 5px;
+  overflow: hidden;
+  border: 1px solid #bbb;
+  border-radius: 10px;
+  padding: 0;
+  font-size: 0;
+}
+
+.results-carousel video {
+  margin: 0;
+}
+
+.interpolation-panel {
+  background: #f5f5f5;
+  border-radius: 10px;
+}
+
+.interpolation-panel .interpolation-image {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.interpolation-panel .slider {
+  margin: 0 !important;
+}
+
+#interpolation-image-wrapper {
+  width: 100%;
+}
+#interpolation-image-wrapper img {
+  border-radius: 5px;
+}
+
+/* Custom Additions for HiFiEgo */
+
+.item-placeholder {
+  background-color: #f1f5f9;
+  border-radius: 12px;
+  border: 2px dashed #cbd5e1;
+  aspect-ratio: 16 / 9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.item-placeholder:hover {
+  background-color: #e2e8f0;
+}
+
+.mockup-content {
+  text-align: center;
+  color: #475569;
+  padding: 1rem;
+}
+
+.mockup-content p {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.video-carousel-layout .item {
+  border: none;
+}
+
+.bm-tabs {
+  margin-bottom: 2rem !important;
+}
+
+/* Preserve the template while keeping tables and controls usable on small screens. */
+.table-scroll {
+  overflow-x: auto;
+}
+.dataset-card:focus-visible,
+.navbar-burger:focus-visible {
+  outline: 3px solid #3273dc;
+  outline-offset: 3px;
+}
+.bm-tabs button {
+  background: transparent;
+  font: inherit;
+  color: inherit;
+  cursor: pointer;
+  border: 1px solid #dbdbdb;
+  padding: 0.5em 1em;
+}
+@media (max-width: 600px) {
+  .bm-tabs ul {
+    flex-wrap: wrap;
+  }
+  .bm-tabs button {
+    font-size: 0.8rem;
+  }
+}
+
+.navbar-burger {
+  border: 0;
+  background: transparent;
+  padding: 0;
+}
+
+/* EgoContact layout, with the original Nerfies typography. */
+body {
+  font-family: var(--font-body);
+  color: #4a4a4a;
+}
+.hero-section {
+  background: #fff;
+  border-bottom: 0;
+}
+.hero-section .hero-body {
+  padding: 3rem 1.5rem 2.5rem;
+}
+.publication-title,
+.publication-authors,
+.publication-affiliations {
+  font-family: var(--font-publication);
+}
+.publication-title {
+  margin: 0 0 1.8rem;
+  color: #363636;
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 600;
+  line-height: 1.15;
+}
+.publication-authors {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.3rem 0.65rem;
+  font-size: 1.25rem;
+}
+.publication-authors a {
+  color: hsl(204, 86%, 53%) !important;
+  text-decoration: none;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+}
+.publication-authors a:hover {
+  text-decoration: underline;
+}
+.publication-authors sup,
+.publication-affiliations sup {
+  margin-left: 0.15em;
+  font-size: 0.7em;
+}
+.publication-affiliations {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 42rem;
+  gap: 0.4rem 1rem;
+  margin: 0.8rem auto 0;
+  color: #4a4a4a;
+  font-size: 1.25rem;
+  line-height: 1.5;
+}
+.publication-affiliations sup {
+  margin: 0 0.25em 0 0;
+}
+.publication-links {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-top: 1.6rem;
+}
+.resource-label {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  line-height: 1.1;
+}
+.resource-label small {
+  margin-top: -2px;
+  font-size: 0.55rem;
+  font-weight: normal;
+  opacity: 0.8;
+}
+.project-teaser {
+  margin: 1rem 0 3.5rem;
+}
+.project-teaser img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.project-teaser .figure-caption {
+  margin: 1.25rem auto 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+.abstract-section {
+  margin-top: 3rem;
+  margin-bottom: 3.5rem;
+}
+.abstract-text {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  text-align: justify;
+}
+.stat-box {
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
+  height: 100%;
+  box-shadow: none;
+  border-radius: 0;
+  padding: 2rem 1rem;
+}
+.stat-box:hover {
+  transform: translateY(-2px);
+  box-shadow: none;
+  background: #fafafa;
+}
+.dataset-card {
+  width: 100%;
+  font: inherit;
+  color: inherit;
+  border: 1px solid #ddd;
+}
+.dataset-card.is-active {
+  background: #f5f5f5;
+}
+.contact-blue {
+  color: var(--paper-blue);
+}
+.contact-magenta {
+  color: var(--paper-magenta);
+}
+.contact-dark {
+  color: var(--paper-ink);
+}
+.bm-tabs li.is-active button {
+  color: white;
+  background: var(--paper-ink);
+  border-color: var(--paper-ink);
+}
+.bm-tabs li:first-child button,
+.bm-tabs li:last-child button {
+  border-radius: 0;
+}
+.citation-code {
+  padding: 1.4rem;
+  background: #f5f5f5;
+  border: 1px solid #e6e6e6;
+  font-size: 0.875em;
+}
+.footer {
+  background: #fafafa;
+  border-top: 1px solid #e6e6e6;
+}
+@media (max-width: 600px) {
+  .hero-section .hero-body {
+    padding: 1.75rem 1rem 2rem;
+  }
+  .publication-authors {
+    font-size: 1.1rem;
+    gap: 0.25rem 0.5rem;
+  }
+  .publication-affiliations {
+    font-size: 1rem;
+    gap: 0.3rem 0.7rem;
+  }
+  .project-teaser {
+    margin-top: 0.5rem;
+    margin-bottom: 2.5rem;
+  }
+  .abstract-text {
+    font-size: 1rem;
+    line-height: 1.7;
+    text-align: left;
+  }
+}
+
+/* HiFiEgo table styling, retaining compact paired metric columns. */
+.leaderboard-table {
+  table-layout: fixed;
+  min-width: 48rem;
+  font-size: 0.9rem;
+  font-variant-numeric: tabular-nums;
+  line-height: 1.5;
+}
+.leaderboard-table colgroup:first-child col {
+  width: 24%;
+}
+.leaderboard-table th,
+.leaderboard-table td {
+  padding: 0.55rem 0.75rem;
+  vertical-align: middle;
+  white-space: nowrap;
+  color: #363636;
+}
+.leaderboard-table thead th:not([align]) {
+  background: #f8fafc;
+  color: #334155;
+  text-align: center;
+  font-weight: 700;
+}
+.leaderboard-table .metric-label {
+  position: relative;
+  display: inline-block;
+}
+.leaderboard-table .metric-direction {
+  position: absolute;
+  left: 100%;
+  top: 0;
+  margin-left: 0.25em;
+  white-space: nowrap;
+}
+.leaderboard-table thead tr:first-child th {
+  padding-bottom: 0.25rem;
+  border-bottom: 0;
+}
+.leaderboard-table thead tr:last-child th {
+  padding-top: 0.25rem;
+  border-bottom: 2px solid #dbdbdb;
+  font-size: 0.8rem;
+  text-align: center;
+}
+.leaderboard-table thead th[rowspan] {
+  text-align: left;
+  border-bottom: 2px solid #dbdbdb !important;
+}
+.leaderboard-table tbody th[scope="row"] {
+  background: transparent;
+  font-weight: 400;
+  text-align: left;
+}
+.leaderboard-table td:not([align]) {
+  text-align: center;
+}
+.leaderboard-table tbody tr > * {
+  border-bottom: 1px solid #dbdbdb;
+}
+.leaderboard-table .benchmark-group th {
+  background: #f5f5f5;
+  color: #363636;
+  font-size: inherit;
+  font-style: normal;
+  font-weight: 700;
+}
+.leaderboard-table.is-hoverable tbody tr:not(.benchmark-group):hover {
+  background: #fafafa;
+}
+.benchmark-notes {
+  margin-top: 1rem;
+  color: #4a4a4a;
+  font-size: 0.875rem;
+  line-height: 1.7;
+}
+.table-scroll:focus-visible {
+  outline: 2px solid #3273dc;
+  outline-offset: 3px;
+}

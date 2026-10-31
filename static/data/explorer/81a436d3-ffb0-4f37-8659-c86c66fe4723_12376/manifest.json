@@ -1,0 +1,118 @@
+{
+  "event": "81a436d3-ffb0-4f37-8659-c86c66fe4723_12376",
+  "action": "pick up the angle grinder from the tool table",
+  "width": 2560,
+  "height": 1920,
+  "fps": 30.0,
+  "first": 12361,
+  "observation": 12361,
+  "contact": 12376,
+  "anchors": {
+    "12361": {
+      "contact_index": {
+        "x": 1424.7916120532684,
+        "y": 51.10637844439676,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 1404.6816361017427,
+        "y": 136.28382875816555,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          1225.6437285958905,
+          62.2821111150771,
+          1554.4108518835617,
+          303.5156919260423,
+          1694.6848244863015,
+          97.3706319603084,
+          1392.219071061644,
+          0.8771996359223301
+        ]
+      }
+    },
+    "12376": {
+      "contact_thumb": {
+        "x": 1514.2810970937223,
+        "y": 281.5865381169476,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1534.391073045248,
+        "y": 161.3360200269211,
+        "occluded": true,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 12361,
+      "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_12376/000.webp"
+    },
+    {
+      "index": 12362,
+      "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_12376/001.webp"
+    },
+    {
+      "index": 12363,
+      "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_12376/002.webp"
+    },
+    {
+      "index": 12364,
+      "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_12376/003.webp"
+    },
+    {
+      "index": 12365,
+      "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_12376/004.webp"
+    },
+    {
+      "index": 12366,
+      "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_12376/005.webp"
+    },
+    {
+      "index": 12367,
+      "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_12376/006.webp"
+    },
+    {
+      "index": 12368,
+      "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_12376/007.webp"
+    },
+    {
+      "index": 12369,
+      "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_12376/008.webp"
+    },
+    {
+      "index": 12370,
+      "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_12376/009.webp"
+    },
+    {
+      "index": 12371,
+      "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_12376/010.webp"
+    },
+    {
+      "index": 12372,
+      "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_12376/011.webp"
+    },
+    {
+      "index": 12373,
+      "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_12376/012.webp"
+    },
+    {
+      "index": 12374,
+      "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_12376/013.webp"
+    },
+    {
+      "index": 12375,
+      "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_12376/014.webp"
+    },
+    {
+      "index": 12376,
+      "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_12376/015.webp"
+    }
+  ]
+}

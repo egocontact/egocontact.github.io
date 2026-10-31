@@ -1,0 +1,118 @@
+{
+  "event": "46e722ff-2fd9-4ae9-8fd5-a5d924bf96f9_685",
+  "action": "pick up the circular saw from the floor",
+  "width": 1920,
+  "height": 1440,
+  "fps": 30.0,
+  "first": 670,
+  "observation": 670,
+  "contact": 685,
+  "anchors": {
+    "670": {
+      "contact_index": {
+        "x": 1341.6007678846886,
+        "y": 538.3177399499962,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 1266.6300551068086,
+        "y": 557.0093281427044,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          1279.9997998847462,
+          439.3442500840415,
+          1122.622760546152,
+          596.7212948902653,
+          1299.6719298020703,
+          721.3114553618592,
+          1463.6063457797725,
+          596.7212948902653
+        ]
+      }
+    },
+    "685": {
+      "contact_index": {
+        "x": 1636.9854448672738,
+        "y": 489.7196106489548,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 1550.7691251727117,
+        "y": 500.9345635645798,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 670,
+      "src": "/data/explorer/46e722ff-2fd9-4ae9-8fd5-a5d924bf96f9_685/000.webp"
+    },
+    {
+      "index": 671,
+      "src": "/data/explorer/46e722ff-2fd9-4ae9-8fd5-a5d924bf96f9_685/001.webp"
+    },
+    {
+      "index": 672,
+      "src": "/data/explorer/46e722ff-2fd9-4ae9-8fd5-a5d924bf96f9_685/002.webp"
+    },
+    {
+      "index": 673,
+      "src": "/data/explorer/46e722ff-2fd9-4ae9-8fd5-a5d924bf96f9_685/003.webp"
+    },
+    {
+      "index": 674,
+      "src": "/data/explorer/46e722ff-2fd9-4ae9-8fd5-a5d924bf96f9_685/004.webp"
+    },
+    {
+      "index": 675,
+      "src": "/data/explorer/46e722ff-2fd9-4ae9-8fd5-a5d924bf96f9_685/005.webp"
+    },
+    {
+      "index": 676,
+      "src": "/data/explorer/46e722ff-2fd9-4ae9-8fd5-a5d924bf96f9_685/006.webp"
+    },
+    {
+      "index": 677,
+      "src": "/data/explorer/46e722ff-2fd9-4ae9-8fd5-a5d924bf96f9_685/007.webp"
+    },
+    {
+      "index": 678,
+      "src": "/data/explorer/46e722ff-2fd9-4ae9-8fd5-a5d924bf96f9_685/008.webp"
+    },
+    {
+      "index": 679,
+      "src": "/data/explorer/46e722ff-2fd9-4ae9-8fd5-a5d924bf96f9_685/009.webp"
+    },
+    {
+      "index": 680,
+      "src": "/data/explorer/46e722ff-2fd9-4ae9-8fd5-a5d924bf96f9_685/010.webp"
+    },
+    {
+      "index": 681,
+      "src": "/data/explorer/46e722ff-2fd9-4ae9-8fd5-a5d924bf96f9_685/011.webp"
+    },
+    {
+      "index": 682,
+      "src": "/data/explorer/46e722ff-2fd9-4ae9-8fd5-a5d924bf96f9_685/012.webp"
+    },
+    {
+      "index": 683,
+      "src": "/data/explorer/46e722ff-2fd9-4ae9-8fd5-a5d924bf96f9_685/013.webp"
+    },
+    {
+      "index": 684,
+      "src": "/data/explorer/46e722ff-2fd9-4ae9-8fd5-a5d924bf96f9_685/014.webp"
+    },
+    {
+      "index": 685,
+      "src": "/data/explorer/46e722ff-2fd9-4ae9-8fd5-a5d924bf96f9_685/015.webp"
+    }
+  ]
+}

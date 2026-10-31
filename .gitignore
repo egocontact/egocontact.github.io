@@ -1,0 +1,39 @@
+node_modules
+
+# Output
+.output
+.vercel
+.netlify
+.wrangler
+/.svelte-kit
+/build
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.*
+!.env.example
+!.env.test
+
+# Vite
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+# Python asset-generation utilities
+__pycache__/
+*.pyc
+
+# Local datasets (retain the directory placeholder)
+/data/*
+!/data/.gitkeep
+
+# Temporary external code checkouts for review
+/tmp/
+
+# Local analysis outputs and reference taxonomy
+/reports/
+/results.txt
+/taxonomy/

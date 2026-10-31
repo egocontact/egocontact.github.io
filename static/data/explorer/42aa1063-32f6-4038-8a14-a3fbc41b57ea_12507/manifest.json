@@ -1,0 +1,118 @@
+{
+  "event": "42aa1063-32f6-4038-8a14-a3fbc41b57ea_12507",
+  "action": "hold the stroller handle",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 12492,
+  "observation": 12492,
+  "contact": 12507,
+  "anchors": {
+    "12492": {
+      "contact_thumb": {
+        "x": 916.1259079903147,
+        "y": 993.1832797427652,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 964.9394673123485,
+        "y": 923.7299035369775,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          1000.328,
+          365.902,
+          1411.967,
+          678.689,
+          619.672,
+          966.393,
+          916.23,
+          1063.77
+        ]
+      }
+    },
+    "12507": {
+      "contact_thumb": {
+        "x": 872.542372881356,
+        "y": 1031.3826366559485,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 928.3292978208232,
+        "y": 993.1832797427652,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 12492,
+      "src": "/data/explorer/42aa1063-32f6-4038-8a14-a3fbc41b57ea_12507/000.webp"
+    },
+    {
+      "index": 12493,
+      "src": "/data/explorer/42aa1063-32f6-4038-8a14-a3fbc41b57ea_12507/001.webp"
+    },
+    {
+      "index": 12494,
+      "src": "/data/explorer/42aa1063-32f6-4038-8a14-a3fbc41b57ea_12507/002.webp"
+    },
+    {
+      "index": 12495,
+      "src": "/data/explorer/42aa1063-32f6-4038-8a14-a3fbc41b57ea_12507/003.webp"
+    },
+    {
+      "index": 12496,
+      "src": "/data/explorer/42aa1063-32f6-4038-8a14-a3fbc41b57ea_12507/004.webp"
+    },
+    {
+      "index": 12497,
+      "src": "/data/explorer/42aa1063-32f6-4038-8a14-a3fbc41b57ea_12507/005.webp"
+    },
+    {
+      "index": 12498,
+      "src": "/data/explorer/42aa1063-32f6-4038-8a14-a3fbc41b57ea_12507/006.webp"
+    },
+    {
+      "index": 12499,
+      "src": "/data/explorer/42aa1063-32f6-4038-8a14-a3fbc41b57ea_12507/007.webp"
+    },
+    {
+      "index": 12500,
+      "src": "/data/explorer/42aa1063-32f6-4038-8a14-a3fbc41b57ea_12507/008.webp"
+    },
+    {
+      "index": 12501,
+      "src": "/data/explorer/42aa1063-32f6-4038-8a14-a3fbc41b57ea_12507/009.webp"
+    },
+    {
+      "index": 12502,
+      "src": "/data/explorer/42aa1063-32f6-4038-8a14-a3fbc41b57ea_12507/010.webp"
+    },
+    {
+      "index": 12503,
+      "src": "/data/explorer/42aa1063-32f6-4038-8a14-a3fbc41b57ea_12507/011.webp"
+    },
+    {
+      "index": 12504,
+      "src": "/data/explorer/42aa1063-32f6-4038-8a14-a3fbc41b57ea_12507/012.webp"
+    },
+    {
+      "index": 12505,
+      "src": "/data/explorer/42aa1063-32f6-4038-8a14-a3fbc41b57ea_12507/013.webp"
+    },
+    {
+      "index": 12506,
+      "src": "/data/explorer/42aa1063-32f6-4038-8a14-a3fbc41b57ea_12507/014.webp"
+    },
+    {
+      "index": 12507,
+      "src": "/data/explorer/42aa1063-32f6-4038-8a14-a3fbc41b57ea_12507/015.webp"
+    }
+  ]
+}

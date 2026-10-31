@@ -1,0 +1,118 @@
+{
+  "event": "05492871-f6aa-4eda-990a-be727ec037f8_3801",
+  "action": "flip the bread on the cooking surface",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 3786,
+  "observation": 3786,
+  "contact": 3801,
+  "anchors": {
+    "3786": {
+      "contact_thumb": {
+        "x": 934.3486279965427,
+        "y": 310.78683638950247,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 925.0020250413162,
+        "y": 258.0585211788655,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          960.6574740475171,
+          345.8960518654519,
+          817.6437754173801,
+          264.47971834175115,
+          862.0273370612158,
+          180.5962231961201,
+          1076.5478850064212,
+          207.73500103735367
+        ]
+      }
+    },
+    "3801": {
+      "contact_thumb": {
+        "x": 882.8907361652351,
+        "y": 419.37364743501837,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 885.7187015334184,
+        "y": 363.00621708031844,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 3786,
+      "src": "/data/explorer/05492871-f6aa-4eda-990a-be727ec037f8_3801/000.webp"
+    },
+    {
+      "index": 3787,
+      "src": "/data/explorer/05492871-f6aa-4eda-990a-be727ec037f8_3801/001.webp"
+    },
+    {
+      "index": 3788,
+      "src": "/data/explorer/05492871-f6aa-4eda-990a-be727ec037f8_3801/002.webp"
+    },
+    {
+      "index": 3789,
+      "src": "/data/explorer/05492871-f6aa-4eda-990a-be727ec037f8_3801/003.webp"
+    },
+    {
+      "index": 3790,
+      "src": "/data/explorer/05492871-f6aa-4eda-990a-be727ec037f8_3801/004.webp"
+    },
+    {
+      "index": 3791,
+      "src": "/data/explorer/05492871-f6aa-4eda-990a-be727ec037f8_3801/005.webp"
+    },
+    {
+      "index": 3792,
+      "src": "/data/explorer/05492871-f6aa-4eda-990a-be727ec037f8_3801/006.webp"
+    },
+    {
+      "index": 3793,
+      "src": "/data/explorer/05492871-f6aa-4eda-990a-be727ec037f8_3801/007.webp"
+    },
+    {
+      "index": 3794,
+      "src": "/data/explorer/05492871-f6aa-4eda-990a-be727ec037f8_3801/008.webp"
+    },
+    {
+      "index": 3795,
+      "src": "/data/explorer/05492871-f6aa-4eda-990a-be727ec037f8_3801/009.webp"
+    },
+    {
+      "index": 3796,
+      "src": "/data/explorer/05492871-f6aa-4eda-990a-be727ec037f8_3801/010.webp"
+    },
+    {
+      "index": 3797,
+      "src": "/data/explorer/05492871-f6aa-4eda-990a-be727ec037f8_3801/011.webp"
+    },
+    {
+      "index": 3798,
+      "src": "/data/explorer/05492871-f6aa-4eda-990a-be727ec037f8_3801/012.webp"
+    },
+    {
+      "index": 3799,
+      "src": "/data/explorer/05492871-f6aa-4eda-990a-be727ec037f8_3801/013.webp"
+    },
+    {
+      "index": 3800,
+      "src": "/data/explorer/05492871-f6aa-4eda-990a-be727ec037f8_3801/014.webp"
+    },
+    {
+      "index": 3801,
+      "src": "/data/explorer/05492871-f6aa-4eda-990a-be727ec037f8_3801/015.webp"
+    }
+  ]
+}

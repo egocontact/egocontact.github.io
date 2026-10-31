@@ -1,0 +1,56 @@
+{
+  "scope": "Conservative analysis overlay. Original annotations and taxonomy IDs are never overwritten. Exact phrase normalizations only; no similarity threshold merges.",
+  "action_aliases": {
+    "holds": "hold", "holding": "hold", "closes": "close", "turns on": "turn on", "pulls": "pull", "wipes": "wipe", "lifting": "lift", "cuts": "cut", "turns off": "turn off", "sewing": "sew", "wiping": "wipe", "presses": "press", "painting": "paint", "connects": "connect", "turns": "turn", "tightens": "tighten", "shelling": "shell", "removes": "remove", "rolling": "roll", "locks": "lock", "turning": "turn", "climbing": "climb", "removing": "remove", "touches": "touch", "pedaling": "pedal", "typing": "type", "milking": "milk", "capping": "cap", "pickup": "pick up"
+  },
+  "object_aliases": {
+    "chopsticks": "chopstick", "chop sticks": "chopstick", "spoons": "spoon", "gloves": "glove", "wires": "wire", "tissues": "tissue", "bags": "bag", "screws": "screw", "pots": "pot", "cloths": "cloth", "tools": "tool", "clothes irons": "clothes iron", "wood spoon": "wooden spoon"
+  },
+  "pair_decisions": [
+    {"dimension":"actions","a":"turn on","b":"turn off","decision":"keep_separate","reason":"Opposite changes of device state; semantic relatedness is not equivalence."},
+    {"dimension":"actions","a":"open","b":"close","decision":"keep_separate","reason":"Opposite state transitions."},
+    {"dimension":"actions","a":"pull","b":"push","decision":"keep_separate","reason":"Opposite force directions."},
+    {"dimension":"actions","a":"take","b":"give","decision":"keep_separate","reason":"Opposite transfer roles."},
+    {"dimension":"actions","a":"hold","b":"grab","decision":"keep_separate","reason":"Maintaining a grasp differs from initiating one."},
+    {"dimension":"actions","a":"lift","b":"take","decision":"keep_separate","reason":"Preserve vertical motion in the fine-grained layer even if STA groups these."},
+    {"dimension":"actions","a":"stir","b":"mix","decision":"keep_separate","reason":"Stir is a specific motion; mix is a broader result-oriented action."},
+    {"dimension":"actions","a":"wash","b":"rinse","decision":"keep_separate","reason":"Related cleaning actions with distinct mechanisms/stages."},
+    {"dimension":"actions","a":"clean","b":"wipe","decision":"keep_separate","reason":"Generic outcome versus a specific contact motion."},
+    {"dimension":"actions","a":"adjust","b":"tighten","decision":"keep_separate","reason":"Specific mechanical action should not disappear into a generic category."},
+    {"dimension":"actions","a":"remove screw","b":"screw","decision":"keep_separate","reason":"Description explicitly says remove a screw using a screwdriver: unscrew is the proposed action, despite screw being the closest embedding neighbor."},
+    {"dimension":"actions","a":"pick","b":"pick up","decision":"context_required","reason":"Many descriptions say pick up, but pick can mean selecting or harvesting. No phrase-wide merger."},
+    {"dimension":"actions","a":"put","b":"place","decision":"possible_synonyms_not_applied","reason":"Likely compatible for many events; retain raw phrases until context and taxonomy granularity are established."},
+    {"dimension":"actions","a":"wear","b":"put on","decision":"context_required","reason":"Wearing is a state; putting on is a transition. Preserve the distinction unless event descriptions resolve it."},
+    {"dimension":"actions","a":"turn","b":"flip","decision":"keep_separate","reason":"A flip is a specific rotation; do not erase specificity."},
+    {"dimension":"actions","a":"attach","b":"plug in","decision":"keep_separate","reason":"Retain electrical connection as a specific action."},
+    {"dimension":"objects","a":"iron","b":"clothes iron","decision":"context_required","reason":"Iron may denote a clothes iron, soldering tool, or metal. Generic descriptions require visual review."},
+    {"dimension":"objects","a":"wood","b":"wooden spoon","decision":"keep_separate","reason":"Material and an object made of it are different entities."},
+    {"dimension":"objects","a":"tap","b":"tap gun","decision":"keep_separate","reason":"Lexical similarity does not establish the same object."},
+    {"dimension":"objects","a":"tap","b":"faucet","decision":"context_required","reason":"Water tap is a faucet, but tap is also a workshop tool. Confirm context before merging."},
+    {"dimension":"objects","a":"spoon","b":"ladle","decision":"keep_separate","reason":"Related utensils remain separate in the fine-grained inventory."},
+    {"dimension":"objects","a":"bottle","b":"lid","decision":"keep_separate","reason":"Whole object versus contacted part; reference to the bottle does not make its lid a bottle."},
+    {"dimension":"objects","a":"tissue","b":"tissue box","decision":"keep_separate","reason":"Contents versus container."},
+    {"dimension":"objects","a":"towel","b":"paper towel","decision":"keep_separate","reason":"Preserve material/function subtype; embedding similarity alone cannot choose taxonomy granularity."},
+    {"dimension":"objects","a":"cup","b":"mug","decision":"keep_separate","reason":"May share a coarse STA ID but remain separate fine-grained object phrases."},
+    {"dimension":"objects","a":"screw","b":"bolt","decision":"keep_separate","reason":"Related fasteners can share a coarse ID without being synonyms."},
+    {"dimension":"objects","a":"cloth","b":"rag","decision":"context_required","reason":"Cloth can be material, clothing, or a cleaning implement. Do not relabel all cloth as towel or garment."},
+    {"dimension":"objects","a":"paint roller","b":"paint","decision":"keep_separate","reason":"Application tool is distinct from the substance."},
+    {"dimension":"objects","a":"rolling pin","b":"pin","decision":"keep_separate","reason":"Compound noun has a different meaning; no head-word collapse."},
+    {"dimension":"objects","a":"chopsticks","b":"chopstick","decision":"normalize_plural","reason":"Count form of the same object concept; keep original phrase and instance plurality in the source."},
+    {"dimension":"objects","a":"wood spoon","b":"wooden spoon","decision":"normalize_wording","reason":"Equivalent material modifier; do not merge either into wood."}
+  ],
+  "event_decisions": [
+    {"event_id":"fd8e15f6-00a3-42ff-a6ec-4ac37e037274_1292","dimension":"objects","proposed_label":"spoon","proposed_id":71,"status":"text_supported_candidate","reason":"Description says pick a spoon from the dish rack. Stored ID 106 follows the source location (rack), not the picked object. ID 71 has 412 other exact spoon occurrences; confirm against STA taxonomy."},
+    {"event_id":"7900e0a2-7f7e-4dc9-9ff1-f7f70e833938_6898","dimension":"objects","proposed_label":"lid","proposed_id":37,"status":"text_supported_candidate","reason":"Description says open the lid of the bottle. Stored bottle ID 5 loses the part; confirm contacted part visually if needed."},
+    {"event_id":"08ccbc0d-12db-4adf-9e22-3b52d1e8ef97_971","dimension":"objects","proposed_label":"jar","proposed_id":16,"status":"text_supported_candidate","reason":"Description explicitly identifies jar, not jug. ID 16 is the stored majority for exact jar; confirm STA container taxonomy before assignment."},
+    {"event_id":"0e397b67-e8cf-46b9-b17c-e20de0fbd405_3499","dimension":"objects","proposed_label":"paint roller","proposed_id":null,"status":"taxonomy_required","reason":"ID 113 is predominantly seasoning in this corpus. The description explicitly names a paint roller. Do not invent a canonical ID or force it into paint."},
+    {"event_id":"f9111a88-f6a9-4530-bd05-61fdcd4b4fe7_1545","dimension":"objects","proposed_label":"rolling pin","proposed_id":null,"status":"taxonomy_required","reason":"A rolling pin is not a nut (tool), the dominant label for ID 46. Preserve rolling pin as an unmapped specific concept until taxonomy is available."},
+    {"event_id":"4b2cf519-4ac9-4d69-989e-c5c1d177738d_2422","dimension":"objects","proposed_label":"clothes iron","proposed_id":null,"status":"taxonomy_required","reason":"Description says pick up the iron from the ironing board. Context supports clothes iron, not artwork (ID 0); the correct STA ID remains unverified."},
+    {"event_id":"2e168c7b-3c33-448a-9000-c2aea9fedb46_2671","dimension":"objects","proposed_label":null,"proposed_id":null,"status":"visual_review_required","reason":"Description only says pick iron 2. Text cannot distinguish metal, clothes iron, or soldering iron."},
+    {"event_id":"8de583fc-d441-4485-b1ca-67f49e0567a1_3483","dimension":"objects","proposed_label":null,"proposed_id":null,"status":"visual_review_required","reason":"Raw object says iron but description says iron a blue shirt. Contact annotation must resolve tool versus acted-on garment; do not repair by majority vote."},
+    {"event_id":"aed55311-b5e7-4111-afc4-4b26e501f678_2704","dimension":"actions","proposed_label":"unscrew","proposed_id":70,"status":"text_supported_candidate","reason":"Description says use a screwdriver to remove a screw. Preserve removal direction despite embedding proximity to screw. Stored ID 70 already agrees."},
+    {"event_id":"cf09a141-d9f1-461c-b148-4540fa66ccce_5985","dimension":"actions","proposed_label":"turn on and off","proposed_id":null,"status":"multi_action_review_required","reason":"Description contains two opposed actions. Do not silently count the event as only turn on or duplicate it into two events."},
+    {"event_id":"b7922084-d477-4c0b-bd7d-e3852b2fe078_334","dimension":"actions","proposed_label":"take off","proposed_id":null,"status":"taxonomy_required","reason":"Removing worn gloves differs from generic taking/picking up, despite stored ID 62."},
+    {"event_id":"f9c9c2ec-c5fd-46b8-bbb6-49c7dda702af_1486","dimension":"actions","proposed_label":"draw","proposed_id":null,"status":"visual_review_required","reason":"Description says draw a pattern; raw action says hold chalk powder. Need contact timing/video to distinguish intended action from preparatory grasp."}
+  ]
+}

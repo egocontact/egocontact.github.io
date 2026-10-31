@@ -1,0 +1,333 @@
+{
+  "event": "8f339122-0193-4191-a0ea-d761b08ffffe_10009",
+  "action": "hold the cup from the table",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 9994,
+  "observation": 9994,
+  "contact": 10009,
+  "anchors": {
+    "9994": {
+      "contact_thumb": {
+        "x": 556.4467005076143,
+        "y": 767.2727272727273,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 684.3654822335026,
+        "y": 647.2727272727273,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          643.68,
+          840.24,
+          771.12,
+          708.48,
+          563.76,
+          581.04,
+          490.32,
+          721.44
+        ]
+      }
+    },
+    "10009": {
+      "contact_thumb": {
+        "x": 565.5837563451777,
+        "y": 818.1818181818182,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 711.7766497461929,
+        "y": 690.9090909090909,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 9994,
+      "src": "/data/spacetime/8f339122-0193-4191-a0ea-d761b08ffffe_10009/000.jpg"
+    },
+    {
+      "index": 9995,
+      "src": "/data/spacetime/8f339122-0193-4191-a0ea-d761b08ffffe_10009/001.jpg"
+    },
+    {
+      "index": 9996,
+      "src": "/data/spacetime/8f339122-0193-4191-a0ea-d761b08ffffe_10009/002.jpg"
+    },
+    {
+      "index": 9997,
+      "src": "/data/spacetime/8f339122-0193-4191-a0ea-d761b08ffffe_10009/003.jpg"
+    },
+    {
+      "index": 9998,
+      "src": "/data/spacetime/8f339122-0193-4191-a0ea-d761b08ffffe_10009/004.jpg"
+    },
+    {
+      "index": 9999,
+      "src": "/data/spacetime/8f339122-0193-4191-a0ea-d761b08ffffe_10009/005.jpg"
+    },
+    {
+      "index": 10000,
+      "src": "/data/spacetime/8f339122-0193-4191-a0ea-d761b08ffffe_10009/006.jpg"
+    },
+    {
+      "index": 10001,
+      "src": "/data/spacetime/8f339122-0193-4191-a0ea-d761b08ffffe_10009/007.jpg"
+    },
+    {
+      "index": 10002,
+      "src": "/data/spacetime/8f339122-0193-4191-a0ea-d761b08ffffe_10009/008.jpg"
+    },
+    {
+      "index": 10003,
+      "src": "/data/spacetime/8f339122-0193-4191-a0ea-d761b08ffffe_10009/009.jpg"
+    },
+    {
+      "index": 10004,
+      "src": "/data/spacetime/8f339122-0193-4191-a0ea-d761b08ffffe_10009/010.jpg"
+    },
+    {
+      "index": 10005,
+      "src": "/data/spacetime/8f339122-0193-4191-a0ea-d761b08ffffe_10009/011.jpg"
+    },
+    {
+      "index": 10006,
+      "src": "/data/spacetime/8f339122-0193-4191-a0ea-d761b08ffffe_10009/012.jpg"
+    },
+    {
+      "index": 10007,
+      "src": "/data/spacetime/8f339122-0193-4191-a0ea-d761b08ffffe_10009/013.jpg"
+    },
+    {
+      "index": 10008,
+      "src": "/data/spacetime/8f339122-0193-4191-a0ea-d761b08ffffe_10009/014.jpg"
+    },
+    {
+      "index": 10009,
+      "src": "/data/spacetime/8f339122-0193-4191-a0ea-d761b08ffffe_10009/015.jpg"
+    }
+  ],
+  "estimated_tracks": {
+    "method": "Forward pyramidal Lucas\u2013Kanade with smooth endpoint correction",
+    "purpose": "Visualization only; intermediate positions are not dataset annotations",
+    "opencv_version": "4.6.0",
+    "tracking_resolution": [
+      480,
+      360
+    ],
+    "max_roundtrip_error_px": {
+      "contact_thumb": 0.6247740983963013,
+      "contact_index": 0.24009984731674194
+    },
+    "uncorrected_endpoint_error_px": {
+      "contact_thumb": 10.294805526733398,
+      "contact_index": 13.214818000793457
+    },
+    "paths": {
+      "contact_thumb": [
+        {
+          "frame": 9994,
+          "x": 556.4467005076143,
+          "y": 767.2727272727273,
+          "annotated": true
+        },
+        {
+          "frame": 9995,
+          "x": 557.9475143912911,
+          "y": 768.6370256225625,
+          "annotated": false
+        },
+        {
+          "frame": 9996,
+          "x": 559.5292970318673,
+          "y": 770.6425127318482,
+          "annotated": false
+        },
+        {
+          "frame": 9997,
+          "x": 560.9281132879223,
+          "y": 772.8781351695616,
+          "annotated": false
+        },
+        {
+          "frame": 9998,
+          "x": 563.354302438164,
+          "y": 775.9745715464646,
+          "annotated": false
+        },
+        {
+          "frame": 9999,
+          "x": 565.7438050253714,
+          "y": 780.0694890134023,
+          "annotated": false
+        },
+        {
+          "frame": 10000,
+          "x": 567.5338585744541,
+          "y": 784.9398369585325,
+          "annotated": false
+        },
+        {
+          "frame": 10001,
+          "x": 568.9408143566338,
+          "y": 789.9272315310337,
+          "annotated": false
+        },
+        {
+          "frame": 10002,
+          "x": 569.8521204546919,
+          "y": 794.7373025411111,
+          "annotated": false
+        },
+        {
+          "frame": 10003,
+          "x": 570.4145938401641,
+          "y": 800.2211875773314,
+          "annotated": false
+        },
+        {
+          "frame": 10004,
+          "x": 570.925152188121,
+          "y": 805.1119517816187,
+          "annotated": false
+        },
+        {
+          "frame": 10005,
+          "x": 570.4247928009062,
+          "y": 808.7449857173997,
+          "annotated": false
+        },
+        {
+          "frame": 10006,
+          "x": 569.6017297286472,
+          "y": 812.0680151051279,
+          "annotated": false
+        },
+        {
+          "frame": 10007,
+          "x": 568.3237272168215,
+          "y": 814.6511717121715,
+          "annotated": false
+        },
+        {
+          "frame": 10008,
+          "x": 566.9885940507738,
+          "y": 816.7713743942102,
+          "annotated": false
+        },
+        {
+          "frame": 10009,
+          "x": 565.5837563451777,
+          "y": 818.1818181818182,
+          "annotated": true
+        }
+      ],
+      "contact_index": [
+        {
+          "frame": 9994,
+          "x": 684.3654822335026,
+          "y": 647.2727272727273,
+          "annotated": true
+        },
+        {
+          "frame": 9995,
+          "x": 685.6230567017147,
+          "y": 649.350896473573,
+          "annotated": false
+        },
+        {
+          "frame": 9996,
+          "x": 687.2051666670425,
+          "y": 651.249207221578,
+          "annotated": false
+        },
+        {
+          "frame": 9997,
+          "x": 689.4600823577617,
+          "y": 653.68845476173,
+          "annotated": false
+        },
+        {
+          "frame": 9998,
+          "x": 693.2063587218086,
+          "y": 656.3868818595876,
+          "annotated": false
+        },
+        {
+          "frame": 9999,
+          "x": 697.097694814605,
+          "y": 660.0261864521912,
+          "annotated": false
+        },
+        {
+          "frame": 10000,
+          "x": 700.6168454529986,
+          "y": 663.8858906150492,
+          "annotated": false
+        },
+        {
+          "frame": 10001,
+          "x": 704.2417436468347,
+          "y": 667.8727899645464,
+          "annotated": false
+        },
+        {
+          "frame": 10002,
+          "x": 707.6117451604415,
+          "y": 671.7220645215956,
+          "annotated": false
+        },
+        {
+          "frame": 10003,
+          "x": 710.2691140862372,
+          "y": 676.1386208407098,
+          "annotated": false
+        },
+        {
+          "frame": 10004,
+          "x": 712.6687579220572,
+          "y": 679.9614750290802,
+          "annotated": false
+        },
+        {
+          "frame": 10005,
+          "x": 713.0853016379418,
+          "y": 682.5384932763893,
+          "annotated": false
+        },
+        {
+          "frame": 10006,
+          "x": 713.4641312029323,
+          "y": 685.2697878049079,
+          "annotated": false
+        },
+        {
+          "frame": 10007,
+          "x": 713.1001352285372,
+          "y": 687.717046209079,
+          "annotated": false
+        },
+        {
+          "frame": 10008,
+          "x": 712.6270236974981,
+          "y": 689.5339665786502,
+          "annotated": false
+        },
+        {
+          "frame": 10009,
+          "x": 711.7766497461929,
+          "y": 690.9090909090909,
+          "annotated": true
+        }
+      ]
+    }
+  }
+}

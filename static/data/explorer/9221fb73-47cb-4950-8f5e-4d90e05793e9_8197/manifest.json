@@ -1,0 +1,118 @@
+{
+  "event": "9221fb73-47cb-4950-8f5e-4d90e05793e9_8197",
+  "action": "grind the yellow powder on the stone with the grinding stone",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 8182,
+  "observation": 8182,
+  "contact": 8197,
+  "anchors": {
+    "8182": {
+      "contact_thumb": {
+        "x": 993.7469268164282,
+        "y": 224.34239001368033,
+        "occluded": true,
+        "hard_sample": true
+      },
+      "contact_index": {
+        "x": 954.155411661862,
+        "y": 266.6179627797053,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          652.4382959653253,
+          212.175899486008,
+          642.5752822666952,
+          305.9280411193604,
+          1019.835556239298,
+          335.5339805825243,
+          1037.0958302119006,
+          241.7818389491719
+        ]
+      }
+    },
+    "8197": {
+      "contact_thumb": {
+        "x": 939.4500435289012,
+        "y": 224.34239001368033,
+        "occluded": true,
+        "hard_sample": true
+      },
+      "contact_index": {
+        "x": 905.5144591107015,
+        "y": 272.25470581517527,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 8182,
+      "src": "/data/explorer/9221fb73-47cb-4950-8f5e-4d90e05793e9_8197/000.webp"
+    },
+    {
+      "index": 8183,
+      "src": "/data/explorer/9221fb73-47cb-4950-8f5e-4d90e05793e9_8197/001.webp"
+    },
+    {
+      "index": 8184,
+      "src": "/data/explorer/9221fb73-47cb-4950-8f5e-4d90e05793e9_8197/002.webp"
+    },
+    {
+      "index": 8185,
+      "src": "/data/explorer/9221fb73-47cb-4950-8f5e-4d90e05793e9_8197/003.webp"
+    },
+    {
+      "index": 8186,
+      "src": "/data/explorer/9221fb73-47cb-4950-8f5e-4d90e05793e9_8197/004.webp"
+    },
+    {
+      "index": 8187,
+      "src": "/data/explorer/9221fb73-47cb-4950-8f5e-4d90e05793e9_8197/005.webp"
+    },
+    {
+      "index": 8188,
+      "src": "/data/explorer/9221fb73-47cb-4950-8f5e-4d90e05793e9_8197/006.webp"
+    },
+    {
+      "index": 8189,
+      "src": "/data/explorer/9221fb73-47cb-4950-8f5e-4d90e05793e9_8197/007.webp"
+    },
+    {
+      "index": 8190,
+      "src": "/data/explorer/9221fb73-47cb-4950-8f5e-4d90e05793e9_8197/008.webp"
+    },
+    {
+      "index": 8191,
+      "src": "/data/explorer/9221fb73-47cb-4950-8f5e-4d90e05793e9_8197/009.webp"
+    },
+    {
+      "index": 8192,
+      "src": "/data/explorer/9221fb73-47cb-4950-8f5e-4d90e05793e9_8197/010.webp"
+    },
+    {
+      "index": 8193,
+      "src": "/data/explorer/9221fb73-47cb-4950-8f5e-4d90e05793e9_8197/011.webp"
+    },
+    {
+      "index": 8194,
+      "src": "/data/explorer/9221fb73-47cb-4950-8f5e-4d90e05793e9_8197/012.webp"
+    },
+    {
+      "index": 8195,
+      "src": "/data/explorer/9221fb73-47cb-4950-8f5e-4d90e05793e9_8197/013.webp"
+    },
+    {
+      "index": 8196,
+      "src": "/data/explorer/9221fb73-47cb-4950-8f5e-4d90e05793e9_8197/014.webp"
+    },
+    {
+      "index": 8197,
+      "src": "/data/explorer/9221fb73-47cb-4950-8f5e-4d90e05793e9_8197/015.webp"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "event": "cc2d7790-67f7-4e52-9fa9-33121c9431a2_13081",
+  "action": "hold the electrical wire from the spool",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 13066,
+  "observation": 13066,
+  "contact": 13081,
+  "anchors": {
+    "13066": {
+      "contact_thumb": {
+        "x": 925.0020250413162,
+        "y": 613.5094179416359,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 953.0418339069959,
+        "y": 638.3227427466416,
+        "occluded": true,
+        "hard_sample": true
+      }
+    },
+    "13081": {
+      "contact_thumb": {
+        "x": 1304.4741620706525,
+        "y": 718.96604836291,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1338.74503957315,
+        "y": 762.3893667716698,
+        "occluded": true,
+        "hard_sample": true
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 13066,
+      "src": "/data/explorer/cc2d7790-67f7-4e52-9fa9-33121c9431a2_13081/000.webp"
+    },
+    {
+      "index": 13067,
+      "src": "/data/explorer/cc2d7790-67f7-4e52-9fa9-33121c9431a2_13081/001.webp"
+    },
+    {
+      "index": 13068,
+      "src": "/data/explorer/cc2d7790-67f7-4e52-9fa9-33121c9431a2_13081/002.webp"
+    },
+    {
+      "index": 13069,
+      "src": "/data/explorer/cc2d7790-67f7-4e52-9fa9-33121c9431a2_13081/003.webp"
+    },
+    {
+      "index": 13070,
+      "src": "/data/explorer/cc2d7790-67f7-4e52-9fa9-33121c9431a2_13081/004.webp"
+    },
+    {
+      "index": 13071,
+      "src": "/data/explorer/cc2d7790-67f7-4e52-9fa9-33121c9431a2_13081/005.webp"
+    },
+    {
+      "index": 13072,
+      "src": "/data/explorer/cc2d7790-67f7-4e52-9fa9-33121c9431a2_13081/006.webp"
+    },
+    {
+      "index": 13073,
+      "src": "/data/explorer/cc2d7790-67f7-4e52-9fa9-33121c9431a2_13081/007.webp"
+    },
+    {
+      "index": 13074,
+      "src": "/data/explorer/cc2d7790-67f7-4e52-9fa9-33121c9431a2_13081/008.webp"
+    },
+    {
+      "index": 13075,
+      "src": "/data/explorer/cc2d7790-67f7-4e52-9fa9-33121c9431a2_13081/009.webp"
+    },
+    {
+      "index": 13076,
+      "src": "/data/explorer/cc2d7790-67f7-4e52-9fa9-33121c9431a2_13081/010.webp"
+    },
+    {
+      "index": 13077,
+      "src": "/data/explorer/cc2d7790-67f7-4e52-9fa9-33121c9431a2_13081/011.webp"
+    },
+    {
+      "index": 13078,
+      "src": "/data/explorer/cc2d7790-67f7-4e52-9fa9-33121c9431a2_13081/012.webp"
+    },
+    {
+      "index": 13079,
+      "src": "/data/explorer/cc2d7790-67f7-4e52-9fa9-33121c9431a2_13081/013.webp"
+    },
+    {
+      "index": 13080,
+      "src": "/data/explorer/cc2d7790-67f7-4e52-9fa9-33121c9431a2_13081/014.webp"
+    },
+    {
+      "index": 13081,
+      "src": "/data/explorer/cc2d7790-67f7-4e52-9fa9-33121c9431a2_13081/015.webp"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "event": "a543bff4-5ee5-4150-983a-b536b7fa1100_3653",
+  "action": "pick up the blue towel from the table",
+  "width": 1920,
+  "height": 1440,
+  "fps": 30.0,
+  "first": 3638,
+  "observation": 3638,
+  "contact": 3653,
+  "anchors": {
+    "3638": {
+      "contact_thumb": {
+        "x": 473.8775510204082,
+        "y": 654.1016949152543,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 439.59183673469386,
+        "y": 585.7627118644068,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          86.486,
+          540.541,
+          168.649,
+          443.243,
+          484.324,
+          657.297,
+          350.27,
+          767.568
+        ]
+      }
+    },
+    "3653": {
+      "contact_thumb": {
+        "x": 735.9183673469388,
+        "y": 600.406779661017,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 716.3265306122449,
+        "y": 532.0677966101695,
+        "occluded": true,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 3638,
+      "src": "/data/explorer/a543bff4-5ee5-4150-983a-b536b7fa1100_3653/000.webp"
+    },
+    {
+      "index": 3639,
+      "src": "/data/explorer/a543bff4-5ee5-4150-983a-b536b7fa1100_3653/001.webp"
+    },
+    {
+      "index": 3640,
+      "src": "/data/explorer/a543bff4-5ee5-4150-983a-b536b7fa1100_3653/002.webp"
+    },
+    {
+      "index": 3641,
+      "src": "/data/explorer/a543bff4-5ee5-4150-983a-b536b7fa1100_3653/003.webp"
+    },
+    {
+      "index": 3642,
+      "src": "/data/explorer/a543bff4-5ee5-4150-983a-b536b7fa1100_3653/004.webp"
+    },
+    {
+      "index": 3643,
+      "src": "/data/explorer/a543bff4-5ee5-4150-983a-b536b7fa1100_3653/005.webp"
+    },
+    {
+      "index": 3644,
+      "src": "/data/explorer/a543bff4-5ee5-4150-983a-b536b7fa1100_3653/006.webp"
+    },
+    {
+      "index": 3645,
+      "src": "/data/explorer/a543bff4-5ee5-4150-983a-b536b7fa1100_3653/007.webp"
+    },
+    {
+      "index": 3646,
+      "src": "/data/explorer/a543bff4-5ee5-4150-983a-b536b7fa1100_3653/008.webp"
+    },
+    {
+      "index": 3647,
+      "src": "/data/explorer/a543bff4-5ee5-4150-983a-b536b7fa1100_3653/009.webp"
+    },
+    {
+      "index": 3648,
+      "src": "/data/explorer/a543bff4-5ee5-4150-983a-b536b7fa1100_3653/010.webp"
+    },
+    {
+      "index": 3649,
+      "src": "/data/explorer/a543bff4-5ee5-4150-983a-b536b7fa1100_3653/011.webp"
+    },
+    {
+      "index": 3650,
+      "src": "/data/explorer/a543bff4-5ee5-4150-983a-b536b7fa1100_3653/012.webp"
+    },
+    {
+      "index": 3651,
+      "src": "/data/explorer/a543bff4-5ee5-4150-983a-b536b7fa1100_3653/013.webp"
+    },
+    {
+      "index": 3652,
+      "src": "/data/explorer/a543bff4-5ee5-4150-983a-b536b7fa1100_3653/014.webp"
+    },
+    {
+      "index": 3653,
+      "src": "/data/explorer/a543bff4-5ee5-4150-983a-b536b7fa1100_3653/015.webp"
+    }
+  ]
+}

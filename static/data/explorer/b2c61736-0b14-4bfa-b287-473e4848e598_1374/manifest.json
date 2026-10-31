@@ -1,0 +1,118 @@
+{
+  "event": "b2c61736-0b14-4bfa-b287-473e4848e598_1374",
+  "action": "pick up the paint roller from the paint tray",
+  "width": 2560,
+  "height": 1920,
+  "fps": 30.0,
+  "first": 1359,
+  "observation": 1359,
+  "contact": 1374,
+  "anchors": {
+    "1359": {
+      "contact_thumb": {
+        "x": 1568.3274702655606,
+        "y": 1228.306292162101,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1568.3274702655606,
+        "y": 1162.9131863160474,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          1539.0401528605746,
+          998.6576131020063,
+          1424.5894431593397,
+          1122.2662999019246,
+          1598.5545219052167,
+          1369.4836735017616,
+          1713.0052316064516,
+          1282.499782790708
+        ]
+      }
+    },
+    "1374": {
+      "contact_thumb": {
+        "x": 1622.1069432423851,
+        "y": 1124.7672079058493,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1643.9717128754953,
+        "y": 1070.272953034138,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 1359,
+      "src": "/data/explorer/b2c61736-0b14-4bfa-b287-473e4848e598_1374/000.webp"
+    },
+    {
+      "index": 1360,
+      "src": "/data/explorer/b2c61736-0b14-4bfa-b287-473e4848e598_1374/001.webp"
+    },
+    {
+      "index": 1361,
+      "src": "/data/explorer/b2c61736-0b14-4bfa-b287-473e4848e598_1374/002.webp"
+    },
+    {
+      "index": 1362,
+      "src": "/data/explorer/b2c61736-0b14-4bfa-b287-473e4848e598_1374/003.webp"
+    },
+    {
+      "index": 1363,
+      "src": "/data/explorer/b2c61736-0b14-4bfa-b287-473e4848e598_1374/004.webp"
+    },
+    {
+      "index": 1364,
+      "src": "/data/explorer/b2c61736-0b14-4bfa-b287-473e4848e598_1374/005.webp"
+    },
+    {
+      "index": 1365,
+      "src": "/data/explorer/b2c61736-0b14-4bfa-b287-473e4848e598_1374/006.webp"
+    },
+    {
+      "index": 1366,
+      "src": "/data/explorer/b2c61736-0b14-4bfa-b287-473e4848e598_1374/007.webp"
+    },
+    {
+      "index": 1367,
+      "src": "/data/explorer/b2c61736-0b14-4bfa-b287-473e4848e598_1374/008.webp"
+    },
+    {
+      "index": 1368,
+      "src": "/data/explorer/b2c61736-0b14-4bfa-b287-473e4848e598_1374/009.webp"
+    },
+    {
+      "index": 1369,
+      "src": "/data/explorer/b2c61736-0b14-4bfa-b287-473e4848e598_1374/010.webp"
+    },
+    {
+      "index": 1370,
+      "src": "/data/explorer/b2c61736-0b14-4bfa-b287-473e4848e598_1374/011.webp"
+    },
+    {
+      "index": 1371,
+      "src": "/data/explorer/b2c61736-0b14-4bfa-b287-473e4848e598_1374/012.webp"
+    },
+    {
+      "index": 1372,
+      "src": "/data/explorer/b2c61736-0b14-4bfa-b287-473e4848e598_1374/013.webp"
+    },
+    {
+      "index": 1373,
+      "src": "/data/explorer/b2c61736-0b14-4bfa-b287-473e4848e598_1374/014.webp"
+    },
+    {
+      "index": 1374,
+      "src": "/data/explorer/b2c61736-0b14-4bfa-b287-473e4848e598_1374/015.webp"
+    }
+  ]
+}

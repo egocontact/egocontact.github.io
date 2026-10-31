@@ -1,0 +1,118 @@
+{
+  "event": "f78c0ab8-148b-49be-a7a9-df723e1a1561_1300",
+  "action": "pick spoon from bowl",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 1285,
+  "observation": 1285,
+  "contact": 1300,
+  "anchors": {
+    "1285": {
+      "contact_index": {
+        "x": 1036.1664073391778,
+        "y": 656.6805636322542,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 1095.5536800710272,
+        "y": 625.6784769371693,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          1017.3698028146404,
+          604.948022168136,
+          1148.0547343214898,
+          607.4151837900664,
+          1056.821857609161,
+          711.0359719111401,
+          1135.725967198202,
+          681.4300324479761
+        ]
+      }
+    },
+    "1300": {
+      "contact_index": {
+        "x": 1049.74069288805,
+        "y": 693.3193933628093,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 1151.547446142649,
+        "y": 653.8621921145192,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 1285,
+      "src": "/data/explorer/f78c0ab8-148b-49be-a7a9-df723e1a1561_1300/000.webp"
+    },
+    {
+      "index": 1286,
+      "src": "/data/explorer/f78c0ab8-148b-49be-a7a9-df723e1a1561_1300/001.webp"
+    },
+    {
+      "index": 1287,
+      "src": "/data/explorer/f78c0ab8-148b-49be-a7a9-df723e1a1561_1300/002.webp"
+    },
+    {
+      "index": 1288,
+      "src": "/data/explorer/f78c0ab8-148b-49be-a7a9-df723e1a1561_1300/003.webp"
+    },
+    {
+      "index": 1289,
+      "src": "/data/explorer/f78c0ab8-148b-49be-a7a9-df723e1a1561_1300/004.webp"
+    },
+    {
+      "index": 1290,
+      "src": "/data/explorer/f78c0ab8-148b-49be-a7a9-df723e1a1561_1300/005.webp"
+    },
+    {
+      "index": 1291,
+      "src": "/data/explorer/f78c0ab8-148b-49be-a7a9-df723e1a1561_1300/006.webp"
+    },
+    {
+      "index": 1292,
+      "src": "/data/explorer/f78c0ab8-148b-49be-a7a9-df723e1a1561_1300/007.webp"
+    },
+    {
+      "index": 1293,
+      "src": "/data/explorer/f78c0ab8-148b-49be-a7a9-df723e1a1561_1300/008.webp"
+    },
+    {
+      "index": 1294,
+      "src": "/data/explorer/f78c0ab8-148b-49be-a7a9-df723e1a1561_1300/009.webp"
+    },
+    {
+      "index": 1295,
+      "src": "/data/explorer/f78c0ab8-148b-49be-a7a9-df723e1a1561_1300/010.webp"
+    },
+    {
+      "index": 1296,
+      "src": "/data/explorer/f78c0ab8-148b-49be-a7a9-df723e1a1561_1300/011.webp"
+    },
+    {
+      "index": 1297,
+      "src": "/data/explorer/f78c0ab8-148b-49be-a7a9-df723e1a1561_1300/012.webp"
+    },
+    {
+      "index": 1298,
+      "src": "/data/explorer/f78c0ab8-148b-49be-a7a9-df723e1a1561_1300/013.webp"
+    },
+    {
+      "index": 1299,
+      "src": "/data/explorer/f78c0ab8-148b-49be-a7a9-df723e1a1561_1300/014.webp"
+    },
+    {
+      "index": 1300,
+      "src": "/data/explorer/f78c0ab8-148b-49be-a7a9-df723e1a1561_1300/015.webp"
+    }
+  ]
+}

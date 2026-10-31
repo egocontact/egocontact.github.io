@@ -1,0 +1,118 @@
+{
+  "event": "07307d95-1973-4da2-aa56-f24af3db66fd_1664",
+  "action": "pick up the Wooden stick from the truck bed",
+  "width": 2560,
+  "height": 1920,
+  "fps": 30.0,
+  "first": 1649,
+  "observation": 1649,
+  "contact": 1664,
+  "anchors": {
+    "1649": {
+      "contact_thumb": {
+        "x": 1661.0838294836956,
+        "y": 619.2901987449247,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1751.5787212655612,
+        "y": 574.1962544611648,
+        "occluded": true,
+        "hard_sample": true
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          1650.8492080479452,
+          641.2427050613935,
+          1729.7533176369864,
+          667.559095695317,
+          1830.5752354452056,
+          255.26897576384923,
+          1795.5067422945206,
+          220.18045491861793
+        ]
+      }
+    },
+    "1664": {
+      "contact_thumb": {
+        "x": 1599.7484948877066,
+        "y": 720.5009597268327,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1725.4358445847422,
+        "y": 625.3026329055616,
+        "occluded": true,
+        "hard_sample": true
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 1649,
+      "src": "/data/explorer/07307d95-1973-4da2-aa56-f24af3db66fd_1664/000.webp"
+    },
+    {
+      "index": 1650,
+      "src": "/data/explorer/07307d95-1973-4da2-aa56-f24af3db66fd_1664/001.webp"
+    },
+    {
+      "index": 1651,
+      "src": "/data/explorer/07307d95-1973-4da2-aa56-f24af3db66fd_1664/002.webp"
+    },
+    {
+      "index": 1652,
+      "src": "/data/explorer/07307d95-1973-4da2-aa56-f24af3db66fd_1664/003.webp"
+    },
+    {
+      "index": 1653,
+      "src": "/data/explorer/07307d95-1973-4da2-aa56-f24af3db66fd_1664/004.webp"
+    },
+    {
+      "index": 1654,
+      "src": "/data/explorer/07307d95-1973-4da2-aa56-f24af3db66fd_1664/005.webp"
+    },
+    {
+      "index": 1655,
+      "src": "/data/explorer/07307d95-1973-4da2-aa56-f24af3db66fd_1664/006.webp"
+    },
+    {
+      "index": 1656,
+      "src": "/data/explorer/07307d95-1973-4da2-aa56-f24af3db66fd_1664/007.webp"
+    },
+    {
+      "index": 1657,
+      "src": "/data/explorer/07307d95-1973-4da2-aa56-f24af3db66fd_1664/008.webp"
+    },
+    {
+      "index": 1658,
+      "src": "/data/explorer/07307d95-1973-4da2-aa56-f24af3db66fd_1664/009.webp"
+    },
+    {
+      "index": 1659,
+      "src": "/data/explorer/07307d95-1973-4da2-aa56-f24af3db66fd_1664/010.webp"
+    },
+    {
+      "index": 1660,
+      "src": "/data/explorer/07307d95-1973-4da2-aa56-f24af3db66fd_1664/011.webp"
+    },
+    {
+      "index": 1661,
+      "src": "/data/explorer/07307d95-1973-4da2-aa56-f24af3db66fd_1664/012.webp"
+    },
+    {
+      "index": 1662,
+      "src": "/data/explorer/07307d95-1973-4da2-aa56-f24af3db66fd_1664/013.webp"
+    },
+    {
+      "index": 1663,
+      "src": "/data/explorer/07307d95-1973-4da2-aa56-f24af3db66fd_1664/014.webp"
+    },
+    {
+      "index": 1664,
+      "src": "/data/explorer/07307d95-1973-4da2-aa56-f24af3db66fd_1664/015.webp"
+    }
+  ]
+}

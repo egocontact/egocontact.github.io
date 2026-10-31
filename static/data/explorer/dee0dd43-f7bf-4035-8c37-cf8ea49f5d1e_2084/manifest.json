@@ -1,0 +1,106 @@
+{
+  "event": "dee0dd43-f7bf-4035-8c37-cf8ea49f5d1e_2084",
+  "action": "pick up the plastic bag from the shelf",
+  "width": 1920,
+  "height": 1440,
+  "fps": 30.0,
+  "first": 2069,
+  "observation": 2069,
+  "contact": 2084,
+  "anchors": {
+    "2069": {
+      "contact_index": {
+        "x": 827.8348945832518,
+        "y": 930.5394973204652,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 792.1485463967367,
+        "y": 1021.4738526355162,
+        "occluded": true,
+        "hard_sample": false
+      }
+    },
+    "2084": {
+      "contact_index": {
+        "x": 804.9804671756219,
+        "y": 906.8174915861041,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 793.085017780117,
+        "y": 1001.7055145235486,
+        "occluded": true,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 2069,
+      "src": "/data/explorer/dee0dd43-f7bf-4035-8c37-cf8ea49f5d1e_2084/000.webp"
+    },
+    {
+      "index": 2070,
+      "src": "/data/explorer/dee0dd43-f7bf-4035-8c37-cf8ea49f5d1e_2084/001.webp"
+    },
+    {
+      "index": 2071,
+      "src": "/data/explorer/dee0dd43-f7bf-4035-8c37-cf8ea49f5d1e_2084/002.webp"
+    },
+    {
+      "index": 2072,
+      "src": "/data/explorer/dee0dd43-f7bf-4035-8c37-cf8ea49f5d1e_2084/003.webp"
+    },
+    {
+      "index": 2073,
+      "src": "/data/explorer/dee0dd43-f7bf-4035-8c37-cf8ea49f5d1e_2084/004.webp"
+    },
+    {
+      "index": 2074,
+      "src": "/data/explorer/dee0dd43-f7bf-4035-8c37-cf8ea49f5d1e_2084/005.webp"
+    },
+    {
+      "index": 2075,
+      "src": "/data/explorer/dee0dd43-f7bf-4035-8c37-cf8ea49f5d1e_2084/006.webp"
+    },
+    {
+      "index": 2076,
+      "src": "/data/explorer/dee0dd43-f7bf-4035-8c37-cf8ea49f5d1e_2084/007.webp"
+    },
+    {
+      "index": 2077,
+      "src": "/data/explorer/dee0dd43-f7bf-4035-8c37-cf8ea49f5d1e_2084/008.webp"
+    },
+    {
+      "index": 2078,
+      "src": "/data/explorer/dee0dd43-f7bf-4035-8c37-cf8ea49f5d1e_2084/009.webp"
+    },
+    {
+      "index": 2079,
+      "src": "/data/explorer/dee0dd43-f7bf-4035-8c37-cf8ea49f5d1e_2084/010.webp"
+    },
+    {
+      "index": 2080,
+      "src": "/data/explorer/dee0dd43-f7bf-4035-8c37-cf8ea49f5d1e_2084/011.webp"
+    },
+    {
+      "index": 2081,
+      "src": "/data/explorer/dee0dd43-f7bf-4035-8c37-cf8ea49f5d1e_2084/012.webp"
+    },
+    {
+      "index": 2082,
+      "src": "/data/explorer/dee0dd43-f7bf-4035-8c37-cf8ea49f5d1e_2084/013.webp"
+    },
+    {
+      "index": 2083,
+      "src": "/data/explorer/dee0dd43-f7bf-4035-8c37-cf8ea49f5d1e_2084/014.webp"
+    },
+    {
+      "index": 2084,
+      "src": "/data/explorer/dee0dd43-f7bf-4035-8c37-cf8ea49f5d1e_2084/015.webp"
+    }
+  ]
+}

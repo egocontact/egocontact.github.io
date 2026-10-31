@@ -1,0 +1,118 @@
+{
+  "event": "4288683d-f0f3-4cff-88e4-ff2ce15609ee_2796",
+  "action": "take the tissue paper from the holder",
+  "width": 1920,
+  "height": 1440,
+  "fps": 30.0,
+  "first": 2781,
+  "observation": 2781,
+  "contact": 2796,
+  "anchors": {
+    "2781": {
+      "contact_index": {
+        "x": 909.8039002191375,
+        "y": 367.3619067931409,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 854.4405797189871,
+        "y": 418.895647516367,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          790.82,
+          397.377,
+          985.574,
+          478.033,
+          877.377,
+          310.82,
+          873.443,
+          560.656
+        ]
+      }
+    },
+    "2796": {
+      "contact_thumb": {
+        "x": 954.1888619854722,
+        "y": 676.0128617363345,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1037.8692493946733,
+        "y": 615.8199356913184,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 2781,
+      "src": "/data/explorer/4288683d-f0f3-4cff-88e4-ff2ce15609ee_2796/000.webp"
+    },
+    {
+      "index": 2782,
+      "src": "/data/explorer/4288683d-f0f3-4cff-88e4-ff2ce15609ee_2796/001.webp"
+    },
+    {
+      "index": 2783,
+      "src": "/data/explorer/4288683d-f0f3-4cff-88e4-ff2ce15609ee_2796/002.webp"
+    },
+    {
+      "index": 2784,
+      "src": "/data/explorer/4288683d-f0f3-4cff-88e4-ff2ce15609ee_2796/003.webp"
+    },
+    {
+      "index": 2785,
+      "src": "/data/explorer/4288683d-f0f3-4cff-88e4-ff2ce15609ee_2796/004.webp"
+    },
+    {
+      "index": 2786,
+      "src": "/data/explorer/4288683d-f0f3-4cff-88e4-ff2ce15609ee_2796/005.webp"
+    },
+    {
+      "index": 2787,
+      "src": "/data/explorer/4288683d-f0f3-4cff-88e4-ff2ce15609ee_2796/006.webp"
+    },
+    {
+      "index": 2788,
+      "src": "/data/explorer/4288683d-f0f3-4cff-88e4-ff2ce15609ee_2796/007.webp"
+    },
+    {
+      "index": 2789,
+      "src": "/data/explorer/4288683d-f0f3-4cff-88e4-ff2ce15609ee_2796/008.webp"
+    },
+    {
+      "index": 2790,
+      "src": "/data/explorer/4288683d-f0f3-4cff-88e4-ff2ce15609ee_2796/009.webp"
+    },
+    {
+      "index": 2791,
+      "src": "/data/explorer/4288683d-f0f3-4cff-88e4-ff2ce15609ee_2796/010.webp"
+    },
+    {
+      "index": 2792,
+      "src": "/data/explorer/4288683d-f0f3-4cff-88e4-ff2ce15609ee_2796/011.webp"
+    },
+    {
+      "index": 2793,
+      "src": "/data/explorer/4288683d-f0f3-4cff-88e4-ff2ce15609ee_2796/012.webp"
+    },
+    {
+      "index": 2794,
+      "src": "/data/explorer/4288683d-f0f3-4cff-88e4-ff2ce15609ee_2796/013.webp"
+    },
+    {
+      "index": 2795,
+      "src": "/data/explorer/4288683d-f0f3-4cff-88e4-ff2ce15609ee_2796/014.webp"
+    },
+    {
+      "index": 2796,
+      "src": "/data/explorer/4288683d-f0f3-4cff-88e4-ff2ce15609ee_2796/015.webp"
+    }
+  ]
+}

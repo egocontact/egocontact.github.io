@@ -1,0 +1,118 @@
+{
+  "event": "78f988e3-06d6-4fcf-ba5e-f7eedaa03fbf_2222",
+  "action": "remove the pedal from the bicycle",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 2207,
+  "observation": 2207,
+  "contact": 2222,
+  "anchors": {
+    "2207": {
+      "contact_thumb": {
+        "x": 1331.6292723188633,
+        "y": 550.6305342202804,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1403.0019686918936,
+        "y": 497.25602131796796,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          1419.8358867310142,
+          427.868840566921,
+          1323.9342533840584,
+          427.868840566921,
+          1326.3932696237239,
+          659.0163751260623,
+          1422.2949029706797,
+          661.4753914511595
+        ]
+      }
+    },
+    "2222": {
+      "contact_index": {
+        "x": 1079.5533262019171,
+        "y": 562.491537087461,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 1011.1544921777632,
+        "y": 627.7270528569541,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 2207,
+      "src": "/data/explorer/78f988e3-06d6-4fcf-ba5e-f7eedaa03fbf_2222/000.webp"
+    },
+    {
+      "index": 2208,
+      "src": "/data/explorer/78f988e3-06d6-4fcf-ba5e-f7eedaa03fbf_2222/001.webp"
+    },
+    {
+      "index": 2209,
+      "src": "/data/explorer/78f988e3-06d6-4fcf-ba5e-f7eedaa03fbf_2222/002.webp"
+    },
+    {
+      "index": 2210,
+      "src": "/data/explorer/78f988e3-06d6-4fcf-ba5e-f7eedaa03fbf_2222/003.webp"
+    },
+    {
+      "index": 2211,
+      "src": "/data/explorer/78f988e3-06d6-4fcf-ba5e-f7eedaa03fbf_2222/004.webp"
+    },
+    {
+      "index": 2212,
+      "src": "/data/explorer/78f988e3-06d6-4fcf-ba5e-f7eedaa03fbf_2222/005.webp"
+    },
+    {
+      "index": 2213,
+      "src": "/data/explorer/78f988e3-06d6-4fcf-ba5e-f7eedaa03fbf_2222/006.webp"
+    },
+    {
+      "index": 2214,
+      "src": "/data/explorer/78f988e3-06d6-4fcf-ba5e-f7eedaa03fbf_2222/007.webp"
+    },
+    {
+      "index": 2215,
+      "src": "/data/explorer/78f988e3-06d6-4fcf-ba5e-f7eedaa03fbf_2222/008.webp"
+    },
+    {
+      "index": 2216,
+      "src": "/data/explorer/78f988e3-06d6-4fcf-ba5e-f7eedaa03fbf_2222/009.webp"
+    },
+    {
+      "index": 2217,
+      "src": "/data/explorer/78f988e3-06d6-4fcf-ba5e-f7eedaa03fbf_2222/010.webp"
+    },
+    {
+      "index": 2218,
+      "src": "/data/explorer/78f988e3-06d6-4fcf-ba5e-f7eedaa03fbf_2222/011.webp"
+    },
+    {
+      "index": 2219,
+      "src": "/data/explorer/78f988e3-06d6-4fcf-ba5e-f7eedaa03fbf_2222/012.webp"
+    },
+    {
+      "index": 2220,
+      "src": "/data/explorer/78f988e3-06d6-4fcf-ba5e-f7eedaa03fbf_2222/013.webp"
+    },
+    {
+      "index": 2221,
+      "src": "/data/explorer/78f988e3-06d6-4fcf-ba5e-f7eedaa03fbf_2222/014.webp"
+    },
+    {
+      "index": 2222,
+      "src": "/data/explorer/78f988e3-06d6-4fcf-ba5e-f7eedaa03fbf_2222/015.webp"
+    }
+  ]
+}

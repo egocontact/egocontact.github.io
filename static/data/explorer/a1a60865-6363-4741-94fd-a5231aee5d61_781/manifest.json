@@ -1,0 +1,118 @@
+{
+  "event": "a1a60865-6363-4741-94fd-a5231aee5d61_781",
+  "action": "pick a clothes iron",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 766,
+  "observation": 766,
+  "contact": 781,
+  "anchors": {
+    "766": {
+      "contact_thumb": {
+        "x": 1058.7901302846442,
+        "y": 541.6909541027426,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1081.4138532301106,
+        "y": 541.6909541027426,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          1103.671172677654,
+          355.7646983531732,
+          903.9451452803938,
+          528.466011888296,
+          1007.5067891160103,
+          624.6853151435787,
+          1115.9999398009418,
+          553.1376281075992
+        ]
+      }
+    },
+    "781": {
+      "contact_thumb": {
+        "x": 1219.4186149790482,
+        "y": 699.5197590959024,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1239.2143725563315,
+        "y": 710.7932451668424,
+        "occluded": true,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 766,
+      "src": "/data/explorer/a1a60865-6363-4741-94fd-a5231aee5d61_781/000.webp"
+    },
+    {
+      "index": 767,
+      "src": "/data/explorer/a1a60865-6363-4741-94fd-a5231aee5d61_781/001.webp"
+    },
+    {
+      "index": 768,
+      "src": "/data/explorer/a1a60865-6363-4741-94fd-a5231aee5d61_781/002.webp"
+    },
+    {
+      "index": 769,
+      "src": "/data/explorer/a1a60865-6363-4741-94fd-a5231aee5d61_781/003.webp"
+    },
+    {
+      "index": 770,
+      "src": "/data/explorer/a1a60865-6363-4741-94fd-a5231aee5d61_781/004.webp"
+    },
+    {
+      "index": 771,
+      "src": "/data/explorer/a1a60865-6363-4741-94fd-a5231aee5d61_781/005.webp"
+    },
+    {
+      "index": 772,
+      "src": "/data/explorer/a1a60865-6363-4741-94fd-a5231aee5d61_781/006.webp"
+    },
+    {
+      "index": 773,
+      "src": "/data/explorer/a1a60865-6363-4741-94fd-a5231aee5d61_781/007.webp"
+    },
+    {
+      "index": 774,
+      "src": "/data/explorer/a1a60865-6363-4741-94fd-a5231aee5d61_781/008.webp"
+    },
+    {
+      "index": 775,
+      "src": "/data/explorer/a1a60865-6363-4741-94fd-a5231aee5d61_781/009.webp"
+    },
+    {
+      "index": 776,
+      "src": "/data/explorer/a1a60865-6363-4741-94fd-a5231aee5d61_781/010.webp"
+    },
+    {
+      "index": 777,
+      "src": "/data/explorer/a1a60865-6363-4741-94fd-a5231aee5d61_781/011.webp"
+    },
+    {
+      "index": 778,
+      "src": "/data/explorer/a1a60865-6363-4741-94fd-a5231aee5d61_781/012.webp"
+    },
+    {
+      "index": 779,
+      "src": "/data/explorer/a1a60865-6363-4741-94fd-a5231aee5d61_781/013.webp"
+    },
+    {
+      "index": 780,
+      "src": "/data/explorer/a1a60865-6363-4741-94fd-a5231aee5d61_781/014.webp"
+    },
+    {
+      "index": 781,
+      "src": "/data/explorer/a1a60865-6363-4741-94fd-a5231aee5d61_781/015.webp"
+    }
+  ]
+}

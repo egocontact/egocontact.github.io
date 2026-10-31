@@ -1,0 +1,118 @@
+{
+  "event": "c3825528-6bf2-455e-b7e2-3030bd2dff0f_5871",
+  "action": "pick a food from the cutting board",
+  "width": 1920,
+  "height": 1440,
+  "fps": 30.0,
+  "first": 5856,
+  "observation": 5856,
+  "contact": 5871,
+  "anchors": {
+    "5856": {
+      "contact_index": {
+        "x": 752.4970484117199,
+        "y": 694.6373694031054,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 776.28794720273,
+        "y": 765.8033866061888,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          732.032440929878,
+          658.3391666005699,
+          682.2763433689024,
+          793.049366979723,
+          928.1300019054878,
+          713.980336322394,
+          840.3251238567073,
+          880.9038454878663
+        ]
+      }
+    },
+    "5871": {
+      "contact_index": {
+        "x": 801.0153173771204,
+        "y": 694.6373694031054,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 812.9107667726253,
+        "y": 765.8033866061888,
+        "occluded": true,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 5856,
+      "src": "/data/explorer/c3825528-6bf2-455e-b7e2-3030bd2dff0f_5871/000.webp"
+    },
+    {
+      "index": 5857,
+      "src": "/data/explorer/c3825528-6bf2-455e-b7e2-3030bd2dff0f_5871/001.webp"
+    },
+    {
+      "index": 5858,
+      "src": "/data/explorer/c3825528-6bf2-455e-b7e2-3030bd2dff0f_5871/002.webp"
+    },
+    {
+      "index": 5859,
+      "src": "/data/explorer/c3825528-6bf2-455e-b7e2-3030bd2dff0f_5871/003.webp"
+    },
+    {
+      "index": 5860,
+      "src": "/data/explorer/c3825528-6bf2-455e-b7e2-3030bd2dff0f_5871/004.webp"
+    },
+    {
+      "index": 5861,
+      "src": "/data/explorer/c3825528-6bf2-455e-b7e2-3030bd2dff0f_5871/005.webp"
+    },
+    {
+      "index": 5862,
+      "src": "/data/explorer/c3825528-6bf2-455e-b7e2-3030bd2dff0f_5871/006.webp"
+    },
+    {
+      "index": 5863,
+      "src": "/data/explorer/c3825528-6bf2-455e-b7e2-3030bd2dff0f_5871/007.webp"
+    },
+    {
+      "index": 5864,
+      "src": "/data/explorer/c3825528-6bf2-455e-b7e2-3030bd2dff0f_5871/008.webp"
+    },
+    {
+      "index": 5865,
+      "src": "/data/explorer/c3825528-6bf2-455e-b7e2-3030bd2dff0f_5871/009.webp"
+    },
+    {
+      "index": 5866,
+      "src": "/data/explorer/c3825528-6bf2-455e-b7e2-3030bd2dff0f_5871/010.webp"
+    },
+    {
+      "index": 5867,
+      "src": "/data/explorer/c3825528-6bf2-455e-b7e2-3030bd2dff0f_5871/011.webp"
+    },
+    {
+      "index": 5868,
+      "src": "/data/explorer/c3825528-6bf2-455e-b7e2-3030bd2dff0f_5871/012.webp"
+    },
+    {
+      "index": 5869,
+      "src": "/data/explorer/c3825528-6bf2-455e-b7e2-3030bd2dff0f_5871/013.webp"
+    },
+    {
+      "index": 5870,
+      "src": "/data/explorer/c3825528-6bf2-455e-b7e2-3030bd2dff0f_5871/014.webp"
+    },
+    {
+      "index": 5871,
+      "src": "/data/explorer/c3825528-6bf2-455e-b7e2-3030bd2dff0f_5871/015.webp"
+    }
+  ]
+}

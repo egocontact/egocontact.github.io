@@ -1,0 +1,5626 @@
+[
+  {
+    "id": "e5818537-3753-4bb8-908a-9bb51c97d5bd_2197",
+    "object": "knife",
+    "verb": "pick up",
+    "action": "pick up the knife from the counter",
+    "manifestUrl": "/data/explorer/e5818537-3753-4bb8-908a-9bb51c97d5bd_2197/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/e5818537-3753-4bb8-908a-9bb51c97d5bd_2197/000.webp",
+        "label": "Before contact",
+        "description": "knife before contact"
+      },
+      {
+        "src": "/data/explorer/e5818537-3753-4bb8-908a-9bb51c97d5bd_2197/015.webp",
+        "label": "At contact",
+        "description": "knife at first contact"
+      }
+    ]
+  },
+  {
+    "id": "8fb4e460-88d0-4559-94c7-e9c595bbf7b7_7695",
+    "object": "dough",
+    "verb": "hold",
+    "action": "hold dough 4",
+    "manifestUrl": "/data/explorer/8fb4e460-88d0-4559-94c7-e9c595bbf7b7_7695/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/8fb4e460-88d0-4559-94c7-e9c595bbf7b7_7695/000.webp",
+        "label": "Before contact",
+        "description": "dough before contact"
+      },
+      {
+        "src": "/data/explorer/8fb4e460-88d0-4559-94c7-e9c595bbf7b7_7695/015.webp",
+        "label": "At contact",
+        "description": "dough at first contact"
+      }
+    ]
+  },
+  {
+    "id": "dd2ef656-ffe8-4c2a-8a07-51ae256e123c_5394",
+    "object": "faucet",
+    "verb": "close",
+    "action": "close the tap",
+    "manifestUrl": "/data/explorer/dd2ef656-ffe8-4c2a-8a07-51ae256e123c_5394/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/dd2ef656-ffe8-4c2a-8a07-51ae256e123c_5394/000.webp",
+        "label": "Before contact",
+        "description": "faucet before contact"
+      },
+      {
+        "src": "/data/explorer/dd2ef656-ffe8-4c2a-8a07-51ae256e123c_5394/015.webp",
+        "label": "At contact",
+        "description": "faucet at first contact"
+      }
+    ]
+  },
+  {
+    "id": "dee0dd43-f7bf-4035-8c37-cf8ea49f5d1e_2084",
+    "object": "plastic bag",
+    "verb": "pick",
+    "action": "pick up the plastic bag from the shelf",
+    "manifestUrl": "/data/explorer/dee0dd43-f7bf-4035-8c37-cf8ea49f5d1e_2084/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/dee0dd43-f7bf-4035-8c37-cf8ea49f5d1e_2084/000.webp",
+        "label": "Before contact",
+        "description": "plastic bag before contact"
+      },
+      {
+        "src": "/data/explorer/dee0dd43-f7bf-4035-8c37-cf8ea49f5d1e_2084/015.webp",
+        "label": "At contact",
+        "description": "plastic bag at first contact"
+      }
+    ]
+  },
+  {
+    "id": "61604356-c54b-4b1b-987a-10ddab113fbb_8484",
+    "object": "bottle",
+    "verb": "pick",
+    "action": "pick bottle from refrigerator",
+    "manifestUrl": "/data/explorer/61604356-c54b-4b1b-987a-10ddab113fbb_8484/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/61604356-c54b-4b1b-987a-10ddab113fbb_8484/000.webp",
+        "label": "Before contact",
+        "description": "bottle before contact"
+      },
+      {
+        "src": "/data/explorer/61604356-c54b-4b1b-987a-10ddab113fbb_8484/015.webp",
+        "label": "At contact",
+        "description": "bottle at first contact"
+      }
+    ]
+  },
+  {
+    "id": "f78c0ab8-148b-49be-a7a9-df723e1a1561_1300",
+    "object": "spoon",
+    "verb": "pick",
+    "action": "pick spoon from bowl",
+    "manifestUrl": "/data/explorer/f78c0ab8-148b-49be-a7a9-df723e1a1561_1300/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/f78c0ab8-148b-49be-a7a9-df723e1a1561_1300/000.webp",
+        "label": "Before contact",
+        "description": "spoon before contact"
+      },
+      {
+        "src": "/data/explorer/f78c0ab8-148b-49be-a7a9-df723e1a1561_1300/015.webp",
+        "label": "At contact",
+        "description": "spoon at first contact"
+      }
+    ]
+  },
+  {
+    "id": "51838211-0039-4713-a2a1-7f63bfb381c6_8256",
+    "object": "wood",
+    "verb": "hold",
+    "action": "hold wood",
+    "manifestUrl": "/data/explorer/51838211-0039-4713-a2a1-7f63bfb381c6_8256/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/51838211-0039-4713-a2a1-7f63bfb381c6_8256/000.webp",
+        "label": "Before contact",
+        "description": "wood before contact"
+      },
+      {
+        "src": "/data/explorer/51838211-0039-4713-a2a1-7f63bfb381c6_8256/015.webp",
+        "label": "At contact",
+        "description": "wood at first contact"
+      }
+    ]
+  },
+  {
+    "id": "89f1287a-bc34-464c-8913-a6cee70588f1_551",
+    "object": "plate",
+    "verb": "take",
+    "action": "take the plate from the dishwasher",
+    "manifestUrl": "/data/explorer/89f1287a-bc34-464c-8913-a6cee70588f1_551/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/89f1287a-bc34-464c-8913-a6cee70588f1_551/000.webp",
+        "label": "Before contact",
+        "description": "plate before contact"
+      },
+      {
+        "src": "/data/explorer/89f1287a-bc34-464c-8913-a6cee70588f1_551/015.webp",
+        "label": "At contact",
+        "description": "plate at first contact"
+      }
+    ]
+  },
+  {
+    "id": "a543bff4-5ee5-4150-983a-b536b7fa1100_3653",
+    "object": "towel",
+    "verb": "pick up",
+    "action": "pick up the blue towel from the table",
+    "manifestUrl": "/data/explorer/a543bff4-5ee5-4150-983a-b536b7fa1100_3653/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/a543bff4-5ee5-4150-983a-b536b7fa1100_3653/000.webp",
+        "label": "Before contact",
+        "description": "towel before contact"
+      },
+      {
+        "src": "/data/explorer/a543bff4-5ee5-4150-983a-b536b7fa1100_3653/015.webp",
+        "label": "At contact",
+        "description": "towel at first contact"
+      }
+    ]
+  },
+  {
+    "id": "d0668c5b-4a98-43dc-821f-76a554dabee3_8453",
+    "object": "bowl",
+    "verb": "pick",
+    "action": "pick a bowl from the counter",
+    "manifestUrl": "/data/explorer/d0668c5b-4a98-43dc-821f-76a554dabee3_8453/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/d0668c5b-4a98-43dc-821f-76a554dabee3_8453/000.webp",
+        "label": "Before contact",
+        "description": "bowl before contact"
+      },
+      {
+        "src": "/data/explorer/d0668c5b-4a98-43dc-821f-76a554dabee3_8453/015.webp",
+        "label": "At contact",
+        "description": "bowl at first contact"
+      }
+    ]
+  },
+  {
+    "id": "08aac4f8-1c1a-4e0e-b25e-232396bdf902_337",
+    "object": "tap",
+    "verb": "turn on",
+    "action": "turn on the tap",
+    "manifestUrl": "/data/explorer/08aac4f8-1c1a-4e0e-b25e-232396bdf902_337/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/08aac4f8-1c1a-4e0e-b25e-232396bdf902_337/000.webp",
+        "label": "Before contact",
+        "description": "tap before contact"
+      },
+      {
+        "src": "/data/explorer/08aac4f8-1c1a-4e0e-b25e-232396bdf902_337/015.webp",
+        "label": "At contact",
+        "description": "tap at first contact"
+      }
+    ]
+  },
+  {
+    "id": "e6e36da1-a235-4d7a-957d-008cdc07cba6_8782",
+    "object": "phone",
+    "verb": "hold",
+    "action": "hold the phone in hand",
+    "manifestUrl": "/data/explorer/e6e36da1-a235-4d7a-957d-008cdc07cba6_8782/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/e6e36da1-a235-4d7a-957d-008cdc07cba6_8782/000.webp",
+        "label": "Before contact",
+        "description": "phone before contact"
+      },
+      {
+        "src": "/data/explorer/e6e36da1-a235-4d7a-957d-008cdc07cba6_8782/015.webp",
+        "label": "At contact",
+        "description": "phone at first contact"
+      }
+    ]
+  },
+  {
+    "id": "c849e36f-5cba-47d3-847f-ad6d949d895d_11477",
+    "object": "chopsticks",
+    "verb": "pick",
+    "action": "pick the chopsticks from the cutting board",
+    "manifestUrl": "/data/explorer/c849e36f-5cba-47d3-847f-ad6d949d895d_11477/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/c849e36f-5cba-47d3-847f-ad6d949d895d_11477/000.webp",
+        "label": "Before contact",
+        "description": "chopsticks before contact"
+      },
+      {
+        "src": "/data/explorer/c849e36f-5cba-47d3-847f-ad6d949d895d_11477/015.webp",
+        "label": "At contact",
+        "description": "chopsticks at first contact"
+      }
+    ]
+  },
+  {
+    "id": "cc064793-d1a1-4099-aab8-fb4e714cbe12_1556",
+    "object": "sponge",
+    "verb": "pick",
+    "action": "pick sponge",
+    "manifestUrl": "/data/explorer/cc064793-d1a1-4099-aab8-fb4e714cbe12_1556/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/cc064793-d1a1-4099-aab8-fb4e714cbe12_1556/000.webp",
+        "label": "Before contact",
+        "description": "sponge before contact"
+      },
+      {
+        "src": "/data/explorer/cc064793-d1a1-4099-aab8-fb4e714cbe12_1556/015.webp",
+        "label": "At contact",
+        "description": "sponge at first contact"
+      }
+    ]
+  },
+  {
+    "id": "b1c0f3ce-d0b1-4a27-9565-fee7466708f6_7669",
+    "object": "pan",
+    "verb": "hold",
+    "action": "hold a handle of a pan",
+    "manifestUrl": "/data/explorer/b1c0f3ce-d0b1-4a27-9565-fee7466708f6_7669/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/b1c0f3ce-d0b1-4a27-9565-fee7466708f6_7669/000.webp",
+        "label": "Before contact",
+        "description": "pan before contact"
+      },
+      {
+        "src": "/data/explorer/b1c0f3ce-d0b1-4a27-9565-fee7466708f6_7669/015.webp",
+        "label": "At contact",
+        "description": "pan at first contact"
+      }
+    ]
+  },
+  {
+    "id": "78967887-c6f0-413f-9b1b-5722ac36cce2_8021",
+    "object": "drawer",
+    "verb": "open",
+    "action": "open the drawer under the sink",
+    "manifestUrl": "/data/explorer/78967887-c6f0-413f-9b1b-5722ac36cce2_8021/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/78967887-c6f0-413f-9b1b-5722ac36cce2_8021/000.webp",
+        "label": "Before contact",
+        "description": "drawer before contact"
+      },
+      {
+        "src": "/data/explorer/78967887-c6f0-413f-9b1b-5722ac36cce2_8021/015.webp",
+        "label": "At contact",
+        "description": "drawer at first contact"
+      }
+    ]
+  },
+  {
+    "id": "23da1ac4-2b54-47e9-ae62-e94939e55907_7896",
+    "object": "lid",
+    "verb": "close",
+    "action": "close the lid of a plastic container",
+    "manifestUrl": "/data/explorer/23da1ac4-2b54-47e9-ae62-e94939e55907_7896/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/23da1ac4-2b54-47e9-ae62-e94939e55907_7896/000.webp",
+        "label": "Before contact",
+        "description": "lid before contact"
+      },
+      {
+        "src": "/data/explorer/23da1ac4-2b54-47e9-ae62-e94939e55907_7896/015.webp",
+        "label": "At contact",
+        "description": "lid at first contact"
+      }
+    ]
+  },
+  {
+    "id": "547273ea-34de-4c95-a773-884acefd2e39_2934",
+    "object": "box",
+    "verb": "pick up",
+    "action": "pick up the box from the counter",
+    "manifestUrl": "/data/explorer/547273ea-34de-4c95-a773-884acefd2e39_2934/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/547273ea-34de-4c95-a773-884acefd2e39_2934/000.webp",
+        "label": "Before contact",
+        "description": "box before contact"
+      },
+      {
+        "src": "/data/explorer/547273ea-34de-4c95-a773-884acefd2e39_2934/015.webp",
+        "label": "At contact",
+        "description": "box at first contact"
+      }
+    ]
+  },
+  {
+    "id": "e021cfad-4232-420e-82c7-78168e2afb7b_404",
+    "object": "paper",
+    "verb": "hold",
+    "action": "hold paper",
+    "manifestUrl": "/data/explorer/e021cfad-4232-420e-82c7-78168e2afb7b_404/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/e021cfad-4232-420e-82c7-78168e2afb7b_404/000.webp",
+        "label": "Before contact",
+        "description": "paper before contact"
+      },
+      {
+        "src": "/data/explorer/e021cfad-4232-420e-82c7-78168e2afb7b_404/015.webp",
+        "label": "At contact",
+        "description": "paper at first contact"
+      }
+    ]
+  },
+  {
+    "id": "891dcc22-a54a-4743-b055-8a953f431512_10901",
+    "object": "cup",
+    "verb": "pick up",
+    "action": "pick up the cup from the counter",
+    "manifestUrl": "/data/explorer/891dcc22-a54a-4743-b055-8a953f431512_10901/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/891dcc22-a54a-4743-b055-8a953f431512_10901/000.webp",
+        "label": "Before contact",
+        "description": "cup before contact"
+      },
+      {
+        "src": "/data/explorer/891dcc22-a54a-4743-b055-8a953f431512_10901/015.webp",
+        "label": "At contact",
+        "description": "cup at first contact"
+      }
+    ]
+  },
+  {
+    "id": "eea0adb3-b69c-4d32-ab77-d42d52e31e79_14329",
+    "object": "jar",
+    "verb": "take",
+    "action": "take a jar from the cabinet",
+    "manifestUrl": "/data/explorer/eea0adb3-b69c-4d32-ab77-d42d52e31e79_14329/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/eea0adb3-b69c-4d32-ab77-d42d52e31e79_14329/000.webp",
+        "label": "Before contact",
+        "description": "jar before contact"
+      },
+      {
+        "src": "/data/explorer/eea0adb3-b69c-4d32-ab77-d42d52e31e79_14329/015.webp",
+        "label": "At contact",
+        "description": "jar at first contact"
+      }
+    ]
+  },
+  {
+    "id": "05492871-f6aa-4eda-990a-be727ec037f8_3801",
+    "object": "bread",
+    "verb": "flip",
+    "action": "flip the bread on the cooking surface",
+    "manifestUrl": "/data/explorer/05492871-f6aa-4eda-990a-be727ec037f8_3801/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/05492871-f6aa-4eda-990a-be727ec037f8_3801/000.webp",
+        "label": "Before contact",
+        "description": "bread before contact"
+      },
+      {
+        "src": "/data/explorer/05492871-f6aa-4eda-990a-be727ec037f8_3801/015.webp",
+        "label": "At contact",
+        "description": "bread at first contact"
+      }
+    ]
+  },
+  {
+    "id": "ace240dc-9926-4f37-bd13-3d1bf1fa0610_10294",
+    "object": "pot",
+    "verb": "hold",
+    "action": "hold pot handle",
+    "manifestUrl": "/data/explorer/ace240dc-9926-4f37-bd13-3d1bf1fa0610_10294/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/ace240dc-9926-4f37-bd13-3d1bf1fa0610_10294/000.webp",
+        "label": "Before contact",
+        "description": "pot before contact"
+      },
+      {
+        "src": "/data/explorer/ace240dc-9926-4f37-bd13-3d1bf1fa0610_10294/015.webp",
+        "label": "At contact",
+        "description": "pot at first contact"
+      }
+    ]
+  },
+  {
+    "id": "50c9a41f-3977-4107-a23e-0409c9382e21_12620",
+    "object": "plant",
+    "verb": "pick",
+    "action": "pick planting 2",
+    "manifestUrl": "/data/explorer/50c9a41f-3977-4107-a23e-0409c9382e21_12620/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/50c9a41f-3977-4107-a23e-0409c9382e21_12620/000.webp",
+        "label": "Before contact",
+        "description": "plant before contact"
+      },
+      {
+        "src": "/data/explorer/50c9a41f-3977-4107-a23e-0409c9382e21_12620/015.webp",
+        "label": "At contact",
+        "description": "plant at first contact"
+      }
+    ]
+  },
+  {
+    "id": "dae93bc7-1e5d-41ad-b375-f7d73918bbad_6274",
+    "object": "bag",
+    "verb": "hold",
+    "action": "hold the bag",
+    "manifestUrl": "/data/explorer/dae93bc7-1e5d-41ad-b375-f7d73918bbad_6274/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/dae93bc7-1e5d-41ad-b375-f7d73918bbad_6274/000.webp",
+        "label": "Before contact",
+        "description": "bag before contact"
+      },
+      {
+        "src": "/data/explorer/dae93bc7-1e5d-41ad-b375-f7d73918bbad_6274/015.webp",
+        "label": "At contact",
+        "description": "bag at first contact"
+      }
+    ]
+  },
+  {
+    "id": "6bfd6405-d520-4bbe-bba5-22e76967fe6c_7739",
+    "object": "iron",
+    "verb": "hold",
+    "action": "hold iron",
+    "manifestUrl": "/data/explorer/6bfd6405-d520-4bbe-bba5-22e76967fe6c_7739/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/6bfd6405-d520-4bbe-bba5-22e76967fe6c_7739/000.webp",
+        "label": "Before contact",
+        "description": "iron before contact"
+      },
+      {
+        "src": "/data/explorer/6bfd6405-d520-4bbe-bba5-22e76967fe6c_7739/015.webp",
+        "label": "At contact",
+        "description": "iron at first contact"
+      }
+    ]
+  },
+  {
+    "id": "fd9f7e9f-2002-48bf-af77-c58abcfe04d0_5044",
+    "object": "screwdriver",
+    "verb": "pick up",
+    "action": "pick up the screwdriver from the workbench",
+    "manifestUrl": "/data/explorer/fd9f7e9f-2002-48bf-af77-c58abcfe04d0_5044/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/fd9f7e9f-2002-48bf-af77-c58abcfe04d0_5044/000.webp",
+        "label": "Before contact",
+        "description": "screwdriver before contact"
+      },
+      {
+        "src": "/data/explorer/fd9f7e9f-2002-48bf-af77-c58abcfe04d0_5044/015.webp",
+        "label": "At contact",
+        "description": "screwdriver at first contact"
+      }
+    ]
+  },
+  {
+    "id": "c58b4a62-cb64-482e-a53e-d3528b062d73_2558",
+    "object": "piece of wood",
+    "verb": "pick",
+    "action": "pick up the piece of wood from the table",
+    "manifestUrl": "/data/explorer/c58b4a62-cb64-482e-a53e-d3528b062d73_2558/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/c58b4a62-cb64-482e-a53e-d3528b062d73_2558/000.webp",
+        "label": "Before contact",
+        "description": "piece of wood before contact"
+      },
+      {
+        "src": "/data/explorer/c58b4a62-cb64-482e-a53e-d3528b062d73_2558/015.webp",
+        "label": "At contact",
+        "description": "piece of wood at first contact"
+      }
+    ]
+  },
+  {
+    "id": "10fe1e0a-bcd9-4bcb-9179-e9efc881aef6_1378",
+    "object": "scissors",
+    "verb": "hold",
+    "action": "hold scissors",
+    "manifestUrl": "/data/explorer/10fe1e0a-bcd9-4bcb-9179-e9efc881aef6_1378/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/10fe1e0a-bcd9-4bcb-9179-e9efc881aef6_1378/000.webp",
+        "label": "Before contact",
+        "description": "scissors before contact"
+      },
+      {
+        "src": "/data/explorer/10fe1e0a-bcd9-4bcb-9179-e9efc881aef6_1378/015.webp",
+        "label": "At contact",
+        "description": "scissors at first contact"
+      }
+    ]
+  },
+  {
+    "id": "83c89727-20a6-46bb-9a7f-7ca9e8e61011_4679",
+    "object": "cloth",
+    "verb": "pick up",
+    "action": "pick up the black cloth from the counter",
+    "manifestUrl": "/data/explorer/83c89727-20a6-46bb-9a7f-7ca9e8e61011_4679/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/83c89727-20a6-46bb-9a7f-7ca9e8e61011_4679/000.webp",
+        "label": "Before contact",
+        "description": "cloth before contact"
+      },
+      {
+        "src": "/data/explorer/83c89727-20a6-46bb-9a7f-7ca9e8e61011_4679/015.webp",
+        "label": "At contact",
+        "description": "cloth at first contact"
+      }
+    ]
+  },
+  {
+    "id": "64880b9d-20dc-432c-8e45-08c44f414eab_12052",
+    "object": "wire",
+    "verb": "pick",
+    "action": "pick a wire from the floor",
+    "manifestUrl": "/data/explorer/64880b9d-20dc-432c-8e45-08c44f414eab_12052/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/64880b9d-20dc-432c-8e45-08c44f414eab_12052/000.webp",
+        "label": "Before contact",
+        "description": "wire before contact"
+      },
+      {
+        "src": "/data/explorer/64880b9d-20dc-432c-8e45-08c44f414eab_12052/015.webp",
+        "label": "At contact",
+        "description": "wire at first contact"
+      }
+    ]
+  },
+  {
+    "id": "0a0e800f-7d2c-4464-996c-47cd2f323350_11208",
+    "object": "plastic container",
+    "verb": "pick up",
+    "action": "pick up the plastic container from the counter",
+    "manifestUrl": "/data/explorer/0a0e800f-7d2c-4464-996c-47cd2f323350_11208/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/0a0e800f-7d2c-4464-996c-47cd2f323350_11208/000.webp",
+        "label": "Before contact",
+        "description": "plastic container before contact"
+      },
+      {
+        "src": "/data/explorer/0a0e800f-7d2c-4464-996c-47cd2f323350_11208/015.webp",
+        "label": "At contact",
+        "description": "plastic container at first contact"
+      }
+    ]
+  },
+  {
+    "id": "c5f661c6-f109-4b85-be16-089d5b65561c_6647",
+    "object": "dish",
+    "verb": "pick up",
+    "action": "pick dish 3",
+    "manifestUrl": "/data/explorer/c5f661c6-f109-4b85-be16-089d5b65561c_6647/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/c5f661c6-f109-4b85-be16-089d5b65561c_6647/000.webp",
+        "label": "Before contact",
+        "description": "dish before contact"
+      },
+      {
+        "src": "/data/explorer/c5f661c6-f109-4b85-be16-089d5b65561c_6647/015.webp",
+        "label": "At contact",
+        "description": "dish at first contact"
+      }
+    ]
+  },
+  {
+    "id": "9488918e-d5a0-4df6-8a1c-1ed9d98950b6_9658",
+    "object": "fridge",
+    "verb": "open",
+    "action": "open the fridge door",
+    "manifestUrl": "/data/explorer/9488918e-d5a0-4df6-8a1c-1ed9d98950b6_9658/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/9488918e-d5a0-4df6-8a1c-1ed9d98950b6_9658/000.webp",
+        "label": "Before contact",
+        "description": "fridge before contact"
+      },
+      {
+        "src": "/data/explorer/9488918e-d5a0-4df6-8a1c-1ed9d98950b6_9658/015.webp",
+        "label": "At contact",
+        "description": "fridge at first contact"
+      }
+    ]
+  },
+  {
+    "id": "e094c7c3-fe6f-46ce-8ccd-ee9dc93858ef_7188",
+    "object": "tissue",
+    "verb": "pick",
+    "action": "pick up the tissue from the workbench",
+    "manifestUrl": "/data/explorer/e094c7c3-fe6f-46ce-8ccd-ee9dc93858ef_7188/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/e094c7c3-fe6f-46ce-8ccd-ee9dc93858ef_7188/000.webp",
+        "label": "Before contact",
+        "description": "tissue before contact"
+      },
+      {
+        "src": "/data/explorer/e094c7c3-fe6f-46ce-8ccd-ee9dc93858ef_7188/015.webp",
+        "label": "At contact",
+        "description": "tissue at first contact"
+      }
+    ]
+  },
+  {
+    "id": "3011f5cd-3475-486f-8f1e-4cd21bfc126a_14197",
+    "object": "wooden spoon",
+    "verb": "pick up",
+    "action": "pick up the wooden spoon from the pan",
+    "manifestUrl": "/data/explorer/3011f5cd-3475-486f-8f1e-4cd21bfc126a_14197/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/3011f5cd-3475-486f-8f1e-4cd21bfc126a_14197/000.webp",
+        "label": "Before contact",
+        "description": "wooden spoon before contact"
+      },
+      {
+        "src": "/data/explorer/3011f5cd-3475-486f-8f1e-4cd21bfc126a_14197/015.webp",
+        "label": "At contact",
+        "description": "wooden spoon at first contact"
+      }
+    ]
+  },
+  {
+    "id": "ed166e29-64d7-427e-ae88-5daffbe98e0d_6411",
+    "object": "container",
+    "verb": "take",
+    "action": "take out a container from the fridge",
+    "manifestUrl": "/data/explorer/ed166e29-64d7-427e-ae88-5daffbe98e0d_6411/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/ed166e29-64d7-427e-ae88-5daffbe98e0d_6411/000.webp",
+        "label": "Before contact",
+        "description": "container before contact"
+      },
+      {
+        "src": "/data/explorer/ed166e29-64d7-427e-ae88-5daffbe98e0d_6411/015.webp",
+        "label": "At contact",
+        "description": "container at first contact"
+      }
+    ]
+  },
+  {
+    "id": "44d320be-f764-4406-98c7-996f5bd64d90_2293",
+    "object": "drill",
+    "verb": "pick up",
+    "action": "pick up the drill from the floor",
+    "manifestUrl": "/data/explorer/44d320be-f764-4406-98c7-996f5bd64d90_2293/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/44d320be-f764-4406-98c7-996f5bd64d90_2293/000.webp",
+        "label": "Before contact",
+        "description": "drill before contact"
+      },
+      {
+        "src": "/data/explorer/44d320be-f764-4406-98c7-996f5bd64d90_2293/015.webp",
+        "label": "At contact",
+        "description": "drill at first contact"
+      }
+    ]
+  },
+  {
+    "id": "9ff12fff-0899-477e-8524-2a68ddea6f31_5564",
+    "object": "bucket",
+    "verb": "hold",
+    "action": "hold a bucket with a rope",
+    "manifestUrl": "/data/explorer/9ff12fff-0899-477e-8524-2a68ddea6f31_5564/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/9ff12fff-0899-477e-8524-2a68ddea6f31_5564/000.webp",
+        "label": "Before contact",
+        "description": "bucket before contact"
+      },
+      {
+        "src": "/data/explorer/9ff12fff-0899-477e-8524-2a68ddea6f31_5564/015.webp",
+        "label": "At contact",
+        "description": "bucket at first contact"
+      }
+    ]
+  },
+  {
+    "id": "13c3f06c-432b-4d9f-9ae7-64fa692112e4_3620",
+    "object": "tool",
+    "verb": "pick up",
+    "action": "pick up the tool from the barrel",
+    "manifestUrl": "/data/explorer/13c3f06c-432b-4d9f-9ae7-64fa692112e4_3620/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/13c3f06c-432b-4d9f-9ae7-64fa692112e4_3620/000.webp",
+        "label": "Before contact",
+        "description": "tool before contact"
+      },
+      {
+        "src": "/data/explorer/13c3f06c-432b-4d9f-9ae7-64fa692112e4_3620/015.webp",
+        "label": "At contact",
+        "description": "tool at first contact"
+      }
+    ]
+  },
+  {
+    "id": "2798b849-43cc-4a4d-bfb2-53ac88030f46_5555",
+    "object": "hammer",
+    "verb": "pick",
+    "action": "pick a hammer",
+    "manifestUrl": "/data/explorer/2798b849-43cc-4a4d-bfb2-53ac88030f46_5555/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/2798b849-43cc-4a4d-bfb2-53ac88030f46_5555/000.webp",
+        "label": "Before contact",
+        "description": "hammer before contact"
+      },
+      {
+        "src": "/data/explorer/2798b849-43cc-4a4d-bfb2-53ac88030f46_5555/015.webp",
+        "label": "At contact",
+        "description": "hammer at first contact"
+      }
+    ]
+  },
+  {
+    "id": "9f143ec0-f341-48e5-9de7-6fcf78eca191_2106",
+    "object": "pot lid",
+    "verb": "pick up",
+    "action": "pick up the pot lid from the sink",
+    "manifestUrl": "/data/explorer/9f143ec0-f341-48e5-9de7-6fcf78eca191_2106/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/9f143ec0-f341-48e5-9de7-6fcf78eca191_2106/000.webp",
+        "label": "Before contact",
+        "description": "pot lid before contact"
+      },
+      {
+        "src": "/data/explorer/9f143ec0-f341-48e5-9de7-6fcf78eca191_2106/015.webp",
+        "label": "At contact",
+        "description": "pot lid at first contact"
+      }
+    ]
+  },
+  {
+    "id": "44642946-0a4e-4f4c-9a1e-e506acf2c7b6_127",
+    "object": "cutting board",
+    "verb": "pick",
+    "action": "pick the cutting board from the counter",
+    "manifestUrl": "/data/explorer/44642946-0a4e-4f4c-9a1e-e506acf2c7b6_127/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/44642946-0a4e-4f4c-9a1e-e506acf2c7b6_127/000.webp",
+        "label": "Before contact",
+        "description": "cutting board before contact"
+      },
+      {
+        "src": "/data/explorer/44642946-0a4e-4f4c-9a1e-e506acf2c7b6_127/015.webp",
+        "label": "At contact",
+        "description": "cutting board at first contact"
+      }
+    ]
+  },
+  {
+    "id": "6cbc7169-5af3-4f64-941c-07f1f9b60d39_2607",
+    "object": "brick",
+    "verb": "hold",
+    "action": "hold the brick on the ground",
+    "manifestUrl": "/data/explorer/6cbc7169-5af3-4f64-941c-07f1f9b60d39_2607/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/6cbc7169-5af3-4f64-941c-07f1f9b60d39_2607/000.webp",
+        "label": "Before contact",
+        "description": "brick before contact"
+      },
+      {
+        "src": "/data/explorer/6cbc7169-5af3-4f64-941c-07f1f9b60d39_2607/015.webp",
+        "label": "At contact",
+        "description": "brick at first contact"
+      }
+    ]
+  },
+  {
+    "id": "cda2b377-54c8-4c8e-a592-969628ddcd0e_4096",
+    "object": "plastic box",
+    "verb": "pick up",
+    "action": "pick up the plastic box from the counter",
+    "manifestUrl": "/data/explorer/cda2b377-54c8-4c8e-a592-969628ddcd0e_4096/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/cda2b377-54c8-4c8e-a592-969628ddcd0e_4096/000.webp",
+        "label": "Before contact",
+        "description": "plastic box before contact"
+      },
+      {
+        "src": "/data/explorer/cda2b377-54c8-4c8e-a592-969628ddcd0e_4096/015.webp",
+        "label": "At contact",
+        "description": "plastic box at first contact"
+      }
+    ]
+  },
+  {
+    "id": "808920d1-2cc0-4a18-a10d-569782058ff6_13092",
+    "object": "water tap",
+    "verb": "open",
+    "action": "open the water tap",
+    "manifestUrl": "/data/explorer/808920d1-2cc0-4a18-a10d-569782058ff6_13092/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/808920d1-2cc0-4a18-a10d-569782058ff6_13092/000.webp",
+        "label": "Before contact",
+        "description": "water tap before contact"
+      },
+      {
+        "src": "/data/explorer/808920d1-2cc0-4a18-a10d-569782058ff6_13092/015.webp",
+        "label": "At contact",
+        "description": "water tap at first contact"
+      }
+    ]
+  },
+  {
+    "id": "9e737ea4-2436-42be-989c-9bee2a78dca4_7726",
+    "object": "vegetables",
+    "verb": "pick",
+    "action": "pick vegetables from the bowl",
+    "manifestUrl": "/data/explorer/9e737ea4-2436-42be-989c-9bee2a78dca4_7726/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/9e737ea4-2436-42be-989c-9bee2a78dca4_7726/000.webp",
+        "label": "Before contact",
+        "description": "vegetables before contact"
+      },
+      {
+        "src": "/data/explorer/9e737ea4-2436-42be-989c-9bee2a78dca4_7726/015.webp",
+        "label": "At contact",
+        "description": "vegetables at first contact"
+      }
+    ]
+  },
+  {
+    "id": "ec6c6e04-bc20-446e-b7b3-a0e303e7336a_74",
+    "object": "cabinet",
+    "verb": "open",
+    "action": "open the cabinet door under the sink",
+    "manifestUrl": "/data/explorer/ec6c6e04-bc20-446e-b7b3-a0e303e7336a_74/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/ec6c6e04-bc20-446e-b7b3-a0e303e7336a_74/000.webp",
+        "label": "Before contact",
+        "description": "cabinet before contact"
+      },
+      {
+        "src": "/data/explorer/ec6c6e04-bc20-446e-b7b3-a0e303e7336a_74/015.webp",
+        "label": "At contact",
+        "description": "cabinet at first contact"
+      }
+    ]
+  },
+  {
+    "id": "7db32b15-9ea6-4a44-a103-cc04471ce4f7_10203",
+    "object": "spatula",
+    "verb": "pick up",
+    "action": "pick up the spatula from the counter",
+    "manifestUrl": "/data/explorer/7db32b15-9ea6-4a44-a103-cc04471ce4f7_10203/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/7db32b15-9ea6-4a44-a103-cc04471ce4f7_10203/000.webp",
+        "label": "Before contact",
+        "description": "spatula before contact"
+      },
+      {
+        "src": "/data/explorer/7db32b15-9ea6-4a44-a103-cc04471ce4f7_10203/015.webp",
+        "label": "At contact",
+        "description": "spatula at first contact"
+      }
+    ]
+  },
+  {
+    "id": "277e99a3-2d10-447f-87ef-6f58c767cf64_7815",
+    "object": "strainer",
+    "verb": "pick up",
+    "action": "pick up the strainer from the counter",
+    "manifestUrl": "/data/explorer/277e99a3-2d10-447f-87ef-6f58c767cf64_7815/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/277e99a3-2d10-447f-87ef-6f58c767cf64_7815/000.webp",
+        "label": "Before contact",
+        "description": "strainer before contact"
+      },
+      {
+        "src": "/data/explorer/277e99a3-2d10-447f-87ef-6f58c767cf64_7815/015.webp",
+        "label": "At contact",
+        "description": "strainer at first contact"
+      }
+    ]
+  },
+  {
+    "id": "ec02a97a-06a1-4d77-bb6c-e3bc67a35022_8641",
+    "object": "pliers",
+    "verb": "pick",
+    "action": "pick a pliers",
+    "manifestUrl": "/data/explorer/ec02a97a-06a1-4d77-bb6c-e3bc67a35022_8641/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/ec02a97a-06a1-4d77-bb6c-e3bc67a35022_8641/000.webp",
+        "label": "Before contact",
+        "description": "pliers before contact"
+      },
+      {
+        "src": "/data/explorer/ec02a97a-06a1-4d77-bb6c-e3bc67a35022_8641/015.webp",
+        "label": "At contact",
+        "description": "pliers at first contact"
+      }
+    ]
+  },
+  {
+    "id": "99679e4d-1396-4248-97f4-97c9b0ed5336_8324",
+    "object": "hose",
+    "verb": "pick",
+    "action": "pick a hose",
+    "manifestUrl": "/data/explorer/99679e4d-1396-4248-97f4-97c9b0ed5336_8324/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/99679e4d-1396-4248-97f4-97c9b0ed5336_8324/000.webp",
+        "label": "Before contact",
+        "description": "hose before contact"
+      },
+      {
+        "src": "/data/explorer/99679e4d-1396-4248-97f4-97c9b0ed5336_8324/015.webp",
+        "label": "At contact",
+        "description": "hose at first contact"
+      }
+    ]
+  },
+  {
+    "id": "c3825528-6bf2-455e-b7e2-3030bd2dff0f_5871",
+    "object": "food",
+    "verb": "pick",
+    "action": "pick a food from the cutting board",
+    "manifestUrl": "/data/explorer/c3825528-6bf2-455e-b7e2-3030bd2dff0f_5871/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/c3825528-6bf2-455e-b7e2-3030bd2dff0f_5871/000.webp",
+        "label": "Before contact",
+        "description": "food before contact"
+      },
+      {
+        "src": "/data/explorer/c3825528-6bf2-455e-b7e2-3030bd2dff0f_5871/015.webp",
+        "label": "At contact",
+        "description": "food at first contact"
+      }
+    ]
+  },
+  {
+    "id": "85bcc958-87ba-4c35-b26d-a0b72c89bf58_4808",
+    "object": "onion",
+    "verb": "pick up",
+    "action": "pick up the onion from the counter",
+    "manifestUrl": "/data/explorer/85bcc958-87ba-4c35-b26d-a0b72c89bf58_4808/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/85bcc958-87ba-4c35-b26d-a0b72c89bf58_4808/000.webp",
+        "label": "Before contact",
+        "description": "onion before contact"
+      },
+      {
+        "src": "/data/explorer/85bcc958-87ba-4c35-b26d-a0b72c89bf58_4808/015.webp",
+        "label": "At contact",
+        "description": "onion at first contact"
+      }
+    ]
+  },
+  {
+    "id": "8a6823bf-6016-402e-87f5-0d60f182c190_92",
+    "object": "lettuce",
+    "verb": "hold",
+    "action": "hold lettuce with both hands",
+    "manifestUrl": "/data/explorer/8a6823bf-6016-402e-87f5-0d60f182c190_92/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/8a6823bf-6016-402e-87f5-0d60f182c190_92/000.webp",
+        "label": "Before contact",
+        "description": "lettuce before contact"
+      },
+      {
+        "src": "/data/explorer/8a6823bf-6016-402e-87f5-0d60f182c190_92/015.webp",
+        "label": "At contact",
+        "description": "lettuce at first contact"
+      }
+    ]
+  },
+  {
+    "id": "f783063a-c8ed-40a5-9f5e-967eface9688_3523",
+    "object": "trowel",
+    "verb": "pick up",
+    "action": "pick up the trowel from the concrete structure",
+    "manifestUrl": "/data/explorer/f783063a-c8ed-40a5-9f5e-967eface9688_3523/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/f783063a-c8ed-40a5-9f5e-967eface9688_3523/000.webp",
+        "label": "Before contact",
+        "description": "trowel before contact"
+      },
+      {
+        "src": "/data/explorer/f783063a-c8ed-40a5-9f5e-967eface9688_3523/015.webp",
+        "label": "At contact",
+        "description": "trowel at first contact"
+      }
+    ]
+  },
+  {
+    "id": "25def38a-a77d-4749-b664-4a6645b2ec97_6321",
+    "object": "fabric",
+    "verb": "hold",
+    "action": "hold a piece of fabric",
+    "manifestUrl": "/data/explorer/25def38a-a77d-4749-b664-4a6645b2ec97_6321/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/25def38a-a77d-4749-b664-4a6645b2ec97_6321/000.webp",
+        "label": "Before contact",
+        "description": "fabric before contact"
+      },
+      {
+        "src": "/data/explorer/25def38a-a77d-4749-b664-4a6645b2ec97_6321/015.webp",
+        "label": "At contact",
+        "description": "fabric at first contact"
+      }
+    ]
+  },
+  {
+    "id": "fa032e32-a45b-40b2-8b3f-424987b4d5fd_7695",
+    "object": "cucumber",
+    "verb": "hold",
+    "action": "hold cucumber",
+    "manifestUrl": "/data/explorer/fa032e32-a45b-40b2-8b3f-424987b4d5fd_7695/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/fa032e32-a45b-40b2-8b3f-424987b4d5fd_7695/000.webp",
+        "label": "Before contact",
+        "description": "cucumber before contact"
+      },
+      {
+        "src": "/data/explorer/fa032e32-a45b-40b2-8b3f-424987b4d5fd_7695/015.webp",
+        "label": "At contact",
+        "description": "cucumber at first contact"
+      }
+    ]
+  },
+  {
+    "id": "b07a1676-cc7f-49c9-8c44-d0f6fe9b13ec_11135",
+    "object": "door",
+    "verb": "open",
+    "action": "open the door",
+    "manifestUrl": "/data/explorer/b07a1676-cc7f-49c9-8c44-d0f6fe9b13ec_11135/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/b07a1676-cc7f-49c9-8c44-d0f6fe9b13ec_11135/000.webp",
+        "label": "Before contact",
+        "description": "door before contact"
+      },
+      {
+        "src": "/data/explorer/b07a1676-cc7f-49c9-8c44-d0f6fe9b13ec_11135/015.webp",
+        "label": "At contact",
+        "description": "door at first contact"
+      }
+    ]
+  },
+  {
+    "id": "b80d12f9-1ac7-4356-9847-382f72f86f8f_1411",
+    "object": "chopstick",
+    "verb": "pick up",
+    "action": "pick up the chopsticks from the kitchen counter",
+    "manifestUrl": "/data/explorer/b80d12f9-1ac7-4356-9847-382f72f86f8f_1411/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/b80d12f9-1ac7-4356-9847-382f72f86f8f_1411/000.webp",
+        "label": "Before contact",
+        "description": "chopstick before contact"
+      },
+      {
+        "src": "/data/explorer/b80d12f9-1ac7-4356-9847-382f72f86f8f_1411/015.webp",
+        "label": "At contact",
+        "description": "chopstick at first contact"
+      }
+    ]
+  },
+  {
+    "id": "0f2a2912-7be6-40a0-a431-e9a07d6127cc_8531",
+    "object": "leaf",
+    "verb": "pull",
+    "action": "pull a leaf from a plant",
+    "manifestUrl": "/data/explorer/0f2a2912-7be6-40a0-a431-e9a07d6127cc_8531/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/0f2a2912-7be6-40a0-a431-e9a07d6127cc_8531/000.webp",
+        "label": "Before contact",
+        "description": "leaf before contact"
+      },
+      {
+        "src": "/data/explorer/0f2a2912-7be6-40a0-a431-e9a07d6127cc_8531/015.webp",
+        "label": "At contact",
+        "description": "leaf at first contact"
+      }
+    ]
+  },
+  {
+    "id": "4ae6710d-dde7-4e53-b114-cf9ae6b630dd_3765",
+    "object": "vegetable",
+    "verb": "pick",
+    "action": "pick vegetable 2",
+    "manifestUrl": "/data/explorer/4ae6710d-dde7-4e53-b114-cf9ae6b630dd_3765/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/4ae6710d-dde7-4e53-b114-cf9ae6b630dd_3765/000.webp",
+        "label": "Before contact",
+        "description": "vegetable before contact"
+      },
+      {
+        "src": "/data/explorer/4ae6710d-dde7-4e53-b114-cf9ae6b630dd_3765/015.webp",
+        "label": "At contact",
+        "description": "vegetable at first contact"
+      }
+    ]
+  },
+  {
+    "id": "69a3e088-6bc9-48a2-bbfe-bdb65de5bca7_8869",
+    "object": "shovel",
+    "verb": "pick up",
+    "action": "pick up the shovel from the ground",
+    "manifestUrl": "/data/explorer/69a3e088-6bc9-48a2-bbfe-bdb65de5bca7_8869/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/69a3e088-6bc9-48a2-bbfe-bdb65de5bca7_8869/000.webp",
+        "label": "Before contact",
+        "description": "shovel before contact"
+      },
+      {
+        "src": "/data/explorer/69a3e088-6bc9-48a2-bbfe-bdb65de5bca7_8869/015.webp",
+        "label": "At contact",
+        "description": "shovel at first contact"
+      }
+    ]
+  },
+  {
+    "id": "3c4baee7-bb9f-46b0-8914-12e2e55788fe_19555",
+    "object": "brush",
+    "verb": "pick",
+    "action": "pick brush",
+    "manifestUrl": "/data/explorer/3c4baee7-bb9f-46b0-8914-12e2e55788fe_19555/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/3c4baee7-bb9f-46b0-8914-12e2e55788fe_19555/000.webp",
+        "label": "Before contact",
+        "description": "brush before contact"
+      },
+      {
+        "src": "/data/explorer/3c4baee7-bb9f-46b0-8914-12e2e55788fe_19555/015.webp",
+        "label": "At contact",
+        "description": "brush at first contact"
+      }
+    ]
+  },
+  {
+    "id": "b240d039-926e-4191-aada-463cacfdacff_2608",
+    "object": "glass",
+    "verb": "pick",
+    "action": "pick a glass from the cabinet",
+    "manifestUrl": "/data/explorer/b240d039-926e-4191-aada-463cacfdacff_2608/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/b240d039-926e-4191-aada-463cacfdacff_2608/000.webp",
+        "label": "Before contact",
+        "description": "glass before contact"
+      },
+      {
+        "src": "/data/explorer/b240d039-926e-4191-aada-463cacfdacff_2608/015.webp",
+        "label": "At contact",
+        "description": "glass at first contact"
+      }
+    ]
+  },
+  {
+    "id": "2e168c7b-3c33-448a-9000-c2aea9fedb46_503",
+    "object": "clothes",
+    "verb": "hold",
+    "action": "hold clothes 2",
+    "manifestUrl": "/data/explorer/2e168c7b-3c33-448a-9000-c2aea9fedb46_503/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/2e168c7b-3c33-448a-9000-c2aea9fedb46_503/000.webp",
+        "label": "Before contact",
+        "description": "clothes before contact"
+      },
+      {
+        "src": "/data/explorer/2e168c7b-3c33-448a-9000-c2aea9fedb46_503/015.webp",
+        "label": "At contact",
+        "description": "clothes at first contact"
+      }
+    ]
+  },
+  {
+    "id": "e435eea1-e4f7-4eef-970e-227152032a08_2036",
+    "object": "plastic bottle",
+    "verb": "pick",
+    "action": "pick up the plastic bottle from the ground",
+    "manifestUrl": "/data/explorer/e435eea1-e4f7-4eef-970e-227152032a08_2036/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/e435eea1-e4f7-4eef-970e-227152032a08_2036/000.webp",
+        "label": "Before contact",
+        "description": "plastic bottle before contact"
+      },
+      {
+        "src": "/data/explorer/e435eea1-e4f7-4eef-970e-227152032a08_2036/015.webp",
+        "label": "At contact",
+        "description": "plastic bottle at first contact"
+      }
+    ]
+  },
+  {
+    "id": "f04d9e03-3189-4ffb-a79a-2521355905bb_7822",
+    "object": "tomato",
+    "verb": "cut",
+    "action": "cut the tomato on the chopping board",
+    "manifestUrl": "/data/explorer/f04d9e03-3189-4ffb-a79a-2521355905bb_7822/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/f04d9e03-3189-4ffb-a79a-2521355905bb_7822/000.webp",
+        "label": "Before contact",
+        "description": "tomato before contact"
+      },
+      {
+        "src": "/data/explorer/f04d9e03-3189-4ffb-a79a-2521355905bb_7822/015.webp",
+        "label": "At contact",
+        "description": "tomato at first contact"
+      }
+    ]
+  },
+  {
+    "id": "b1c0f3ce-d0b1-4a27-9565-fee7466708f6_4924",
+    "object": "metal piece",
+    "verb": "hold",
+    "action": "hold a metal piece",
+    "manifestUrl": "/data/explorer/b1c0f3ce-d0b1-4a27-9565-fee7466708f6_4924/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/b1c0f3ce-d0b1-4a27-9565-fee7466708f6_4924/000.webp",
+        "label": "Before contact",
+        "description": "metal piece before contact"
+      },
+      {
+        "src": "/data/explorer/b1c0f3ce-d0b1-4a27-9565-fee7466708f6_4924/015.webp",
+        "label": "At contact",
+        "description": "metal piece at first contact"
+      }
+    ]
+  },
+  {
+    "id": "f9cbfb3a-d2e2-4f30-9c01-ee341b5e8887_12475",
+    "object": "nail",
+    "verb": "hold",
+    "action": "hold nail",
+    "manifestUrl": "/data/explorer/f9cbfb3a-d2e2-4f30-9c01-ee341b5e8887_12475/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/f9cbfb3a-d2e2-4f30-9c01-ee341b5e8887_12475/000.webp",
+        "label": "Before contact",
+        "description": "nail before contact"
+      },
+      {
+        "src": "/data/explorer/f9cbfb3a-d2e2-4f30-9c01-ee341b5e8887_12475/015.webp",
+        "label": "At contact",
+        "description": "nail at first contact"
+      }
+    ]
+  },
+  {
+    "id": "8d484057-49e2-491c-ae97-c051fa4d06f7_539",
+    "object": "spray bottle",
+    "verb": "pick up",
+    "action": "pick up the spray bottle from the workbench",
+    "manifestUrl": "/data/explorer/8d484057-49e2-491c-ae97-c051fa4d06f7_539/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/8d484057-49e2-491c-ae97-c051fa4d06f7_539/000.webp",
+        "label": "Before contact",
+        "description": "spray bottle before contact"
+      },
+      {
+        "src": "/data/explorer/8d484057-49e2-491c-ae97-c051fa4d06f7_539/015.webp",
+        "label": "At contact",
+        "description": "spray bottle at first contact"
+      }
+    ]
+  },
+  {
+    "id": "c5f661c6-f109-4b85-be16-089d5b65561c_10493",
+    "object": "plastic lid",
+    "verb": "pick up",
+    "action": "pick up the plastic lid from the counter",
+    "manifestUrl": "/data/explorer/c5f661c6-f109-4b85-be16-089d5b65561c_10493/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/c5f661c6-f109-4b85-be16-089d5b65561c_10493/000.webp",
+        "label": "Before contact",
+        "description": "plastic lid before contact"
+      },
+      {
+        "src": "/data/explorer/c5f661c6-f109-4b85-be16-089d5b65561c_10493/015.webp",
+        "label": "At contact",
+        "description": "plastic lid at first contact"
+      }
+    ]
+  },
+  {
+    "id": "8f339122-0193-4191-a0ea-d761b08ffffe_7272",
+    "object": "fork",
+    "verb": "hold",
+    "action": "hold the fork",
+    "manifestUrl": "/data/explorer/8f339122-0193-4191-a0ea-d761b08ffffe_7272/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/8f339122-0193-4191-a0ea-d761b08ffffe_7272/000.webp",
+        "label": "Before contact",
+        "description": "fork before contact"
+      },
+      {
+        "src": "/data/explorer/8f339122-0193-4191-a0ea-d761b08ffffe_7272/015.webp",
+        "label": "At contact",
+        "description": "fork at first contact"
+      }
+    ]
+  },
+  {
+    "id": "88a4a1a2-c61f-4a66-991d-a0d0538b0fe4_5054",
+    "object": "tire",
+    "verb": "pick",
+    "action": "pick up the tire from the table",
+    "manifestUrl": "/data/explorer/88a4a1a2-c61f-4a66-991d-a0d0538b0fe4_5054/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/88a4a1a2-c61f-4a66-991d-a0d0538b0fe4_5054/000.webp",
+        "label": "Before contact",
+        "description": "tire before contact"
+      },
+      {
+        "src": "/data/explorer/88a4a1a2-c61f-4a66-991d-a0d0538b0fe4_5054/015.webp",
+        "label": "At contact",
+        "description": "tire at first contact"
+      }
+    ]
+  },
+  {
+    "id": "0a8f6747-7f79-4176-85ca-f5ec01a15435_12133",
+    "object": "rope",
+    "verb": "pick up",
+    "action": "pick up the rope from the floor",
+    "manifestUrl": "/data/explorer/0a8f6747-7f79-4176-85ca-f5ec01a15435_12133/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/0a8f6747-7f79-4176-85ca-f5ec01a15435_12133/000.webp",
+        "label": "Before contact",
+        "description": "rope before contact"
+      },
+      {
+        "src": "/data/explorer/0a8f6747-7f79-4176-85ca-f5ec01a15435_12133/015.webp",
+        "label": "At contact",
+        "description": "rope at first contact"
+      }
+    ]
+  },
+  {
+    "id": "d0d30d72-7d17-4181-8861-60f95f89709e_10253",
+    "object": "metal rod",
+    "verb": "hold",
+    "action": "hold metal rod",
+    "manifestUrl": "/data/explorer/d0d30d72-7d17-4181-8861-60f95f89709e_10253/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/d0d30d72-7d17-4181-8861-60f95f89709e_10253/000.webp",
+        "label": "Before contact",
+        "description": "metal rod before contact"
+      },
+      {
+        "src": "/data/explorer/d0d30d72-7d17-4181-8861-60f95f89709e_10253/015.webp",
+        "label": "At contact",
+        "description": "metal rod at first contact"
+      }
+    ]
+  },
+  {
+    "id": "7e9dab14-9ef1-48b1-9baa-505e2ef89cda_7955",
+    "object": "branch",
+    "verb": "hold",
+    "action": "hold the branch",
+    "manifestUrl": "/data/explorer/7e9dab14-9ef1-48b1-9baa-505e2ef89cda_7955/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/7e9dab14-9ef1-48b1-9baa-505e2ef89cda_7955/000.webp",
+        "label": "Before contact",
+        "description": "branch before contact"
+      },
+      {
+        "src": "/data/explorer/7e9dab14-9ef1-48b1-9baa-505e2ef89cda_7955/015.webp",
+        "label": "At contact",
+        "description": "branch at first contact"
+      }
+    ]
+  },
+  {
+    "id": "ba412542-df38-4f9a-86d4-05abbff10079_2244",
+    "object": "tape",
+    "verb": "hold",
+    "action": "hold the tape",
+    "manifestUrl": "/data/explorer/ba412542-df38-4f9a-86d4-05abbff10079_2244/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/ba412542-df38-4f9a-86d4-05abbff10079_2244/000.webp",
+        "label": "Before contact",
+        "description": "tape before contact"
+      },
+      {
+        "src": "/data/explorer/ba412542-df38-4f9a-86d4-05abbff10079_2244/015.webp",
+        "label": "At contact",
+        "description": "tape at first contact"
+      }
+    ]
+  },
+  {
+    "id": "bf74ed2d-889b-49df-a023-dc4ce6a346f3_1472",
+    "object": "tray",
+    "verb": "hold",
+    "action": "hold a tray with noodles on the counter",
+    "manifestUrl": "/data/explorer/bf74ed2d-889b-49df-a023-dc4ce6a346f3_1472/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/bf74ed2d-889b-49df-a023-dc4ce6a346f3_1472/000.webp",
+        "label": "Before contact",
+        "description": "tray before contact"
+      },
+      {
+        "src": "/data/explorer/bf74ed2d-889b-49df-a023-dc4ce6a346f3_1472/015.webp",
+        "label": "At contact",
+        "description": "tray at first contact"
+      }
+    ]
+  },
+  {
+    "id": "569e69fa-3fd9-410d-86cf-64a590dd0946_4642",
+    "object": "potato",
+    "verb": "pick",
+    "action": "pick the potato from the cutting board",
+    "manifestUrl": "/data/explorer/569e69fa-3fd9-410d-86cf-64a590dd0946_4642/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/569e69fa-3fd9-410d-86cf-64a590dd0946_4642/000.webp",
+        "label": "Before contact",
+        "description": "potato before contact"
+      },
+      {
+        "src": "/data/explorer/569e69fa-3fd9-410d-86cf-64a590dd0946_4642/015.webp",
+        "label": "At contact",
+        "description": "potato at first contact"
+      }
+    ]
+  },
+  {
+    "id": "99f39765-99fe-4174-8093-af74b27c0a45_3467",
+    "object": "plastic cover",
+    "verb": "pick",
+    "action": "pick a plastic cover from the counter",
+    "manifestUrl": "/data/explorer/99f39765-99fe-4174-8093-af74b27c0a45_3467/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/99f39765-99fe-4174-8093-af74b27c0a45_3467/000.webp",
+        "label": "Before contact",
+        "description": "plastic cover before contact"
+      },
+      {
+        "src": "/data/explorer/99f39765-99fe-4174-8093-af74b27c0a45_3467/015.webp",
+        "label": "At contact",
+        "description": "plastic cover at first contact"
+      }
+    ]
+  },
+  {
+    "id": "4c470c78-989f-4331-a1e3-dff778df11b4_4555",
+    "object": "mug",
+    "verb": "hold",
+    "action": "hold mug",
+    "manifestUrl": "/data/explorer/4c470c78-989f-4331-a1e3-dff778df11b4_4555/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/4c470c78-989f-4331-a1e3-dff778df11b4_4555/000.webp",
+        "label": "Before contact",
+        "description": "mug before contact"
+      },
+      {
+        "src": "/data/explorer/4c470c78-989f-4331-a1e3-dff778df11b4_4555/015.webp",
+        "label": "At contact",
+        "description": "mug at first contact"
+      }
+    ]
+  },
+  {
+    "id": "97a55477-9d6a-4768-b128-bf899c163384_9080",
+    "object": "thread",
+    "verb": "take",
+    "action": "take a thread from the plant",
+    "manifestUrl": "/data/explorer/97a55477-9d6a-4768-b128-bf899c163384_9080/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/97a55477-9d6a-4768-b128-bf899c163384_9080/000.webp",
+        "label": "Before contact",
+        "description": "thread before contact"
+      },
+      {
+        "src": "/data/explorer/97a55477-9d6a-4768-b128-bf899c163384_9080/015.webp",
+        "label": "At contact",
+        "description": "thread at first contact"
+      }
+    ]
+  },
+  {
+    "id": "8784badf-c801-4275-ad75-74ed786874e4_10532",
+    "object": "gloves",
+    "verb": "hold",
+    "action": "hold the gloves",
+    "manifestUrl": "/data/explorer/8784badf-c801-4275-ad75-74ed786874e4_10532/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/8784badf-c801-4275-ad75-74ed786874e4_10532/000.webp",
+        "label": "Before contact",
+        "description": "gloves before contact"
+      },
+      {
+        "src": "/data/explorer/8784badf-c801-4275-ad75-74ed786874e4_10532/015.webp",
+        "label": "At contact",
+        "description": "gloves at first contact"
+      }
+    ]
+  },
+  {
+    "id": "63a1c028-3919-462b-9c97-9a22c5296eae_4523",
+    "object": "pot cover",
+    "verb": "pick",
+    "action": "pick up the pot cover from the shelf",
+    "manifestUrl": "/data/explorer/63a1c028-3919-462b-9c97-9a22c5296eae_4523/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/63a1c028-3919-462b-9c97-9a22c5296eae_4523/000.webp",
+        "label": "Before contact",
+        "description": "pot cover before contact"
+      },
+      {
+        "src": "/data/explorer/63a1c028-3919-462b-9c97-9a22c5296eae_4523/015.webp",
+        "label": "At contact",
+        "description": "pot cover at first contact"
+      }
+    ]
+  },
+  {
+    "id": "3ecc5e01-ae26-46b5-80bf-a4a7ac29029d_7269",
+    "object": "rock",
+    "verb": "pick",
+    "action": "pick a rock from the table",
+    "manifestUrl": "/data/explorer/3ecc5e01-ae26-46b5-80bf-a4a7ac29029d_7269/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/3ecc5e01-ae26-46b5-80bf-a4a7ac29029d_7269/000.webp",
+        "label": "Before contact",
+        "description": "rock before contact"
+      },
+      {
+        "src": "/data/explorer/3ecc5e01-ae26-46b5-80bf-a4a7ac29029d_7269/015.webp",
+        "label": "At contact",
+        "description": "rock at first contact"
+      }
+    ]
+  },
+  {
+    "id": "ea3208bf-bd61-46ac-803e-acfabcb50958_3065",
+    "object": "lawn mower",
+    "verb": "hold",
+    "action": "hold the lawn mower",
+    "manifestUrl": "/data/explorer/ea3208bf-bd61-46ac-803e-acfabcb50958_3065/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/ea3208bf-bd61-46ac-803e-acfabcb50958_3065/000.webp",
+        "label": "Before contact",
+        "description": "lawn mower before contact"
+      },
+      {
+        "src": "/data/explorer/ea3208bf-bd61-46ac-803e-acfabcb50958_3065/015.webp",
+        "label": "At contact",
+        "description": "lawn mower at first contact"
+      }
+    ]
+  },
+  {
+    "id": "9dd1aa17-0d02-444e-afbf-b00ba71fbd96_1280",
+    "object": "can",
+    "verb": "pick",
+    "action": "pick can 3",
+    "manifestUrl": "/data/explorer/9dd1aa17-0d02-444e-afbf-b00ba71fbd96_1280/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/9dd1aa17-0d02-444e-afbf-b00ba71fbd96_1280/000.webp",
+        "label": "Before contact",
+        "description": "can before contact"
+      },
+      {
+        "src": "/data/explorer/9dd1aa17-0d02-444e-afbf-b00ba71fbd96_1280/015.webp",
+        "label": "At contact",
+        "description": "can at first contact"
+      }
+    ]
+  },
+  {
+    "id": "d704a74c-7b06-4d5a-a37c-1d42276057dd_9115",
+    "object": "leaves",
+    "verb": "pick",
+    "action": "pick leaves from the bush",
+    "manifestUrl": "/data/explorer/d704a74c-7b06-4d5a-a37c-1d42276057dd_9115/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/d704a74c-7b06-4d5a-a37c-1d42276057dd_9115/000.webp",
+        "label": "Before contact",
+        "description": "leaves before contact"
+      },
+      {
+        "src": "/data/explorer/d704a74c-7b06-4d5a-a37c-1d42276057dd_9115/015.webp",
+        "label": "At contact",
+        "description": "leaves at first contact"
+      }
+    ]
+  },
+  {
+    "id": "7d08c87a-7ced-46fb-9fa3-df43b26a79e1_4475",
+    "object": "machine",
+    "verb": "pick",
+    "action": "pick a machine from the cabinet",
+    "manifestUrl": "/data/explorer/7d08c87a-7ced-46fb-9fa3-df43b26a79e1_4475/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/7d08c87a-7ced-46fb-9fa3-df43b26a79e1_4475/000.webp",
+        "label": "Before contact",
+        "description": "machine before contact"
+      },
+      {
+        "src": "/data/explorer/7d08c87a-7ced-46fb-9fa3-df43b26a79e1_4475/015.webp",
+        "label": "At contact",
+        "description": "machine at first contact"
+      }
+    ]
+  },
+  {
+    "id": "c474b461-e727-429f-b253-ac7ebc10097a_161",
+    "object": "bicycle",
+    "verb": "pick up",
+    "action": "pick up the bicycle from the floor",
+    "manifestUrl": "/data/explorer/c474b461-e727-429f-b253-ac7ebc10097a_161/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/c474b461-e727-429f-b253-ac7ebc10097a_161/000.webp",
+        "label": "Before contact",
+        "description": "bicycle before contact"
+      },
+      {
+        "src": "/data/explorer/c474b461-e727-429f-b253-ac7ebc10097a_161/015.webp",
+        "label": "At contact",
+        "description": "bicycle at first contact"
+      }
+    ]
+  },
+  {
+    "id": "f0569e5f-bac3-4a08-a85c-bd02fc68c0e1_7797",
+    "object": "plant pot",
+    "verb": "hold",
+    "action": "hold plant pot",
+    "manifestUrl": "/data/explorer/f0569e5f-bac3-4a08-a85c-bd02fc68c0e1_7797/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/f0569e5f-bac3-4a08-a85c-bd02fc68c0e1_7797/000.webp",
+        "label": "Before contact",
+        "description": "plant pot before contact"
+      },
+      {
+        "src": "/data/explorer/f0569e5f-bac3-4a08-a85c-bd02fc68c0e1_7797/015.webp",
+        "label": "At contact",
+        "description": "plant pot at first contact"
+      }
+    ]
+  },
+  {
+    "id": "d1b663dc-a806-443f-8da6-d657a89efcd7_10555",
+    "object": "kitchen towel",
+    "verb": "hold",
+    "action": "hold a kitchen towel",
+    "manifestUrl": "/data/explorer/d1b663dc-a806-443f-8da6-d657a89efcd7_10555/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/d1b663dc-a806-443f-8da6-d657a89efcd7_10555/000.webp",
+        "label": "Before contact",
+        "description": "kitchen towel before contact"
+      },
+      {
+        "src": "/data/explorer/d1b663dc-a806-443f-8da6-d657a89efcd7_10555/015.webp",
+        "label": "At contact",
+        "description": "kitchen towel at first contact"
+      }
+    ]
+  },
+  {
+    "id": "78f988e3-06d6-4fcf-ba5e-f7eedaa03fbf_2222",
+    "object": "pedal",
+    "verb": "remove",
+    "action": "remove the pedal from the bicycle",
+    "manifestUrl": "/data/explorer/78f988e3-06d6-4fcf-ba5e-f7eedaa03fbf_2222/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/78f988e3-06d6-4fcf-ba5e-f7eedaa03fbf_2222/000.webp",
+        "label": "Before contact",
+        "description": "pedal before contact"
+      },
+      {
+        "src": "/data/explorer/78f988e3-06d6-4fcf-ba5e-f7eedaa03fbf_2222/015.webp",
+        "label": "At contact",
+        "description": "pedal at first contact"
+      }
+    ]
+  },
+  {
+    "id": "0a6b9994-77e3-4d27-972f-e2ff26635504_6520",
+    "object": "grass",
+    "verb": "pick",
+    "action": "pick up grass from the ground",
+    "manifestUrl": "/data/explorer/0a6b9994-77e3-4d27-972f-e2ff26635504_6520/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/0a6b9994-77e3-4d27-972f-e2ff26635504_6520/000.webp",
+        "label": "Before contact",
+        "description": "grass before contact"
+      },
+      {
+        "src": "/data/explorer/0a6b9994-77e3-4d27-972f-e2ff26635504_6520/015.webp",
+        "label": "At contact",
+        "description": "grass at first contact"
+      }
+    ]
+  },
+  {
+    "id": "a1a60865-6363-4741-94fd-a5231aee5d61_781",
+    "object": "clothes iron",
+    "verb": "pick",
+    "action": "pick a clothes iron",
+    "manifestUrl": "/data/explorer/a1a60865-6363-4741-94fd-a5231aee5d61_781/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/a1a60865-6363-4741-94fd-a5231aee5d61_781/000.webp",
+        "label": "Before contact",
+        "description": "clothes iron before contact"
+      },
+      {
+        "src": "/data/explorer/a1a60865-6363-4741-94fd-a5231aee5d61_781/015.webp",
+        "label": "At contact",
+        "description": "clothes iron at first contact"
+      }
+    ]
+  },
+  {
+    "id": "fc7f7838-45c9-42bb-9dd0-1188e6b82ea4_3220",
+    "object": "lawnmower",
+    "verb": "push",
+    "action": "push the lawnmower across the grass",
+    "manifestUrl": "/data/explorer/fc7f7838-45c9-42bb-9dd0-1188e6b82ea4_3220/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/fc7f7838-45c9-42bb-9dd0-1188e6b82ea4_3220/000.webp",
+        "label": "Before contact",
+        "description": "lawnmower before contact"
+      },
+      {
+        "src": "/data/explorer/fc7f7838-45c9-42bb-9dd0-1188e6b82ea4_3220/015.webp",
+        "label": "At contact",
+        "description": "lawnmower at first contact"
+      }
+    ]
+  },
+  {
+    "id": "5243cb20-2517-4f28-ac68-c957e00663f1_1866",
+    "object": "wooden board",
+    "verb": "lift",
+    "action": "lift the wooden board from the ground",
+    "manifestUrl": "/data/explorer/5243cb20-2517-4f28-ac68-c957e00663f1_1866/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/5243cb20-2517-4f28-ac68-c957e00663f1_1866/000.webp",
+        "label": "Before contact",
+        "description": "wooden board before contact"
+      },
+      {
+        "src": "/data/explorer/5243cb20-2517-4f28-ac68-c957e00663f1_1866/015.webp",
+        "label": "At contact",
+        "description": "wooden board at first contact"
+      }
+    ]
+  },
+  {
+    "id": "029cd34d-0672-4242-821a-de7495597b3c_6726",
+    "object": "egg",
+    "verb": "pick",
+    "action": "pick up the egg from the counter",
+    "manifestUrl": "/data/explorer/029cd34d-0672-4242-821a-de7495597b3c_6726/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/029cd34d-0672-4242-821a-de7495597b3c_6726/000.webp",
+        "label": "Before contact",
+        "description": "egg before contact"
+      },
+      {
+        "src": "/data/explorer/029cd34d-0672-4242-821a-de7495597b3c_6726/015.webp",
+        "label": "At contact",
+        "description": "egg at first contact"
+      }
+    ]
+  },
+  {
+    "id": "56d0585a-7493-4602-af34-827e2d472e10_3581",
+    "object": "rolling pin",
+    "verb": "pick up",
+    "action": "pick rolling pin",
+    "manifestUrl": "/data/explorer/56d0585a-7493-4602-af34-827e2d472e10_3581/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/56d0585a-7493-4602-af34-827e2d472e10_3581/000.webp",
+        "label": "Before contact",
+        "description": "rolling pin before contact"
+      },
+      {
+        "src": "/data/explorer/56d0585a-7493-4602-af34-827e2d472e10_3581/015.webp",
+        "label": "At contact",
+        "description": "rolling pin at first contact"
+      }
+    ]
+  },
+  {
+    "id": "935c7f54-e4d7-4b38-b534-8ff5891ec1a9_2180",
+    "object": "vacuum cleaner",
+    "verb": "operate",
+    "action": "operate the vacuum cleaner",
+    "manifestUrl": "/data/explorer/935c7f54-e4d7-4b38-b534-8ff5891ec1a9_2180/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/935c7f54-e4d7-4b38-b534-8ff5891ec1a9_2180/000.webp",
+        "label": "Before contact",
+        "description": "vacuum cleaner before contact"
+      },
+      {
+        "src": "/data/explorer/935c7f54-e4d7-4b38-b534-8ff5891ec1a9_2180/015.webp",
+        "label": "At contact",
+        "description": "vacuum cleaner at first contact"
+      }
+    ]
+  },
+  {
+    "id": "13c02f7b-d7a6-4979-aa75-69b548bf01ba_996",
+    "object": "cutter",
+    "verb": "pick up",
+    "action": "pick up the cutter from the table",
+    "manifestUrl": "/data/explorer/13c02f7b-d7a6-4979-aa75-69b548bf01ba_996/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/13c02f7b-d7a6-4979-aa75-69b548bf01ba_996/000.webp",
+        "label": "Before contact",
+        "description": "cutter before contact"
+      },
+      {
+        "src": "/data/explorer/13c02f7b-d7a6-4979-aa75-69b548bf01ba_996/015.webp",
+        "label": "At contact",
+        "description": "cutter at first contact"
+      }
+    ]
+  },
+  {
+    "id": "1799ae19-82cd-4615-8cc5-ebe5f342abef_9563",
+    "object": "cabinet door",
+    "verb": "pull",
+    "action": "pull cabinet door",
+    "manifestUrl": "/data/explorer/1799ae19-82cd-4615-8cc5-ebe5f342abef_9563/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/1799ae19-82cd-4615-8cc5-ebe5f342abef_9563/000.webp",
+        "label": "Before contact",
+        "description": "cabinet door before contact"
+      },
+      {
+        "src": "/data/explorer/1799ae19-82cd-4615-8cc5-ebe5f342abef_9563/015.webp",
+        "label": "At contact",
+        "description": "cabinet door at first contact"
+      }
+    ]
+  },
+  {
+    "id": "3e1e04a6-433a-40a0-8747-9ec5bdca862b_6239",
+    "object": "metal",
+    "verb": "pick",
+    "action": "pick a metal",
+    "manifestUrl": "/data/explorer/3e1e04a6-433a-40a0-8747-9ec5bdca862b_6239/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/3e1e04a6-433a-40a0-8747-9ec5bdca862b_6239/000.webp",
+        "label": "Before contact",
+        "description": "metal before contact"
+      },
+      {
+        "src": "/data/explorer/3e1e04a6-433a-40a0-8747-9ec5bdca862b_6239/015.webp",
+        "label": "At contact",
+        "description": "metal at first contact"
+      }
+    ]
+  },
+  {
+    "id": "93d16e5d-8a11-4265-85fc-1d2222d0d6db_1203",
+    "object": "oil bottle",
+    "verb": "apply",
+    "action": "apply oil from bottle to bicycle chain",
+    "manifestUrl": "/data/explorer/93d16e5d-8a11-4265-85fc-1d2222d0d6db_1203/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/93d16e5d-8a11-4265-85fc-1d2222d0d6db_1203/000.webp",
+        "label": "Before contact",
+        "description": "oil bottle before contact"
+      },
+      {
+        "src": "/data/explorer/93d16e5d-8a11-4265-85fc-1d2222d0d6db_1203/015.webp",
+        "label": "At contact",
+        "description": "oil bottle at first contact"
+      }
+    ]
+  },
+  {
+    "id": "67172d05-2f23-4993-a389-5c1dee555601_4794",
+    "object": "bicycle wheel",
+    "verb": "hold",
+    "action": "hold bicycle wheel",
+    "manifestUrl": "/data/explorer/67172d05-2f23-4993-a389-5c1dee555601_4794/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/67172d05-2f23-4993-a389-5c1dee555601_4794/000.webp",
+        "label": "Before contact",
+        "description": "bicycle wheel before contact"
+      },
+      {
+        "src": "/data/explorer/67172d05-2f23-4993-a389-5c1dee555601_4794/015.webp",
+        "label": "At contact",
+        "description": "bicycle wheel at first contact"
+      }
+    ]
+  },
+  {
+    "id": "0fcaa065-8e5d-4419-8e7e-a1ee90ee93a2_169",
+    "object": "plastic plate",
+    "verb": "take",
+    "action": "take a plastic plate from the fridge",
+    "manifestUrl": "/data/explorer/0fcaa065-8e5d-4419-8e7e-a1ee90ee93a2_169/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/0fcaa065-8e5d-4419-8e7e-a1ee90ee93a2_169/000.webp",
+        "label": "Before contact",
+        "description": "plastic plate before contact"
+      },
+      {
+        "src": "/data/explorer/0fcaa065-8e5d-4419-8e7e-a1ee90ee93a2_169/015.webp",
+        "label": "At contact",
+        "description": "plastic plate at first contact"
+      }
+    ]
+  },
+  {
+    "id": "03041025-c6de-41de-8e98-c02935b73a1c_1102",
+    "object": "cardboard box",
+    "verb": "take",
+    "action": "take cardboard box from cabinet",
+    "manifestUrl": "/data/explorer/03041025-c6de-41de-8e98-c02935b73a1c_1102/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/03041025-c6de-41de-8e98-c02935b73a1c_1102/000.webp",
+        "label": "Before contact",
+        "description": "cardboard box before contact"
+      },
+      {
+        "src": "/data/explorer/03041025-c6de-41de-8e98-c02935b73a1c_1102/015.webp",
+        "label": "At contact",
+        "description": "cardboard box at first contact"
+      }
+    ]
+  },
+  {
+    "id": "09076695-dcb4-4f4f-bdee-ce09faeae293_141",
+    "object": "peach",
+    "verb": "pick",
+    "action": "pick a peach from a container on the counter",
+    "manifestUrl": "/data/explorer/09076695-dcb4-4f4f-bdee-ce09faeae293_141/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/09076695-dcb4-4f4f-bdee-ce09faeae293_141/000.webp",
+        "label": "Before contact",
+        "description": "peach before contact"
+      },
+      {
+        "src": "/data/explorer/09076695-dcb4-4f4f-bdee-ce09faeae293_141/015.webp",
+        "label": "At contact",
+        "description": "peach at first contact"
+      }
+    ]
+  },
+  {
+    "id": "47555b47-8772-4b47-ad31-66edbe9b32d6_2361",
+    "object": "tape measure",
+    "verb": "hold",
+    "action": "hold the tape measure",
+    "manifestUrl": "/data/explorer/47555b47-8772-4b47-ad31-66edbe9b32d6_2361/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/47555b47-8772-4b47-ad31-66edbe9b32d6_2361/000.webp",
+        "label": "Before contact",
+        "description": "tape measure before contact"
+      },
+      {
+        "src": "/data/explorer/47555b47-8772-4b47-ad31-66edbe9b32d6_2361/015.webp",
+        "label": "At contact",
+        "description": "tape measure at first contact"
+      }
+    ]
+  },
+  {
+    "id": "c664f078-9b34-4a58-b949-180ac4bc0980_2527",
+    "object": "stone",
+    "verb": "pick",
+    "action": "pick a stone",
+    "manifestUrl": "/data/explorer/c664f078-9b34-4a58-b949-180ac4bc0980_2527/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/c664f078-9b34-4a58-b949-180ac4bc0980_2527/000.webp",
+        "label": "Before contact",
+        "description": "stone before contact"
+      },
+      {
+        "src": "/data/explorer/c664f078-9b34-4a58-b949-180ac4bc0980_2527/015.webp",
+        "label": "At contact",
+        "description": "stone at first contact"
+      }
+    ]
+  },
+  {
+    "id": "25cd1eff-5ecc-4efc-af2e-500b960e4134_1791",
+    "object": "kettle",
+    "verb": "pick up",
+    "action": "pick up the white kettle from the stove",
+    "manifestUrl": "/data/explorer/25cd1eff-5ecc-4efc-af2e-500b960e4134_1791/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/25cd1eff-5ecc-4efc-af2e-500b960e4134_1791/000.webp",
+        "label": "Before contact",
+        "description": "kettle before contact"
+      },
+      {
+        "src": "/data/explorer/25cd1eff-5ecc-4efc-af2e-500b960e4134_1791/015.webp",
+        "label": "At contact",
+        "description": "kettle at first contact"
+      }
+    ]
+  },
+  {
+    "id": "c20f6d6d-1b57-4a63-9cde-bd9e00943f98_4309",
+    "object": "flatbread",
+    "verb": "flip",
+    "action": "flip the flatbread on the pan",
+    "manifestUrl": "/data/explorer/c20f6d6d-1b57-4a63-9cde-bd9e00943f98_4309/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/c20f6d6d-1b57-4a63-9cde-bd9e00943f98_4309/000.webp",
+        "label": "Before contact",
+        "description": "flatbread before contact"
+      },
+      {
+        "src": "/data/explorer/c20f6d6d-1b57-4a63-9cde-bd9e00943f98_4309/015.webp",
+        "label": "At contact",
+        "description": "flatbread at first contact"
+      }
+    ]
+  },
+  {
+    "id": "7380c46e-cb33-4d49-bf73-a7bfe57c3feb_1936",
+    "object": "book",
+    "verb": "pick",
+    "action": "pick up the book from the counter",
+    "manifestUrl": "/data/explorer/7380c46e-cb33-4d49-bf73-a7bfe57c3feb_1936/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/7380c46e-cb33-4d49-bf73-a7bfe57c3feb_1936/000.webp",
+        "label": "Before contact",
+        "description": "book before contact"
+      },
+      {
+        "src": "/data/explorer/7380c46e-cb33-4d49-bf73-a7bfe57c3feb_1936/015.webp",
+        "label": "At contact",
+        "description": "book at first contact"
+      }
+    ]
+  },
+  {
+    "id": "7838357e-d81f-49c5-ba87-ad212cc20579_2939",
+    "object": "clay",
+    "verb": "mold",
+    "action": "mold the clay with hands",
+    "manifestUrl": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_2939/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_2939/000.webp",
+        "label": "Before contact",
+        "description": "clay before contact"
+      },
+      {
+        "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_2939/015.webp",
+        "label": "At contact",
+        "description": "clay at first contact"
+      }
+    ]
+  },
+  {
+    "id": "e437d881-321a-44ec-8861-a7b0ca52393c_4163",
+    "object": "pen",
+    "verb": "pick",
+    "action": "pick the pen from the floor",
+    "manifestUrl": "/data/explorer/e437d881-321a-44ec-8861-a7b0ca52393c_4163/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/e437d881-321a-44ec-8861-a7b0ca52393c_4163/000.webp",
+        "label": "Before contact",
+        "description": "pen before contact"
+      },
+      {
+        "src": "/data/explorer/e437d881-321a-44ec-8861-a7b0ca52393c_4163/015.webp",
+        "label": "At contact",
+        "description": "pen at first contact"
+      }
+    ]
+  },
+  {
+    "id": "8de583fc-d441-4485-b1ca-67f49e0567a1_9165",
+    "object": "shirt",
+    "verb": "pick",
+    "action": "pick up the shirt from the ironing board",
+    "manifestUrl": "/data/explorer/8de583fc-d441-4485-b1ca-67f49e0567a1_9165/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/8de583fc-d441-4485-b1ca-67f49e0567a1_9165/000.webp",
+        "label": "Before contact",
+        "description": "shirt before contact"
+      },
+      {
+        "src": "/data/explorer/8de583fc-d441-4485-b1ca-67f49e0567a1_9165/015.webp",
+        "label": "At contact",
+        "description": "shirt at first contact"
+      }
+    ]
+  },
+  {
+    "id": "406388a0-31d3-4e2a-a91c-5f098867dd07_875",
+    "object": "glove",
+    "verb": "hold",
+    "action": "hold glove",
+    "manifestUrl": "/data/explorer/406388a0-31d3-4e2a-a91c-5f098867dd07_875/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/406388a0-31d3-4e2a-a91c-5f098867dd07_875/000.webp",
+        "label": "Before contact",
+        "description": "glove before contact"
+      },
+      {
+        "src": "/data/explorer/406388a0-31d3-4e2a-a91c-5f098867dd07_875/015.webp",
+        "label": "At contact",
+        "description": "glove at first contact"
+      }
+    ]
+  },
+  {
+    "id": "be97c001-8d23-4d16-8fd5-489773979277_5447",
+    "object": "product",
+    "verb": "hold",
+    "action": "hold the product",
+    "manifestUrl": "/data/explorer/be97c001-8d23-4d16-8fd5-489773979277_5447/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/be97c001-8d23-4d16-8fd5-489773979277_5447/000.webp",
+        "label": "Before contact",
+        "description": "product before contact"
+      },
+      {
+        "src": "/data/explorer/be97c001-8d23-4d16-8fd5-489773979277_5447/015.webp",
+        "label": "At contact",
+        "description": "product at first contact"
+      }
+    ]
+  },
+  {
+    "id": "bfd5ae07-befe-40c5-a210-88affc48b651_5259",
+    "object": "banana",
+    "verb": "pick",
+    "action": "pick the banana from the drawer",
+    "manifestUrl": "/data/explorer/bfd5ae07-befe-40c5-a210-88affc48b651_5259/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/bfd5ae07-befe-40c5-a210-88affc48b651_5259/000.webp",
+        "label": "Before contact",
+        "description": "banana before contact"
+      },
+      {
+        "src": "/data/explorer/bfd5ae07-befe-40c5-a210-88affc48b651_5259/015.webp",
+        "label": "At contact",
+        "description": "banana at first contact"
+      }
+    ]
+  },
+  {
+    "id": "60198a60-a4ad-4ca3-951f-ed36c370e322_745",
+    "object": "metal part",
+    "verb": "hold",
+    "action": "hold a metal part",
+    "manifestUrl": "/data/explorer/60198a60-a4ad-4ca3-951f-ed36c370e322_745/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/60198a60-a4ad-4ca3-951f-ed36c370e322_745/000.webp",
+        "label": "Before contact",
+        "description": "metal part before contact"
+      },
+      {
+        "src": "/data/explorer/60198a60-a4ad-4ca3-951f-ed36c370e322_745/015.webp",
+        "label": "At contact",
+        "description": "metal part at first contact"
+      }
+    ]
+  },
+  {
+    "id": "5cffd5df-4174-43fd-976b-9d2f259eff03_2447",
+    "object": "flower",
+    "verb": "take",
+    "action": "take flower",
+    "manifestUrl": "/data/explorer/5cffd5df-4174-43fd-976b-9d2f259eff03_2447/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/5cffd5df-4174-43fd-976b-9d2f259eff03_2447/000.webp",
+        "label": "Before contact",
+        "description": "flower before contact"
+      },
+      {
+        "src": "/data/explorer/5cffd5df-4174-43fd-976b-9d2f259eff03_2447/015.webp",
+        "label": "At contact",
+        "description": "flower at first contact"
+      }
+    ]
+  },
+  {
+    "id": "45ecdf39-359a-4945-b97c-ff7701f91141_2914",
+    "object": "wood piece",
+    "verb": "hold",
+    "action": "hold wood piece",
+    "manifestUrl": "/data/explorer/45ecdf39-359a-4945-b97c-ff7701f91141_2914/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/45ecdf39-359a-4945-b97c-ff7701f91141_2914/000.webp",
+        "label": "Before contact",
+        "description": "wood piece before contact"
+      },
+      {
+        "src": "/data/explorer/45ecdf39-359a-4945-b97c-ff7701f91141_2914/015.webp",
+        "label": "At contact",
+        "description": "wood piece at first contact"
+      }
+    ]
+  },
+  {
+    "id": "e4467ac8-68c6-422f-9b15-d4527391c75f_12733",
+    "object": "screw",
+    "verb": "pick",
+    "action": "pick a screw from the workbench",
+    "manifestUrl": "/data/explorer/e4467ac8-68c6-422f-9b15-d4527391c75f_12733/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/e4467ac8-68c6-422f-9b15-d4527391c75f_12733/000.webp",
+        "label": "Before contact",
+        "description": "screw before contact"
+      },
+      {
+        "src": "/data/explorer/e4467ac8-68c6-422f-9b15-d4527391c75f_12733/015.webp",
+        "label": "At contact",
+        "description": "screw at first contact"
+      }
+    ]
+  },
+  {
+    "id": "014a5394-4d06-48ce-8668-a22985e99e17_6253",
+    "object": "wrench",
+    "verb": "take",
+    "action": "take wrench from cabinet",
+    "manifestUrl": "/data/explorer/014a5394-4d06-48ce-8668-a22985e99e17_6253/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/014a5394-4d06-48ce-8668-a22985e99e17_6253/000.webp",
+        "label": "Before contact",
+        "description": "wrench before contact"
+      },
+      {
+        "src": "/data/explorer/014a5394-4d06-48ce-8668-a22985e99e17_6253/015.webp",
+        "label": "At contact",
+        "description": "wrench at first contact"
+      }
+    ]
+  },
+  {
+    "id": "51462381-1268-4c56-80a0-02f736f4c52e_8873",
+    "object": "wooden piece",
+    "verb": "hold",
+    "action": "hold the wooden piece with both hands",
+    "manifestUrl": "/data/explorer/51462381-1268-4c56-80a0-02f736f4c52e_8873/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/51462381-1268-4c56-80a0-02f736f4c52e_8873/000.webp",
+        "label": "Before contact",
+        "description": "wooden piece before contact"
+      },
+      {
+        "src": "/data/explorer/51462381-1268-4c56-80a0-02f736f4c52e_8873/015.webp",
+        "label": "At contact",
+        "description": "wooden piece at first contact"
+      }
+    ]
+  },
+  {
+    "id": "ababf69e-2711-4c64-890b-1a345aec2311_1194",
+    "object": "plastic piece",
+    "verb": "pick up",
+    "action": "pick up the red plate from the counter",
+    "manifestUrl": "/data/explorer/ababf69e-2711-4c64-890b-1a345aec2311_1194/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/ababf69e-2711-4c64-890b-1a345aec2311_1194/000.webp",
+        "label": "Before contact",
+        "description": "plastic piece before contact"
+      },
+      {
+        "src": "/data/explorer/ababf69e-2711-4c64-890b-1a345aec2311_1194/015.webp",
+        "label": "At contact",
+        "description": "plastic piece at first contact"
+      }
+    ]
+  },
+  {
+    "id": "b1abc8f1-ac54-47dd-ba57-2f1aa4e76ff1_6252",
+    "object": "carton",
+    "verb": "hold",
+    "action": "hold a carton",
+    "manifestUrl": "/data/explorer/b1abc8f1-ac54-47dd-ba57-2f1aa4e76ff1_6252/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/b1abc8f1-ac54-47dd-ba57-2f1aa4e76ff1_6252/000.webp",
+        "label": "Before contact",
+        "description": "carton before contact"
+      },
+      {
+        "src": "/data/explorer/b1abc8f1-ac54-47dd-ba57-2f1aa4e76ff1_6252/015.webp",
+        "label": "At contact",
+        "description": "carton at first contact"
+      }
+    ]
+  },
+  {
+    "id": "9b657b29-ee00-4999-beea-2fe1d5d19cd2_12441",
+    "object": "ladle",
+    "verb": "dip",
+    "action": "dip ladle into batter in pot",
+    "manifestUrl": "/data/explorer/9b657b29-ee00-4999-beea-2fe1d5d19cd2_12441/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/9b657b29-ee00-4999-beea-2fe1d5d19cd2_12441/000.webp",
+        "label": "Before contact",
+        "description": "ladle before contact"
+      },
+      {
+        "src": "/data/explorer/9b657b29-ee00-4999-beea-2fe1d5d19cd2_12441/015.webp",
+        "label": "At contact",
+        "description": "ladle at first contact"
+      }
+    ]
+  },
+  {
+    "id": "0d4b4867-40db-422a-b506-807badc28fe2_8685",
+    "object": "sieve",
+    "verb": "hold",
+    "action": "hold a sieve with vegetables",
+    "manifestUrl": "/data/explorer/0d4b4867-40db-422a-b506-807badc28fe2_8685/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/0d4b4867-40db-422a-b506-807badc28fe2_8685/000.webp",
+        "label": "Before contact",
+        "description": "sieve before contact"
+      },
+      {
+        "src": "/data/explorer/0d4b4867-40db-422a-b506-807badc28fe2_8685/015.webp",
+        "label": "At contact",
+        "description": "sieve at first contact"
+      }
+    ]
+  },
+  {
+    "id": "ee285497-cb6d-4079-8057-8d755dab3486_9381",
+    "object": "coconut",
+    "verb": "pick",
+    "action": "pick a coconut from a pile",
+    "manifestUrl": "/data/explorer/ee285497-cb6d-4079-8057-8d755dab3486_9381/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/ee285497-cb6d-4079-8057-8d755dab3486_9381/000.webp",
+        "label": "Before contact",
+        "description": "coconut before contact"
+      },
+      {
+        "src": "/data/explorer/ee285497-cb6d-4079-8057-8d755dab3486_9381/015.webp",
+        "label": "At contact",
+        "description": "coconut at first contact"
+      }
+    ]
+  },
+  {
+    "id": "280f4757-858a-4561-8663-408d2a61c37e_10308",
+    "object": "packet",
+    "verb": "take",
+    "action": "take a packet from the shelf",
+    "manifestUrl": "/data/explorer/280f4757-858a-4561-8663-408d2a61c37e_10308/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/280f4757-858a-4561-8663-408d2a61c37e_10308/000.webp",
+        "label": "Before contact",
+        "description": "packet before contact"
+      },
+      {
+        "src": "/data/explorer/280f4757-858a-4561-8663-408d2a61c37e_10308/015.webp",
+        "label": "At contact",
+        "description": "packet at first contact"
+      }
+    ]
+  },
+  {
+    "id": "01b451af-466a-4425-8094-be0b2ffc0e36_11674",
+    "object": "spray can",
+    "verb": "pick up",
+    "action": "pick up the spray can from the floor",
+    "manifestUrl": "/data/explorer/01b451af-466a-4425-8094-be0b2ffc0e36_11674/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/01b451af-466a-4425-8094-be0b2ffc0e36_11674/000.webp",
+        "label": "Before contact",
+        "description": "spray can before contact"
+      },
+      {
+        "src": "/data/explorer/01b451af-466a-4425-8094-be0b2ffc0e36_11674/015.webp",
+        "label": "At contact",
+        "description": "spray can at first contact"
+      }
+    ]
+  },
+  {
+    "id": "18b19754-8dfb-4c1d-99fb-bae3ec84b867_1168",
+    "object": "plastic cup",
+    "verb": "pick",
+    "action": "pick up the plastic cup from the refrigerator",
+    "manifestUrl": "/data/explorer/18b19754-8dfb-4c1d-99fb-bae3ec84b867_1168/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/18b19754-8dfb-4c1d-99fb-bae3ec84b867_1168/000.webp",
+        "label": "Before contact",
+        "description": "plastic cup before contact"
+      },
+      {
+        "src": "/data/explorer/18b19754-8dfb-4c1d-99fb-bae3ec84b867_1168/015.webp",
+        "label": "At contact",
+        "description": "plastic cup at first contact"
+      }
+    ]
+  },
+  {
+    "id": "725c0923-c4de-401b-9bd7-7409182d8f5d_5551",
+    "object": "sandpaper",
+    "verb": "pick up",
+    "action": "pick up sandpaper from the table",
+    "manifestUrl": "/data/explorer/725c0923-c4de-401b-9bd7-7409182d8f5d_5551/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/725c0923-c4de-401b-9bd7-7409182d8f5d_5551/000.webp",
+        "label": "Before contact",
+        "description": "sandpaper before contact"
+      },
+      {
+        "src": "/data/explorer/725c0923-c4de-401b-9bd7-7409182d8f5d_5551/015.webp",
+        "label": "At contact",
+        "description": "sandpaper at first contact"
+      }
+    ]
+  },
+  {
+    "id": "3240edef-f5ef-41b0-94f1-487b43a6d67d_4306",
+    "object": "shoe",
+    "verb": "hold",
+    "action": "hold shoes",
+    "manifestUrl": "/data/explorer/3240edef-f5ef-41b0-94f1-487b43a6d67d_4306/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/3240edef-f5ef-41b0-94f1-487b43a6d67d_4306/000.webp",
+        "label": "Before contact",
+        "description": "shoe before contact"
+      },
+      {
+        "src": "/data/explorer/3240edef-f5ef-41b0-94f1-487b43a6d67d_4306/015.webp",
+        "label": "At contact",
+        "description": "shoe at first contact"
+      }
+    ]
+  },
+  {
+    "id": "080e1d1d-0f44-411f-ae3b-82af6864ac6e_4678",
+    "object": "eggplant",
+    "verb": "pick",
+    "action": "pick up the eggplant from the counter",
+    "manifestUrl": "/data/explorer/080e1d1d-0f44-411f-ae3b-82af6864ac6e_4678/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/080e1d1d-0f44-411f-ae3b-82af6864ac6e_4678/000.webp",
+        "label": "Before contact",
+        "description": "eggplant before contact"
+      },
+      {
+        "src": "/data/explorer/080e1d1d-0f44-411f-ae3b-82af6864ac6e_4678/015.webp",
+        "label": "At contact",
+        "description": "eggplant at first contact"
+      }
+    ]
+  },
+  {
+    "id": "aa396330-3568-4c23-957a-7f7fd4987a94_3615",
+    "object": "garlic",
+    "verb": "peel",
+    "action": "peel the garlic over the sink",
+    "manifestUrl": "/data/explorer/aa396330-3568-4c23-957a-7f7fd4987a94_3615/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/aa396330-3568-4c23-957a-7f7fd4987a94_3615/000.webp",
+        "label": "Before contact",
+        "description": "garlic before contact"
+      },
+      {
+        "src": "/data/explorer/aa396330-3568-4c23-957a-7f7fd4987a94_3615/015.webp",
+        "label": "At contact",
+        "description": "garlic at first contact"
+      }
+    ]
+  },
+  {
+    "id": "f8534eab-21a0-4670-862f-38fe35a4745f_8396",
+    "object": "broom",
+    "verb": "pick up",
+    "action": "pick up the broom from the floor",
+    "manifestUrl": "/data/explorer/f8534eab-21a0-4670-862f-38fe35a4745f_8396/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/f8534eab-21a0-4670-862f-38fe35a4745f_8396/000.webp",
+        "label": "Before contact",
+        "description": "broom before contact"
+      },
+      {
+        "src": "/data/explorer/f8534eab-21a0-4670-862f-38fe35a4745f_8396/015.webp",
+        "label": "At contact",
+        "description": "broom at first contact"
+      }
+    ]
+  },
+  {
+    "id": "013559ff-eab2-4c25-a475-90bf56f5ae9e_13776",
+    "object": "meat",
+    "verb": "pick",
+    "action": "pick a piece of meat from the pan",
+    "manifestUrl": "/data/explorer/013559ff-eab2-4c25-a475-90bf56f5ae9e_13776/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/013559ff-eab2-4c25-a475-90bf56f5ae9e_13776/000.webp",
+        "label": "Before contact",
+        "description": "meat before contact"
+      },
+      {
+        "src": "/data/explorer/013559ff-eab2-4c25-a475-90bf56f5ae9e_13776/015.webp",
+        "label": "At contact",
+        "description": "meat at first contact"
+      }
+    ]
+  },
+  {
+    "id": "e85d3325-1780-40e9-8c63-695a5979dac2_2415",
+    "object": "paintbrush",
+    "verb": "pick up",
+    "action": "pick up the paintbrush from the step ladder",
+    "manifestUrl": "/data/explorer/e85d3325-1780-40e9-8c63-695a5979dac2_2415/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/e85d3325-1780-40e9-8c63-695a5979dac2_2415/000.webp",
+        "label": "Before contact",
+        "description": "paintbrush before contact"
+      },
+      {
+        "src": "/data/explorer/e85d3325-1780-40e9-8c63-695a5979dac2_2415/015.webp",
+        "label": "At contact",
+        "description": "paintbrush at first contact"
+      }
+    ]
+  },
+  {
+    "id": "139492d6-3181-4c3b-87bf-6191d099e2f6_946",
+    "object": "charger",
+    "verb": "hold",
+    "action": "hold charger",
+    "manifestUrl": "/data/explorer/139492d6-3181-4c3b-87bf-6191d099e2f6_946/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/139492d6-3181-4c3b-87bf-6191d099e2f6_946/000.webp",
+        "label": "Before contact",
+        "description": "charger before contact"
+      },
+      {
+        "src": "/data/explorer/139492d6-3181-4c3b-87bf-6191d099e2f6_946/015.webp",
+        "label": "At contact",
+        "description": "charger at first contact"
+      }
+    ]
+  },
+  {
+    "id": "f8c258cc-a304-4791-8880-0ae40980f476_5627",
+    "object": "bicycle tire",
+    "verb": "hold",
+    "action": "hold the bicycle tire",
+    "manifestUrl": "/data/explorer/f8c258cc-a304-4791-8880-0ae40980f476_5627/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/f8c258cc-a304-4791-8880-0ae40980f476_5627/000.webp",
+        "label": "Before contact",
+        "description": "bicycle tire before contact"
+      },
+      {
+        "src": "/data/explorer/f8c258cc-a304-4791-8880-0ae40980f476_5627/015.webp",
+        "label": "At contact",
+        "description": "bicycle tire at first contact"
+      }
+    ]
+  },
+  {
+    "id": "71a4df4c-46f2-4a45-ab76-ab9b0df3e5db_10014",
+    "object": "metal bowl",
+    "verb": "put",
+    "action": "place the metal bowl into the sink",
+    "manifestUrl": "/data/explorer/71a4df4c-46f2-4a45-ab76-ab9b0df3e5db_10014/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/71a4df4c-46f2-4a45-ab76-ab9b0df3e5db_10014/000.webp",
+        "label": "Before contact",
+        "description": "metal bowl before contact"
+      },
+      {
+        "src": "/data/explorer/71a4df4c-46f2-4a45-ab76-ab9b0df3e5db_10014/015.webp",
+        "label": "At contact",
+        "description": "metal bowl at first contact"
+      }
+    ]
+  },
+  {
+    "id": "23c22860-44fa-47fd-ab0f-2736c33167d9_3949",
+    "object": "wooden spatula",
+    "verb": "pick",
+    "action": "pick wooden spatula from pot",
+    "manifestUrl": "/data/explorer/23c22860-44fa-47fd-ab0f-2736c33167d9_3949/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/23c22860-44fa-47fd-ab0f-2736c33167d9_3949/000.webp",
+        "label": "Before contact",
+        "description": "wooden spatula before contact"
+      },
+      {
+        "src": "/data/explorer/23c22860-44fa-47fd-ab0f-2736c33167d9_3949/015.webp",
+        "label": "At contact",
+        "description": "wooden spatula at first contact"
+      }
+    ]
+  },
+  {
+    "id": "f2e98564-63f0-473f-9b0f-2f5eec2a485e_9816",
+    "object": "blender",
+    "verb": "operate",
+    "action": "operate the blender on the counter",
+    "manifestUrl": "/data/explorer/f2e98564-63f0-473f-9b0f-2f5eec2a485e_9816/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/f2e98564-63f0-473f-9b0f-2f5eec2a485e_9816/000.webp",
+        "label": "Before contact",
+        "description": "blender before contact"
+      },
+      {
+        "src": "/data/explorer/f2e98564-63f0-473f-9b0f-2f5eec2a485e_9816/015.webp",
+        "label": "At contact",
+        "description": "blender at first contact"
+      }
+    ]
+  },
+  {
+    "id": "ffac3b1e-4ca5-45bc-99a9-b5c81f5cb025_1242",
+    "object": "handle",
+    "verb": "hold",
+    "action": "hold the handle of the pot on the stove",
+    "manifestUrl": "/data/explorer/ffac3b1e-4ca5-45bc-99a9-b5c81f5cb025_1242/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/ffac3b1e-4ca5-45bc-99a9-b5c81f5cb025_1242/000.webp",
+        "label": "Before contact",
+        "description": "handle before contact"
+      },
+      {
+        "src": "/data/explorer/ffac3b1e-4ca5-45bc-99a9-b5c81f5cb025_1242/015.webp",
+        "label": "At contact",
+        "description": "handle at first contact"
+      }
+    ]
+  },
+  {
+    "id": "b2c61736-0b14-4bfa-b287-473e4848e598_1374",
+    "object": "paint roller",
+    "verb": "pick up",
+    "action": "pick up the paint roller from the paint tray",
+    "manifestUrl": "/data/explorer/b2c61736-0b14-4bfa-b287-473e4848e598_1374/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/b2c61736-0b14-4bfa-b287-473e4848e598_1374/000.webp",
+        "label": "Before contact",
+        "description": "paint roller before contact"
+      },
+      {
+        "src": "/data/explorer/b2c61736-0b14-4bfa-b287-473e4848e598_1374/015.webp",
+        "label": "At contact",
+        "description": "paint roller at first contact"
+      }
+    ]
+  },
+  {
+    "id": "d7b8f461-db42-4365-9f89-83f923528293_4305",
+    "object": "button",
+    "verb": "press",
+    "action": "press the button on the kitchen hood",
+    "manifestUrl": "/data/explorer/d7b8f461-db42-4365-9f89-83f923528293_4305/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/d7b8f461-db42-4365-9f89-83f923528293_4305/000.webp",
+        "label": "Before contact",
+        "description": "button before contact"
+      },
+      {
+        "src": "/data/explorer/d7b8f461-db42-4365-9f89-83f923528293_4305/015.webp",
+        "label": "At contact",
+        "description": "button at first contact"
+      }
+    ]
+  },
+  {
+    "id": "4b8739cb-26ba-4b94-a650-42825dcabef5_3296",
+    "object": "fridge door",
+    "verb": "open",
+    "action": "open the fridge door",
+    "manifestUrl": "/data/explorer/4b8739cb-26ba-4b94-a650-42825dcabef5_3296/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/4b8739cb-26ba-4b94-a650-42825dcabef5_3296/000.webp",
+        "label": "Before contact",
+        "description": "fridge door before contact"
+      },
+      {
+        "src": "/data/explorer/4b8739cb-26ba-4b94-a650-42825dcabef5_3296/015.webp",
+        "label": "At contact",
+        "description": "fridge door at first contact"
+      }
+    ]
+  },
+  {
+    "id": "cb32b697-3a2f-44ea-86ec-1ac55fbb2af8_4495",
+    "object": "laptop",
+    "verb": "hold",
+    "action": "hold laptop",
+    "manifestUrl": "/data/explorer/cb32b697-3a2f-44ea-86ec-1ac55fbb2af8_4495/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/cb32b697-3a2f-44ea-86ec-1ac55fbb2af8_4495/000.webp",
+        "label": "Before contact",
+        "description": "laptop before contact"
+      },
+      {
+        "src": "/data/explorer/cb32b697-3a2f-44ea-86ec-1ac55fbb2af8_4495/015.webp",
+        "label": "At contact",
+        "description": "laptop at first contact"
+      }
+    ]
+  },
+  {
+    "id": "0c8be72d-d70f-4662-943d-7a679d6ad8bf_985",
+    "object": "frying pan",
+    "verb": "pick up",
+    "action": "pick up the frying pan from the stove",
+    "manifestUrl": "/data/explorer/0c8be72d-d70f-4662-943d-7a679d6ad8bf_985/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/0c8be72d-d70f-4662-943d-7a679d6ad8bf_985/000.webp",
+        "label": "Before contact",
+        "description": "frying pan before contact"
+      },
+      {
+        "src": "/data/explorer/0c8be72d-d70f-4662-943d-7a679d6ad8bf_985/015.webp",
+        "label": "At contact",
+        "description": "frying pan at first contact"
+      }
+    ]
+  },
+  {
+    "id": "d23d0b3b-98ea-4a6a-915c-5a342bb2136c_6637",
+    "object": "stick",
+    "verb": "take",
+    "action": "take a stick from the bag",
+    "manifestUrl": "/data/explorer/d23d0b3b-98ea-4a6a-915c-5a342bb2136c_6637/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/d23d0b3b-98ea-4a6a-915c-5a342bb2136c_6637/000.webp",
+        "label": "Before contact",
+        "description": "stick before contact"
+      },
+      {
+        "src": "/data/explorer/d23d0b3b-98ea-4a6a-915c-5a342bb2136c_6637/015.webp",
+        "label": "At contact",
+        "description": "stick at first contact"
+      }
+    ]
+  },
+  {
+    "id": "ef3a7fda-79c2-4312-af7c-618042b9452e_6211",
+    "object": "spice jar",
+    "verb": "take",
+    "action": "pick the Spices 3",
+    "manifestUrl": "/data/explorer/ef3a7fda-79c2-4312-af7c-618042b9452e_6211/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/ef3a7fda-79c2-4312-af7c-618042b9452e_6211/000.webp",
+        "label": "Before contact",
+        "description": "spice jar before contact"
+      },
+      {
+        "src": "/data/explorer/ef3a7fda-79c2-4312-af7c-618042b9452e_6211/015.webp",
+        "label": "At contact",
+        "description": "spice jar at first contact"
+      }
+    ]
+  },
+  {
+    "id": "2662dad5-c487-492d-8761-3b30d014748d_12097",
+    "object": "food bag",
+    "verb": "take",
+    "action": "take a food bag from the cabinet",
+    "manifestUrl": "/data/explorer/2662dad5-c487-492d-8761-3b30d014748d_12097/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/2662dad5-c487-492d-8761-3b30d014748d_12097/000.webp",
+        "label": "Before contact",
+        "description": "food bag before contact"
+      },
+      {
+        "src": "/data/explorer/2662dad5-c487-492d-8761-3b30d014748d_12097/015.webp",
+        "label": "At contact",
+        "description": "food bag at first contact"
+      }
+    ]
+  },
+  {
+    "id": "56da9e14-8fe5-4430-a2d9-19c317a24cc8_5490",
+    "object": "mint",
+    "verb": "pick",
+    "action": "pick a mint from the ground",
+    "manifestUrl": "/data/explorer/56da9e14-8fe5-4430-a2d9-19c317a24cc8_5490/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/56da9e14-8fe5-4430-a2d9-19c317a24cc8_5490/000.webp",
+        "label": "Before contact",
+        "description": "mint before contact"
+      },
+      {
+        "src": "/data/explorer/56da9e14-8fe5-4430-a2d9-19c317a24cc8_5490/015.webp",
+        "label": "At contact",
+        "description": "mint at first contact"
+      }
+    ]
+  },
+  {
+    "id": "81a436d3-ffb0-4f37-8659-c86c66fe4723_3829",
+    "object": "metal tool",
+    "verb": "pick up",
+    "action": "pick up the metal tool from the workbench",
+    "manifestUrl": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_3829/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_3829/000.webp",
+        "label": "Before contact",
+        "description": "metal tool before contact"
+      },
+      {
+        "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_3829/015.webp",
+        "label": "At contact",
+        "description": "metal tool at first contact"
+      }
+    ]
+  },
+  {
+    "id": "8dfe640e-b129-469f-aca3-36e4c5ec8184_13211",
+    "object": "peeler",
+    "verb": "pick",
+    "action": "pick a peeler from the counter",
+    "manifestUrl": "/data/explorer/8dfe640e-b129-469f-aca3-36e4c5ec8184_13211/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/8dfe640e-b129-469f-aca3-36e4c5ec8184_13211/000.webp",
+        "label": "Before contact",
+        "description": "peeler before contact"
+      },
+      {
+        "src": "/data/explorer/8dfe640e-b129-469f-aca3-36e4c5ec8184_13211/015.webp",
+        "label": "At contact",
+        "description": "peeler at first contact"
+      }
+    ]
+  },
+  {
+    "id": "9da570de-8439-4bf3-8f45-539536df86ed_4467",
+    "object": "watering can",
+    "verb": "pick up",
+    "action": "pick up the watering can from the ground",
+    "manifestUrl": "/data/explorer/9da570de-8439-4bf3-8f45-539536df86ed_4467/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/9da570de-8439-4bf3-8f45-539536df86ed_4467/000.webp",
+        "label": "Before contact",
+        "description": "watering can before contact"
+      },
+      {
+        "src": "/data/explorer/9da570de-8439-4bf3-8f45-539536df86ed_4467/015.webp",
+        "label": "At contact",
+        "description": "watering can at first contact"
+      }
+    ]
+  },
+  {
+    "id": "fd3818dc-d53b-4322-9c46-0ab655fe78a4_19763",
+    "object": "craft paper",
+    "verb": "pick",
+    "action": "pick a craft paper from the table",
+    "manifestUrl": "/data/explorer/fd3818dc-d53b-4322-9c46-0ab655fe78a4_19763/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/fd3818dc-d53b-4322-9c46-0ab655fe78a4_19763/000.webp",
+        "label": "Before contact",
+        "description": "craft paper before contact"
+      },
+      {
+        "src": "/data/explorer/fd3818dc-d53b-4322-9c46-0ab655fe78a4_19763/015.webp",
+        "label": "At contact",
+        "description": "craft paper at first contact"
+      }
+    ]
+  },
+  {
+    "id": "0a5cf05e-e8d6-4d06-bbac-2663bd350f25_5594",
+    "object": "plug",
+    "verb": "hold",
+    "action": "hold the plug",
+    "manifestUrl": "/data/explorer/0a5cf05e-e8d6-4d06-bbac-2663bd350f25_5594/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/0a5cf05e-e8d6-4d06-bbac-2663bd350f25_5594/000.webp",
+        "label": "Before contact",
+        "description": "plug before contact"
+      },
+      {
+        "src": "/data/explorer/0a5cf05e-e8d6-4d06-bbac-2663bd350f25_5594/015.webp",
+        "label": "At contact",
+        "description": "plug at first contact"
+      }
+    ]
+  },
+  {
+    "id": "6fa085e0-b124-4cd9-9a4e-b40901f943bb_167",
+    "object": "broccoli",
+    "verb": "arrange",
+    "action": "arrange the broccoli on the plate",
+    "manifestUrl": "/data/explorer/6fa085e0-b124-4cd9-9a4e-b40901f943bb_167/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/6fa085e0-b124-4cd9-9a4e-b40901f943bb_167/000.webp",
+        "label": "Before contact",
+        "description": "broccoli before contact"
+      },
+      {
+        "src": "/data/explorer/6fa085e0-b124-4cd9-9a4e-b40901f943bb_167/015.webp",
+        "label": "At contact",
+        "description": "broccoli at first contact"
+      }
+    ]
+  },
+  {
+    "id": "a1685b00-0966-44bd-99f2-6bccb6d13773_10079",
+    "object": "pepper",
+    "verb": "pick",
+    "action": "pick pepper from the plant",
+    "manifestUrl": "/data/explorer/a1685b00-0966-44bd-99f2-6bccb6d13773_10079/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/a1685b00-0966-44bd-99f2-6bccb6d13773_10079/000.webp",
+        "label": "Before contact",
+        "description": "pepper before contact"
+      },
+      {
+        "src": "/data/explorer/a1685b00-0966-44bd-99f2-6bccb6d13773_10079/015.webp",
+        "label": "At contact",
+        "description": "pepper at first contact"
+      }
+    ]
+  },
+  {
+    "id": "f9aa365c-1dd2-4d60-a01a-973e06c415ae_204",
+    "object": "chair",
+    "verb": "hold",
+    "action": "hold the chair",
+    "manifestUrl": "/data/explorer/f9aa365c-1dd2-4d60-a01a-973e06c415ae_204/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/f9aa365c-1dd2-4d60-a01a-973e06c415ae_204/000.webp",
+        "label": "Before contact",
+        "description": "chair before contact"
+      },
+      {
+        "src": "/data/explorer/f9aa365c-1dd2-4d60-a01a-973e06c415ae_204/015.webp",
+        "label": "At contact",
+        "description": "chair at first contact"
+      }
+    ]
+  },
+  {
+    "id": "b6ca2539-aca5-45a6-b6d8-405ed38d37e9_7680",
+    "object": "dog",
+    "verb": "touch",
+    "action": "touch the dog with hand",
+    "manifestUrl": "/data/explorer/b6ca2539-aca5-45a6-b6d8-405ed38d37e9_7680/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/b6ca2539-aca5-45a6-b6d8-405ed38d37e9_7680/000.webp",
+        "label": "Before contact",
+        "description": "dog before contact"
+      },
+      {
+        "src": "/data/explorer/b6ca2539-aca5-45a6-b6d8-405ed38d37e9_7680/015.webp",
+        "label": "At contact",
+        "description": "dog at first contact"
+      }
+    ]
+  },
+  {
+    "id": "0a18e326-ed2b-4d1f-8ab0-e7f1c450ad02_9172",
+    "object": "seed",
+    "verb": "pick",
+    "action": "pick a seed from the ground",
+    "manifestUrl": "/data/explorer/0a18e326-ed2b-4d1f-8ab0-e7f1c450ad02_9172/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/0a18e326-ed2b-4d1f-8ab0-e7f1c450ad02_9172/000.webp",
+        "label": "Before contact",
+        "description": "seed before contact"
+      },
+      {
+        "src": "/data/explorer/0a18e326-ed2b-4d1f-8ab0-e7f1c450ad02_9172/015.webp",
+        "label": "At contact",
+        "description": "seed at first contact"
+      }
+    ]
+  },
+  {
+    "id": "685daa52-41c3-43ff-a2d7-f8783370faf2_4511",
+    "object": "wheel",
+    "verb": "pick",
+    "action": "pick the wheel from the workbench",
+    "manifestUrl": "/data/explorer/685daa52-41c3-43ff-a2d7-f8783370faf2_4511/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/685daa52-41c3-43ff-a2d7-f8783370faf2_4511/000.webp",
+        "label": "Before contact",
+        "description": "wheel before contact"
+      },
+      {
+        "src": "/data/explorer/685daa52-41c3-43ff-a2d7-f8783370faf2_4511/015.webp",
+        "label": "At contact",
+        "description": "wheel at first contact"
+      }
+    ]
+  },
+  {
+    "id": "9221fb73-47cb-4950-8f5e-4d90e05793e9_8197",
+    "object": "Grinding stone",
+    "verb": "grind",
+    "action": "grind the yellow powder on the stone with the grinding stone",
+    "manifestUrl": "/data/explorer/9221fb73-47cb-4950-8f5e-4d90e05793e9_8197/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/9221fb73-47cb-4950-8f5e-4d90e05793e9_8197/000.webp",
+        "label": "Before contact",
+        "description": "Grinding stone before contact"
+      },
+      {
+        "src": "/data/explorer/9221fb73-47cb-4950-8f5e-4d90e05793e9_8197/015.webp",
+        "label": "At contact",
+        "description": "Grinding stone at first contact"
+      }
+    ]
+  },
+  {
+    "id": "03f13744-d779-4bf4-b1bd-fb64a6326750_13851",
+    "object": "metal object",
+    "verb": "hold",
+    "action": "hold the metal object on the table",
+    "manifestUrl": "/data/explorer/03f13744-d779-4bf4-b1bd-fb64a6326750_13851/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/03f13744-d779-4bf4-b1bd-fb64a6326750_13851/000.webp",
+        "label": "Before contact",
+        "description": "metal object before contact"
+      },
+      {
+        "src": "/data/explorer/03f13744-d779-4bf4-b1bd-fb64a6326750_13851/015.webp",
+        "label": "At contact",
+        "description": "metal object at first contact"
+      }
+    ]
+  },
+  {
+    "id": "4366bc6c-887a-44d9-907b-96649fc09786_855",
+    "object": "mouse",
+    "verb": "hold",
+    "action": "hold a mouse",
+    "manifestUrl": "/data/explorer/4366bc6c-887a-44d9-907b-96649fc09786_855/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/4366bc6c-887a-44d9-907b-96649fc09786_855/000.webp",
+        "label": "Before contact",
+        "description": "mouse before contact"
+      },
+      {
+        "src": "/data/explorer/4366bc6c-887a-44d9-907b-96649fc09786_855/015.webp",
+        "label": "At contact",
+        "description": "mouse at first contact"
+      }
+    ]
+  },
+  {
+    "id": "3d84c9a4-91b8-4fb8-b741-fa58c8cb9dbd_9147",
+    "object": "carrot",
+    "verb": "pick",
+    "action": "pick a carrot from the cutting board",
+    "manifestUrl": "/data/explorer/3d84c9a4-91b8-4fb8-b741-fa58c8cb9dbd_9147/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/3d84c9a4-91b8-4fb8-b741-fa58c8cb9dbd_9147/000.webp",
+        "label": "Before contact",
+        "description": "carrot before contact"
+      },
+      {
+        "src": "/data/explorer/3d84c9a4-91b8-4fb8-b741-fa58c8cb9dbd_9147/015.webp",
+        "label": "At contact",
+        "description": "carrot at first contact"
+      }
+    ]
+  },
+  {
+    "id": "7f063a47-ee47-4dc1-8306-8e7bab612a9b_948",
+    "object": "seedling",
+    "verb": "pick",
+    "action": "pick seedling from the ground",
+    "manifestUrl": "/data/explorer/7f063a47-ee47-4dc1-8306-8e7bab612a9b_948/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/7f063a47-ee47-4dc1-8306-8e7bab612a9b_948/000.webp",
+        "label": "Before contact",
+        "description": "seedling before contact"
+      },
+      {
+        "src": "/data/explorer/7f063a47-ee47-4dc1-8306-8e7bab612a9b_948/015.webp",
+        "label": "At contact",
+        "description": "seedling at first contact"
+      }
+    ]
+  },
+  {
+    "id": "6c0a0674-f7f8-4c7a-a54b-8de273ae210f_3548",
+    "object": "tree branch",
+    "verb": "pick up",
+    "action": "pick up a tree branch from the ground",
+    "manifestUrl": "/data/explorer/6c0a0674-f7f8-4c7a-a54b-8de273ae210f_3548/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/6c0a0674-f7f8-4c7a-a54b-8de273ae210f_3548/000.webp",
+        "label": "Before contact",
+        "description": "tree branch before contact"
+      },
+      {
+        "src": "/data/explorer/6c0a0674-f7f8-4c7a-a54b-8de273ae210f_3548/015.webp",
+        "label": "At contact",
+        "description": "tree branch at first contact"
+      }
+    ]
+  },
+  {
+    "id": "64cd07c3-d007-41ae-9880-3a54310035c6_6969",
+    "object": "pillow",
+    "verb": "pick",
+    "action": "pick a pillow from the bed",
+    "manifestUrl": "/data/explorer/64cd07c3-d007-41ae-9880-3a54310035c6_6969/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/64cd07c3-d007-41ae-9880-3a54310035c6_6969/000.webp",
+        "label": "Before contact",
+        "description": "pillow before contact"
+      },
+      {
+        "src": "/data/explorer/64cd07c3-d007-41ae-9880-3a54310035c6_6969/015.webp",
+        "label": "At contact",
+        "description": "pillow at first contact"
+      }
+    ]
+  },
+  {
+    "id": "9e2bff03-73e6-4746-83e6-865dbf72b682_2073",
+    "object": "remote control",
+    "verb": "hold",
+    "action": "hold a remote control",
+    "manifestUrl": "/data/explorer/9e2bff03-73e6-4746-83e6-865dbf72b682_2073/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/9e2bff03-73e6-4746-83e6-865dbf72b682_2073/000.webp",
+        "label": "Before contact",
+        "description": "remote control before contact"
+      },
+      {
+        "src": "/data/explorer/9e2bff03-73e6-4746-83e6-865dbf72b682_2073/015.webp",
+        "label": "At contact",
+        "description": "remote control at first contact"
+      }
+    ]
+  },
+  {
+    "id": "c76c8f0f-b976-4f1f-8be2-5839e9c50690_1176",
+    "object": "glue gun",
+    "verb": "pick up",
+    "action": "pick up the glue gun from the table",
+    "manifestUrl": "/data/explorer/c76c8f0f-b976-4f1f-8be2-5839e9c50690_1176/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/c76c8f0f-b976-4f1f-8be2-5839e9c50690_1176/000.webp",
+        "label": "Before contact",
+        "description": "glue gun before contact"
+      },
+      {
+        "src": "/data/explorer/c76c8f0f-b976-4f1f-8be2-5839e9c50690_1176/015.webp",
+        "label": "At contact",
+        "description": "glue gun at first contact"
+      }
+    ]
+  },
+  {
+    "id": "83dacb1d-439c-4796-b3c4-617fd1aceb6f_259",
+    "object": "plastic wrap",
+    "verb": "pick",
+    "action": "pick plastic wrap",
+    "manifestUrl": "/data/explorer/83dacb1d-439c-4796-b3c4-617fd1aceb6f_259/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/83dacb1d-439c-4796-b3c4-617fd1aceb6f_259/000.webp",
+        "label": "Before contact",
+        "description": "plastic wrap before contact"
+      },
+      {
+        "src": "/data/explorer/83dacb1d-439c-4796-b3c4-617fd1aceb6f_259/015.webp",
+        "label": "At contact",
+        "description": "plastic wrap at first contact"
+      }
+    ]
+  },
+  {
+    "id": "3648135e-4ce6-4ecb-b4a8-1760c6816554_528",
+    "object": "fruit",
+    "verb": "pick",
+    "action": "pick a fruit from the table",
+    "manifestUrl": "/data/explorer/3648135e-4ce6-4ecb-b4a8-1760c6816554_528/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/3648135e-4ce6-4ecb-b4a8-1760c6816554_528/000.webp",
+        "label": "Before contact",
+        "description": "fruit before contact"
+      },
+      {
+        "src": "/data/explorer/3648135e-4ce6-4ecb-b4a8-1760c6816554_528/015.webp",
+        "label": "At contact",
+        "description": "fruit at first contact"
+      }
+    ]
+  },
+  {
+    "id": "40d8ded6-d8af-444d-a9b7-08a372fa4b14_1098",
+    "object": "sauce bottle",
+    "verb": "pick",
+    "action": "pick a sauce bottle from the floor",
+    "manifestUrl": "/data/explorer/40d8ded6-d8af-444d-a9b7-08a372fa4b14_1098/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/40d8ded6-d8af-444d-a9b7-08a372fa4b14_1098/000.webp",
+        "label": "Before contact",
+        "description": "sauce bottle before contact"
+      },
+      {
+        "src": "/data/explorer/40d8ded6-d8af-444d-a9b7-08a372fa4b14_1098/015.webp",
+        "label": "At contact",
+        "description": "sauce bottle at first contact"
+      }
+    ]
+  },
+  {
+    "id": "84ce7a07-84e5-4a68-bb5b-9c317bbcd2b6_1092",
+    "object": "glue",
+    "verb": "pick",
+    "action": "pick glue",
+    "manifestUrl": "/data/explorer/84ce7a07-84e5-4a68-bb5b-9c317bbcd2b6_1092/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/84ce7a07-84e5-4a68-bb5b-9c317bbcd2b6_1092/000.webp",
+        "label": "Before contact",
+        "description": "glue before contact"
+      },
+      {
+        "src": "/data/explorer/84ce7a07-84e5-4a68-bb5b-9c317bbcd2b6_1092/015.webp",
+        "label": "At contact",
+        "description": "glue at first contact"
+      }
+    ]
+  },
+  {
+    "id": "09947cbe-b96f-4a7d-9a61-7aba1e166a2c_5439",
+    "object": "cupboard",
+    "verb": "open",
+    "action": "open cupboard",
+    "manifestUrl": "/data/explorer/09947cbe-b96f-4a7d-9a61-7aba1e166a2c_5439/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/09947cbe-b96f-4a7d-9a61-7aba1e166a2c_5439/000.webp",
+        "label": "Before contact",
+        "description": "cupboard before contact"
+      },
+      {
+        "src": "/data/explorer/09947cbe-b96f-4a7d-9a61-7aba1e166a2c_5439/015.webp",
+        "label": "At contact",
+        "description": "cupboard at first contact"
+      }
+    ]
+  },
+  {
+    "id": "96ba33d7-1ca0-4cf9-83d0-250cb0e88d72_13074",
+    "object": "Paint brush",
+    "verb": "hold",
+    "action": "hold the Paint brush",
+    "manifestUrl": "/data/explorer/96ba33d7-1ca0-4cf9-83d0-250cb0e88d72_13074/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/96ba33d7-1ca0-4cf9-83d0-250cb0e88d72_13074/000.webp",
+        "label": "Before contact",
+        "description": "Paint brush before contact"
+      },
+      {
+        "src": "/data/explorer/96ba33d7-1ca0-4cf9-83d0-250cb0e88d72_13074/015.webp",
+        "label": "At contact",
+        "description": "Paint brush at first contact"
+      }
+    ]
+  },
+  {
+    "id": "938d3966-b935-47a7-bc6a-05991fd75e54_1835",
+    "object": "Mushroom",
+    "verb": "pick",
+    "action": "pick a Mushroom from the ground",
+    "manifestUrl": "/data/explorer/938d3966-b935-47a7-bc6a-05991fd75e54_1835/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/938d3966-b935-47a7-bc6a-05991fd75e54_1835/000.webp",
+        "label": "Before contact",
+        "description": "Mushroom before contact"
+      },
+      {
+        "src": "/data/explorer/938d3966-b935-47a7-bc6a-05991fd75e54_1835/015.webp",
+        "label": "At contact",
+        "description": "Mushroom at first contact"
+      }
+    ]
+  },
+  {
+    "id": "e6e3270f-023c-4ab8-b9d0-4fad79bfbaa4_566",
+    "object": "hanger",
+    "verb": "hold",
+    "action": "hold clothes hanger",
+    "manifestUrl": "/data/explorer/e6e3270f-023c-4ab8-b9d0-4fad79bfbaa4_566/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/e6e3270f-023c-4ab8-b9d0-4fad79bfbaa4_566/000.webp",
+        "label": "Before contact",
+        "description": "hanger before contact"
+      },
+      {
+        "src": "/data/explorer/e6e3270f-023c-4ab8-b9d0-4fad79bfbaa4_566/015.webp",
+        "label": "At contact",
+        "description": "hanger at first contact"
+      }
+    ]
+  },
+  {
+    "id": "2c58caf9-0853-4b03-9c00-6e704767ce19_27205",
+    "object": "flour",
+    "verb": "pick",
+    "action": "pick a flour",
+    "manifestUrl": "/data/explorer/2c58caf9-0853-4b03-9c00-6e704767ce19_27205/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/2c58caf9-0853-4b03-9c00-6e704767ce19_27205/000.webp",
+        "label": "Before contact",
+        "description": "flour before contact"
+      },
+      {
+        "src": "/data/explorer/2c58caf9-0853-4b03-9c00-6e704767ce19_27205/015.webp",
+        "label": "At contact",
+        "description": "flour at first contact"
+      }
+    ]
+  },
+  {
+    "id": "82bb4626-c37e-4b2a-bc84-5030a9141b66_8414",
+    "object": "refrigerator",
+    "verb": "open",
+    "action": "open the refrigerator",
+    "manifestUrl": "/data/explorer/82bb4626-c37e-4b2a-bc84-5030a9141b66_8414/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/82bb4626-c37e-4b2a-bc84-5030a9141b66_8414/000.webp",
+        "label": "Before contact",
+        "description": "refrigerator before contact"
+      },
+      {
+        "src": "/data/explorer/82bb4626-c37e-4b2a-bc84-5030a9141b66_8414/015.webp",
+        "label": "At contact",
+        "description": "refrigerator at first contact"
+      }
+    ]
+  },
+  {
+    "id": "46393238-86a2-4e71-8695-7c53fc71821b_7675",
+    "object": "ruler",
+    "verb": "pick",
+    "action": "pick up the ruler from the table",
+    "manifestUrl": "/data/explorer/46393238-86a2-4e71-8695-7c53fc71821b_7675/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/46393238-86a2-4e71-8695-7c53fc71821b_7675/000.webp",
+        "label": "Before contact",
+        "description": "ruler before contact"
+      },
+      {
+        "src": "/data/explorer/46393238-86a2-4e71-8695-7c53fc71821b_7675/015.webp",
+        "label": "At contact",
+        "description": "ruler at first contact"
+      }
+    ]
+  },
+  {
+    "id": "09947cbe-b96f-4a7d-9a61-7aba1e166a2c_5070",
+    "object": "oven",
+    "verb": "open",
+    "action": "open the oven",
+    "manifestUrl": "/data/explorer/09947cbe-b96f-4a7d-9a61-7aba1e166a2c_5070/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/09947cbe-b96f-4a7d-9a61-7aba1e166a2c_5070/000.webp",
+        "label": "Before contact",
+        "description": "oven before contact"
+      },
+      {
+        "src": "/data/explorer/09947cbe-b96f-4a7d-9a61-7aba1e166a2c_5070/015.webp",
+        "label": "At contact",
+        "description": "oven at first contact"
+      }
+    ]
+  },
+  {
+    "id": "1bb43843-6517-4d7c-a974-d237dd6f1bfe_1076",
+    "object": "green pepper",
+    "verb": "pick",
+    "action": "pick a green pepper from the cutting board",
+    "manifestUrl": "/data/explorer/1bb43843-6517-4d7c-a974-d237dd6f1bfe_1076/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/1bb43843-6517-4d7c-a974-d237dd6f1bfe_1076/000.webp",
+        "label": "Before contact",
+        "description": "green pepper before contact"
+      },
+      {
+        "src": "/data/explorer/1bb43843-6517-4d7c-a974-d237dd6f1bfe_1076/015.webp",
+        "label": "At contact",
+        "description": "green pepper at first contact"
+      }
+    ]
+  },
+  {
+    "id": "8a94e1f0-18aa-4949-87e2-80694bb4c882_11972",
+    "object": "salt",
+    "verb": "pick",
+    "action": "pick salt",
+    "manifestUrl": "/data/explorer/8a94e1f0-18aa-4949-87e2-80694bb4c882_11972/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/8a94e1f0-18aa-4949-87e2-80694bb4c882_11972/000.webp",
+        "label": "Before contact",
+        "description": "salt before contact"
+      },
+      {
+        "src": "/data/explorer/8a94e1f0-18aa-4949-87e2-80694bb4c882_11972/015.webp",
+        "label": "At contact",
+        "description": "salt at first contact"
+      }
+    ]
+  },
+  {
+    "id": "16bdfa0d-6710-4b8d-a0af-82a70df3a44a_1646",
+    "object": "needle",
+    "verb": "knit",
+    "action": "knit a piece of fabric using a needle and yarn",
+    "manifestUrl": "/data/explorer/16bdfa0d-6710-4b8d-a0af-82a70df3a44a_1646/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/16bdfa0d-6710-4b8d-a0af-82a70df3a44a_1646/000.webp",
+        "label": "Before contact",
+        "description": "needle before contact"
+      },
+      {
+        "src": "/data/explorer/16bdfa0d-6710-4b8d-a0af-82a70df3a44a_1646/015.webp",
+        "label": "At contact",
+        "description": "needle at first contact"
+      }
+    ]
+  },
+  {
+    "id": "18a7021f-51f8-4773-bf35-15f2e7a635bb_14279",
+    "object": "sander",
+    "verb": "pick up",
+    "action": "pick up the sander from the table",
+    "manifestUrl": "/data/explorer/18a7021f-51f8-4773-bf35-15f2e7a635bb_14279/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/18a7021f-51f8-4773-bf35-15f2e7a635bb_14279/000.webp",
+        "label": "Before contact",
+        "description": "sander before contact"
+      },
+      {
+        "src": "/data/explorer/18a7021f-51f8-4773-bf35-15f2e7a635bb_14279/015.webp",
+        "label": "At contact",
+        "description": "sander at first contact"
+      }
+    ]
+  },
+  {
+    "id": "8e2b5741-3c91-43fc-990f-8d2c999f75c6_705",
+    "object": "string",
+    "verb": "pick up",
+    "action": "pick up the yellow string from the table",
+    "manifestUrl": "/data/explorer/8e2b5741-3c91-43fc-990f-8d2c999f75c6_705/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/8e2b5741-3c91-43fc-990f-8d2c999f75c6_705/000.webp",
+        "label": "Before contact",
+        "description": "string before contact"
+      },
+      {
+        "src": "/data/explorer/8e2b5741-3c91-43fc-990f-8d2c999f75c6_705/015.webp",
+        "label": "At contact",
+        "description": "string at first contact"
+      }
+    ]
+  },
+  {
+    "id": "00be9fe7-617c-46cf-a0de-7432896c1705_8089",
+    "object": "cover",
+    "verb": "hold",
+    "action": "hold a white cover with orange handles",
+    "manifestUrl": "/data/explorer/00be9fe7-617c-46cf-a0de-7432896c1705_8089/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/00be9fe7-617c-46cf-a0de-7432896c1705_8089/000.webp",
+        "label": "Before contact",
+        "description": "cover before contact"
+      },
+      {
+        "src": "/data/explorer/00be9fe7-617c-46cf-a0de-7432896c1705_8089/015.webp",
+        "label": "At contact",
+        "description": "cover at first contact"
+      }
+    ]
+  },
+  {
+    "id": "016e3084-3fa1-4267-9108-86a8d6258f83_2768",
+    "object": "ladder",
+    "verb": "pull",
+    "action": "pull the ladder",
+    "manifestUrl": "/data/explorer/016e3084-3fa1-4267-9108-86a8d6258f83_2768/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/016e3084-3fa1-4267-9108-86a8d6258f83_2768/000.webp",
+        "label": "Before contact",
+        "description": "ladder before contact"
+      },
+      {
+        "src": "/data/explorer/016e3084-3fa1-4267-9108-86a8d6258f83_2768/015.webp",
+        "label": "At contact",
+        "description": "ladder at first contact"
+      }
+    ]
+  },
+  {
+    "id": "e0b6cae5-f245-4b4b-84ce-9be13bed3f2c_2055",
+    "object": "plastic part",
+    "verb": "pick",
+    "action": "pick plastic part from the container",
+    "manifestUrl": "/data/explorer/e0b6cae5-f245-4b4b-84ce-9be13bed3f2c_2055/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/e0b6cae5-f245-4b4b-84ce-9be13bed3f2c_2055/000.webp",
+        "label": "Before contact",
+        "description": "plastic part before contact"
+      },
+      {
+        "src": "/data/explorer/e0b6cae5-f245-4b4b-84ce-9be13bed3f2c_2055/015.webp",
+        "label": "At contact",
+        "description": "plastic part at first contact"
+      }
+    ]
+  },
+  {
+    "id": "bae6ffde-7080-457a-b039-1f6161a0ec3f_7806",
+    "object": "microwave",
+    "verb": "open",
+    "action": "open the microwave",
+    "manifestUrl": "/data/explorer/bae6ffde-7080-457a-b039-1f6161a0ec3f_7806/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/bae6ffde-7080-457a-b039-1f6161a0ec3f_7806/000.webp",
+        "label": "Before contact",
+        "description": "microwave before contact"
+      },
+      {
+        "src": "/data/explorer/bae6ffde-7080-457a-b039-1f6161a0ec3f_7806/015.webp",
+        "label": "At contact",
+        "description": "microwave at first contact"
+      }
+    ]
+  },
+  {
+    "id": "e682e089-41ef-480e-96e5-ae381742b039_1918",
+    "object": "handlebar",
+    "verb": "hold",
+    "action": "hold the handlebar of the bicycle",
+    "manifestUrl": "/data/explorer/e682e089-41ef-480e-96e5-ae381742b039_1918/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/e682e089-41ef-480e-96e5-ae381742b039_1918/000.webp",
+        "label": "Before contact",
+        "description": "handlebar before contact"
+      },
+      {
+        "src": "/data/explorer/e682e089-41ef-480e-96e5-ae381742b039_1918/015.webp",
+        "label": "At contact",
+        "description": "handlebar at first contact"
+      }
+    ]
+  },
+  {
+    "id": "e127fc34-0de5-41b0-ab68-7d5574bcf613_1877",
+    "object": "golf club",
+    "verb": "hold",
+    "action": "hold the golf club",
+    "manifestUrl": "/data/explorer/e127fc34-0de5-41b0-ab68-7d5574bcf613_1877/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/e127fc34-0de5-41b0-ab68-7d5574bcf613_1877/000.webp",
+        "label": "Before contact",
+        "description": "golf club before contact"
+      },
+      {
+        "src": "/data/explorer/e127fc34-0de5-41b0-ab68-7d5574bcf613_1877/015.webp",
+        "label": "At contact",
+        "description": "golf club at first contact"
+      }
+    ]
+  },
+  {
+    "id": "66652ede-5945-45d9-b484-cbd2790e70b0_3674",
+    "object": "plastic jar",
+    "verb": "take",
+    "action": "take plastic jar from shelf",
+    "manifestUrl": "/data/explorer/66652ede-5945-45d9-b484-cbd2790e70b0_3674/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/66652ede-5945-45d9-b484-cbd2790e70b0_3674/000.webp",
+        "label": "Before contact",
+        "description": "plastic jar before contact"
+      },
+      {
+        "src": "/data/explorer/66652ede-5945-45d9-b484-cbd2790e70b0_3674/015.webp",
+        "label": "At contact",
+        "description": "plastic jar at first contact"
+      }
+    ]
+  },
+  {
+    "id": "2693d33c-a610-4187-b055-b3f3b9246273_8962",
+    "object": "butter",
+    "verb": "pick",
+    "action": "pick butter from the counter",
+    "manifestUrl": "/data/explorer/2693d33c-a610-4187-b055-b3f3b9246273_8962/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/2693d33c-a610-4187-b055-b3f3b9246273_8962/000.webp",
+        "label": "Before contact",
+        "description": "butter before contact"
+      },
+      {
+        "src": "/data/explorer/2693d33c-a610-4187-b055-b3f3b9246273_8962/015.webp",
+        "label": "At contact",
+        "description": "butter at first contact"
+      }
+    ]
+  },
+  {
+    "id": "60b75016-6d8b-406c-8a0b-387391d0dbad_6938",
+    "object": "apricot",
+    "verb": "pick",
+    "action": "pick up the apricot from the container",
+    "manifestUrl": "/data/explorer/60b75016-6d8b-406c-8a0b-387391d0dbad_6938/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/60b75016-6d8b-406c-8a0b-387391d0dbad_6938/000.webp",
+        "label": "Before contact",
+        "description": "apricot before contact"
+      },
+      {
+        "src": "/data/explorer/60b75016-6d8b-406c-8a0b-387391d0dbad_6938/015.webp",
+        "label": "At contact",
+        "description": "apricot at first contact"
+      }
+    ]
+  },
+  {
+    "id": "09a0d790-5067-4a98-b5b4-82d27842933b_278",
+    "object": "chain oil",
+    "verb": "take",
+    "action": "pick chain oil",
+    "manifestUrl": "/data/explorer/09a0d790-5067-4a98-b5b4-82d27842933b_278/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/09a0d790-5067-4a98-b5b4-82d27842933b_278/000.webp",
+        "label": "Before contact",
+        "description": "chain oil before contact"
+      },
+      {
+        "src": "/data/explorer/09a0d790-5067-4a98-b5b4-82d27842933b_278/015.webp",
+        "label": "At contact",
+        "description": "chain oil at first contact"
+      }
+    ]
+  },
+  {
+    "id": "86070d6e-7ab7-4fd7-b91e-f5a39f27c179_5051",
+    "object": "basket",
+    "verb": "pick up",
+    "action": "pick up the basket from the ground",
+    "manifestUrl": "/data/explorer/86070d6e-7ab7-4fd7-b91e-f5a39f27c179_5051/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/86070d6e-7ab7-4fd7-b91e-f5a39f27c179_5051/000.webp",
+        "label": "Before contact",
+        "description": "basket before contact"
+      },
+      {
+        "src": "/data/explorer/86070d6e-7ab7-4fd7-b91e-f5a39f27c179_5051/015.webp",
+        "label": "At contact",
+        "description": "basket at first contact"
+      }
+    ]
+  },
+  {
+    "id": "5e3875f8-3543-402e-ab15-a93a36c40263_74",
+    "object": "tap handle",
+    "verb": "turn",
+    "action": "turn the tap handle",
+    "manifestUrl": "/data/explorer/5e3875f8-3543-402e-ab15-a93a36c40263_74/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/5e3875f8-3543-402e-ab15-a93a36c40263_74/000.webp",
+        "label": "Before contact",
+        "description": "tap handle before contact"
+      },
+      {
+        "src": "/data/explorer/5e3875f8-3543-402e-ab15-a93a36c40263_74/015.webp",
+        "label": "At contact",
+        "description": "tap handle at first contact"
+      }
+    ]
+  },
+  {
+    "id": "a2bc68ac-1f71-46bc-b7d1-1d6a4339e3c4_49",
+    "object": "baking tray",
+    "verb": "hold",
+    "action": "hold baking tray",
+    "manifestUrl": "/data/explorer/a2bc68ac-1f71-46bc-b7d1-1d6a4339e3c4_49/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/a2bc68ac-1f71-46bc-b7d1-1d6a4339e3c4_49/000.webp",
+        "label": "Before contact",
+        "description": "baking tray before contact"
+      },
+      {
+        "src": "/data/explorer/a2bc68ac-1f71-46bc-b7d1-1d6a4339e3c4_49/015.webp",
+        "label": "At contact",
+        "description": "baking tray at first contact"
+      }
+    ]
+  },
+  {
+    "id": "46e722ff-2fd9-4ae9-8fd5-a5d924bf96f9_685",
+    "object": "circular saw",
+    "verb": "pick up",
+    "action": "pick up the circular saw from the floor",
+    "manifestUrl": "/data/explorer/46e722ff-2fd9-4ae9-8fd5-a5d924bf96f9_685/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/46e722ff-2fd9-4ae9-8fd5-a5d924bf96f9_685/000.webp",
+        "label": "Before contact",
+        "description": "circular saw before contact"
+      },
+      {
+        "src": "/data/explorer/46e722ff-2fd9-4ae9-8fd5-a5d924bf96f9_685/015.webp",
+        "label": "At contact",
+        "description": "circular saw at first contact"
+      }
+    ]
+  },
+  {
+    "id": "89f1287a-bc34-464c-8913-a6cee70588f1_8497",
+    "object": "colander",
+    "verb": "hold",
+    "action": "hold colander",
+    "manifestUrl": "/data/explorer/89f1287a-bc34-464c-8913-a6cee70588f1_8497/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/89f1287a-bc34-464c-8913-a6cee70588f1_8497/000.webp",
+        "label": "Before contact",
+        "description": "colander before contact"
+      },
+      {
+        "src": "/data/explorer/89f1287a-bc34-464c-8913-a6cee70588f1_8497/015.webp",
+        "label": "At contact",
+        "description": "colander at first contact"
+      }
+    ]
+  },
+  {
+    "id": "37773c5d-3cb1-42ee-bc6e-5e61675eb2bb_2821",
+    "object": "cooking pot",
+    "verb": "hold",
+    "action": "hold cooking pot",
+    "manifestUrl": "/data/explorer/37773c5d-3cb1-42ee-bc6e-5e61675eb2bb_2821/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/37773c5d-3cb1-42ee-bc6e-5e61675eb2bb_2821/000.webp",
+        "label": "Before contact",
+        "description": "cooking pot before contact"
+      },
+      {
+        "src": "/data/explorer/37773c5d-3cb1-42ee-bc6e-5e61675eb2bb_2821/015.webp",
+        "label": "At contact",
+        "description": "cooking pot at first contact"
+      }
+    ]
+  },
+  {
+    "id": "cccf19b2-00a5-409d-91f6-6ee31f9be48a_12066",
+    "object": "metal plate",
+    "verb": "pick up",
+    "action": "pick up the metal plate from the floor",
+    "manifestUrl": "/data/explorer/cccf19b2-00a5-409d-91f6-6ee31f9be48a_12066/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/cccf19b2-00a5-409d-91f6-6ee31f9be48a_12066/000.webp",
+        "label": "Before contact",
+        "description": "metal plate before contact"
+      },
+      {
+        "src": "/data/explorer/cccf19b2-00a5-409d-91f6-6ee31f9be48a_12066/015.webp",
+        "label": "At contact",
+        "description": "metal plate at first contact"
+      }
+    ]
+  },
+  {
+    "id": "4fe41d16-9136-4d81-bd5c-071018baaba4_6623",
+    "object": "wires",
+    "verb": "hold",
+    "action": "hold wires",
+    "manifestUrl": "/data/explorer/4fe41d16-9136-4d81-bd5c-071018baaba4_6623/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/4fe41d16-9136-4d81-bd5c-071018baaba4_6623/000.webp",
+        "label": "Before contact",
+        "description": "wires before contact"
+      },
+      {
+        "src": "/data/explorer/4fe41d16-9136-4d81-bd5c-071018baaba4_6623/015.webp",
+        "label": "At contact",
+        "description": "wires at first contact"
+      }
+    ]
+  },
+  {
+    "id": "982efea9-1776-4e27-9727-d59fb99b9418_8466",
+    "object": "paper towel",
+    "verb": "pull",
+    "action": "pull a paper towel from a roll on the counter",
+    "manifestUrl": "/data/explorer/982efea9-1776-4e27-9727-d59fb99b9418_8466/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/982efea9-1776-4e27-9727-d59fb99b9418_8466/000.webp",
+        "label": "Before contact",
+        "description": "paper towel before contact"
+      },
+      {
+        "src": "/data/explorer/982efea9-1776-4e27-9727-d59fb99b9418_8466/015.webp",
+        "label": "At contact",
+        "description": "paper towel at first contact"
+      }
+    ]
+  },
+  {
+    "id": "d8170d0c-bbf2-4b82-a25a-4431de11fbca_4692",
+    "object": "scoop",
+    "verb": "pick up",
+    "action": "pick up the scoop from the counter",
+    "manifestUrl": "/data/explorer/d8170d0c-bbf2-4b82-a25a-4431de11fbca_4692/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/d8170d0c-bbf2-4b82-a25a-4431de11fbca_4692/000.webp",
+        "label": "Before contact",
+        "description": "scoop before contact"
+      },
+      {
+        "src": "/data/explorer/d8170d0c-bbf2-4b82-a25a-4431de11fbca_4692/015.webp",
+        "label": "At contact",
+        "description": "scoop at first contact"
+      }
+    ]
+  },
+  {
+    "id": "f0e080bf-dc5d-4407-aab0-c8e8cc6a268b_7152",
+    "object": "radish",
+    "verb": "hold",
+    "action": "hold the radish with hands",
+    "manifestUrl": "/data/explorer/f0e080bf-dc5d-4407-aab0-c8e8cc6a268b_7152/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/f0e080bf-dc5d-4407-aab0-c8e8cc6a268b_7152/000.webp",
+        "label": "Before contact",
+        "description": "radish before contact"
+      },
+      {
+        "src": "/data/explorer/f0e080bf-dc5d-4407-aab0-c8e8cc6a268b_7152/015.webp",
+        "label": "At contact",
+        "description": "radish at first contact"
+      }
+    ]
+  },
+  {
+    "id": "5243cb20-2517-4f28-ac68-c957e00663f1_61",
+    "object": "wooden plank",
+    "verb": "move",
+    "action": "move the wooden plank on the ground",
+    "manifestUrl": "/data/explorer/5243cb20-2517-4f28-ac68-c957e00663f1_61/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/5243cb20-2517-4f28-ac68-c957e00663f1_61/000.webp",
+        "label": "Before contact",
+        "description": "wooden plank before contact"
+      },
+      {
+        "src": "/data/explorer/5243cb20-2517-4f28-ac68-c957e00663f1_61/015.webp",
+        "label": "At contact",
+        "description": "wooden plank at first contact"
+      }
+    ]
+  },
+  {
+    "id": "9b6a83b1-ddca-45f4-ae53-9e3027d4a4be_10251",
+    "object": "wood board",
+    "verb": "hold",
+    "action": "hold the wood board",
+    "manifestUrl": "/data/explorer/9b6a83b1-ddca-45f4-ae53-9e3027d4a4be_10251/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/9b6a83b1-ddca-45f4-ae53-9e3027d4a4be_10251/000.webp",
+        "label": "Before contact",
+        "description": "wood board before contact"
+      },
+      {
+        "src": "/data/explorer/9b6a83b1-ddca-45f4-ae53-9e3027d4a4be_10251/015.webp",
+        "label": "At contact",
+        "description": "wood board at first contact"
+      }
+    ]
+  },
+  {
+    "id": "44e65af1-2410-4e26-8c4d-6b3112664277_4644",
+    "object": "cheese",
+    "verb": "take",
+    "action": "take cheese from fridge drawer",
+    "manifestUrl": "/data/explorer/44e65af1-2410-4e26-8c4d-6b3112664277_4644/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/44e65af1-2410-4e26-8c4d-6b3112664277_4644/000.webp",
+        "label": "Before contact",
+        "description": "cheese before contact"
+      },
+      {
+        "src": "/data/explorer/44e65af1-2410-4e26-8c4d-6b3112664277_4644/015.webp",
+        "label": "At contact",
+        "description": "cheese at first contact"
+      }
+    ]
+  },
+  {
+    "id": "e9b6dc44-e11f-4073-b954-e1650ef7bca8_6016",
+    "object": "lawn mower handle",
+    "verb": "hold",
+    "action": "holding the handle of a lawn mower",
+    "manifestUrl": "/data/explorer/e9b6dc44-e11f-4073-b954-e1650ef7bca8_6016/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/e9b6dc44-e11f-4073-b954-e1650ef7bca8_6016/000.webp",
+        "label": "Before contact",
+        "description": "lawn mower handle before contact"
+      },
+      {
+        "src": "/data/explorer/e9b6dc44-e11f-4073-b954-e1650ef7bca8_6016/015.webp",
+        "label": "At contact",
+        "description": "lawn mower handle at first contact"
+      }
+    ]
+  },
+  {
+    "id": "81a436d3-ffb0-4f37-8659-c86c66fe4723_12376",
+    "object": "angle grinder",
+    "verb": "pick",
+    "action": "pick up the angle grinder from the tool table",
+    "manifestUrl": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_12376/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_12376/000.webp",
+        "label": "Before contact",
+        "description": "angle grinder before contact"
+      },
+      {
+        "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_12376/015.webp",
+        "label": "At contact",
+        "description": "angle grinder at first contact"
+      }
+    ]
+  },
+  {
+    "id": "5867ae06-127b-4c73-8f76-0e5358d69889_1369",
+    "object": "device",
+    "verb": "hold",
+    "action": "hold the device",
+    "manifestUrl": "/data/explorer/5867ae06-127b-4c73-8f76-0e5358d69889_1369/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/5867ae06-127b-4c73-8f76-0e5358d69889_1369/000.webp",
+        "label": "Before contact",
+        "description": "device before contact"
+      },
+      {
+        "src": "/data/explorer/5867ae06-127b-4c73-8f76-0e5358d69889_1369/015.webp",
+        "label": "At contact",
+        "description": "device at first contact"
+      }
+    ]
+  },
+  {
+    "id": "abda909e-6f43-4498-b85f-46277b297411_3188",
+    "object": "welding machine",
+    "verb": "pick up",
+    "action": "pick up the welding machine from the floor",
+    "manifestUrl": "/data/explorer/abda909e-6f43-4498-b85f-46277b297411_3188/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/abda909e-6f43-4498-b85f-46277b297411_3188/000.webp",
+        "label": "Before contact",
+        "description": "welding machine before contact"
+      },
+      {
+        "src": "/data/explorer/abda909e-6f43-4498-b85f-46277b297411_3188/015.webp",
+        "label": "At contact",
+        "description": "welding machine at first contact"
+      }
+    ]
+  },
+  {
+    "id": "8631cd75-6cc5-4b03-8430-a95686b09d15_8602",
+    "object": "kitchen cloth",
+    "verb": "hold",
+    "action": "hold a kitchen cloth 4",
+    "manifestUrl": "/data/explorer/8631cd75-6cc5-4b03-8430-a95686b09d15_8602/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/8631cd75-6cc5-4b03-8430-a95686b09d15_8602/000.webp",
+        "label": "Before contact",
+        "description": "kitchen cloth before contact"
+      },
+      {
+        "src": "/data/explorer/8631cd75-6cc5-4b03-8430-a95686b09d15_8602/015.webp",
+        "label": "At contact",
+        "description": "kitchen cloth at first contact"
+      }
+    ]
+  },
+  {
+    "id": "07307d95-1973-4da2-aa56-f24af3db66fd_1664",
+    "object": "Wooden stick",
+    "verb": "pick up",
+    "action": "pick up the Wooden stick from the truck bed",
+    "manifestUrl": "/data/explorer/07307d95-1973-4da2-aa56-f24af3db66fd_1664/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/07307d95-1973-4da2-aa56-f24af3db66fd_1664/000.webp",
+        "label": "Before contact",
+        "description": "Wooden stick before contact"
+      },
+      {
+        "src": "/data/explorer/07307d95-1973-4da2-aa56-f24af3db66fd_1664/015.webp",
+        "label": "At contact",
+        "description": "Wooden stick at first contact"
+      }
+    ]
+  },
+  {
+    "id": "2dc234eb-393e-4e47-b449-c14620786b16_11696",
+    "object": "notebook",
+    "verb": "pick up",
+    "action": "pick up the notebook from the table",
+    "manifestUrl": "/data/explorer/2dc234eb-393e-4e47-b449-c14620786b16_11696/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/2dc234eb-393e-4e47-b449-c14620786b16_11696/000.webp",
+        "label": "Before contact",
+        "description": "notebook before contact"
+      },
+      {
+        "src": "/data/explorer/2dc234eb-393e-4e47-b449-c14620786b16_11696/015.webp",
+        "label": "At contact",
+        "description": "notebook at first contact"
+      }
+    ]
+  },
+  {
+    "id": "93fdb243-d2db-456f-8d47-d79a9d20d5c0_536",
+    "object": "grater",
+    "verb": "pick up",
+    "action": "pick up the grater from the cabinet",
+    "manifestUrl": "/data/explorer/93fdb243-d2db-456f-8d47-d79a9d20d5c0_536/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/93fdb243-d2db-456f-8d47-d79a9d20d5c0_536/000.webp",
+        "label": "Before contact",
+        "description": "grater before contact"
+      },
+      {
+        "src": "/data/explorer/93fdb243-d2db-456f-8d47-d79a9d20d5c0_536/015.webp",
+        "label": "At contact",
+        "description": "grater at first contact"
+      }
+    ]
+  },
+  {
+    "id": "5e7a6615-57f8-456d-a29c-06ee1d457d01_590",
+    "object": "measuring tape",
+    "verb": "take",
+    "action": "take measuring tape from surface",
+    "manifestUrl": "/data/explorer/5e7a6615-57f8-456d-a29c-06ee1d457d01_590/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/5e7a6615-57f8-456d-a29c-06ee1d457d01_590/000.webp",
+        "label": "Before contact",
+        "description": "measuring tape before contact"
+      },
+      {
+        "src": "/data/explorer/5e7a6615-57f8-456d-a29c-06ee1d457d01_590/015.webp",
+        "label": "At contact",
+        "description": "measuring tape at first contact"
+      }
+    ]
+  },
+  {
+    "id": "0d036c83-5bff-4991-a7f3-eeec098a9720_4899",
+    "object": "wiper",
+    "verb": "hold",
+    "action": "hold wiper",
+    "manifestUrl": "/data/explorer/0d036c83-5bff-4991-a7f3-eeec098a9720_4899/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/0d036c83-5bff-4991-a7f3-eeec098a9720_4899/000.webp",
+        "label": "Before contact",
+        "description": "wiper before contact"
+      },
+      {
+        "src": "/data/explorer/0d036c83-5bff-4991-a7f3-eeec098a9720_4899/015.webp",
+        "label": "At contact",
+        "description": "wiper at first contact"
+      }
+    ]
+  },
+  {
+    "id": "62f15369-7c48-4a25-b5e6-f232d5dacece_4442",
+    "object": "rice cooker",
+    "verb": "hold",
+    "action": "hold the rice cooker",
+    "manifestUrl": "/data/explorer/62f15369-7c48-4a25-b5e6-f232d5dacece_4442/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/62f15369-7c48-4a25-b5e6-f232d5dacece_4442/000.webp",
+        "label": "Before contact",
+        "description": "rice cooker before contact"
+      },
+      {
+        "src": "/data/explorer/62f15369-7c48-4a25-b5e6-f232d5dacece_4442/015.webp",
+        "label": "At contact",
+        "description": "rice cooker at first contact"
+      }
+    ]
+  },
+  {
+    "id": "c4005e6c-4127-44ed-b1b9-29560d6e9097_3842",
+    "object": "Graphics Card",
+    "verb": "hold",
+    "action": "hold the Graphics Card",
+    "manifestUrl": "/data/explorer/c4005e6c-4127-44ed-b1b9-29560d6e9097_3842/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/c4005e6c-4127-44ed-b1b9-29560d6e9097_3842/000.webp",
+        "label": "Before contact",
+        "description": "Graphics Card before contact"
+      },
+      {
+        "src": "/data/explorer/c4005e6c-4127-44ed-b1b9-29560d6e9097_3842/015.webp",
+        "label": "At contact",
+        "description": "Graphics Card at first contact"
+      }
+    ]
+  },
+  {
+    "id": "de8bdb01-bc8a-4268-b159-cfce16d9bbb9_7787",
+    "object": "straw",
+    "verb": "pick",
+    "action": "pick straw",
+    "manifestUrl": "/data/explorer/de8bdb01-bc8a-4268-b159-cfce16d9bbb9_7787/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/de8bdb01-bc8a-4268-b159-cfce16d9bbb9_7787/000.webp",
+        "label": "Before contact",
+        "description": "straw before contact"
+      },
+      {
+        "src": "/data/explorer/de8bdb01-bc8a-4268-b159-cfce16d9bbb9_7787/015.webp",
+        "label": "At contact",
+        "description": "straw at first contact"
+      }
+    ]
+  },
+  {
+    "id": "fc69e71f-0132-4691-8014-cd1a12b669b9_6937",
+    "object": "battery",
+    "verb": "pick",
+    "action": "pick battery of machine",
+    "manifestUrl": "/data/explorer/fc69e71f-0132-4691-8014-cd1a12b669b9_6937/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/fc69e71f-0132-4691-8014-cd1a12b669b9_6937/000.webp",
+        "label": "Before contact",
+        "description": "battery before contact"
+      },
+      {
+        "src": "/data/explorer/fc69e71f-0132-4691-8014-cd1a12b669b9_6937/015.webp",
+        "label": "At contact",
+        "description": "battery at first contact"
+      }
+    ]
+  },
+  {
+    "id": "14ea5c3e-bbb5-44cf-abcc-e70e1223ad74_3405",
+    "object": "white bucket",
+    "verb": "pick up",
+    "action": "pick up the white bucket from the ground",
+    "manifestUrl": "/data/explorer/14ea5c3e-bbb5-44cf-abcc-e70e1223ad74_3405/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/14ea5c3e-bbb5-44cf-abcc-e70e1223ad74_3405/000.webp",
+        "label": "Before contact",
+        "description": "white bucket before contact"
+      },
+      {
+        "src": "/data/explorer/14ea5c3e-bbb5-44cf-abcc-e70e1223ad74_3405/015.webp",
+        "label": "At contact",
+        "description": "white bucket at first contact"
+      }
+    ]
+  },
+  {
+    "id": "7f3efb7d-79bb-45c6-804e-b0f94ffd5659_456",
+    "object": "tongs",
+    "verb": "pick up",
+    "action": "pick up the tongs from the counter",
+    "manifestUrl": "/data/explorer/7f3efb7d-79bb-45c6-804e-b0f94ffd5659_456/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/7f3efb7d-79bb-45c6-804e-b0f94ffd5659_456/000.webp",
+        "label": "Before contact",
+        "description": "tongs before contact"
+      },
+      {
+        "src": "/data/explorer/7f3efb7d-79bb-45c6-804e-b0f94ffd5659_456/015.webp",
+        "label": "At contact",
+        "description": "tongs at first contact"
+      }
+    ]
+  },
+  {
+    "id": "14ea5c3e-bbb5-44cf-abcc-e70e1223ad74_715",
+    "object": "plant bucket",
+    "verb": "hold",
+    "action": "hold the plant bucket",
+    "manifestUrl": "/data/explorer/14ea5c3e-bbb5-44cf-abcc-e70e1223ad74_715/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/14ea5c3e-bbb5-44cf-abcc-e70e1223ad74_715/000.webp",
+        "label": "Before contact",
+        "description": "plant bucket before contact"
+      },
+      {
+        "src": "/data/explorer/14ea5c3e-bbb5-44cf-abcc-e70e1223ad74_715/015.webp",
+        "label": "At contact",
+        "description": "plant bucket at first contact"
+      }
+    ]
+  },
+  {
+    "id": "53e5b981-9277-417e-8077-b1e55adb9a45_950",
+    "object": "potted plant",
+    "verb": "hold",
+    "action": "hold the potted plant on the windowsill",
+    "manifestUrl": "/data/explorer/53e5b981-9277-417e-8077-b1e55adb9a45_950/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/53e5b981-9277-417e-8077-b1e55adb9a45_950/000.webp",
+        "label": "Before contact",
+        "description": "potted plant before contact"
+      },
+      {
+        "src": "/data/explorer/53e5b981-9277-417e-8077-b1e55adb9a45_950/015.webp",
+        "label": "At contact",
+        "description": "potted plant at first contact"
+      }
+    ]
+  },
+  {
+    "id": "f8c258cc-a304-4791-8880-0ae40980f476_8426",
+    "object": "pump",
+    "verb": "insert",
+    "action": "insert the pump into the bicycle tire valve",
+    "manifestUrl": "/data/explorer/f8c258cc-a304-4791-8880-0ae40980f476_8426/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/f8c258cc-a304-4791-8880-0ae40980f476_8426/000.webp",
+        "label": "Before contact",
+        "description": "pump before contact"
+      },
+      {
+        "src": "/data/explorer/f8c258cc-a304-4791-8880-0ae40980f476_8426/015.webp",
+        "label": "At contact",
+        "description": "pump at first contact"
+      }
+    ]
+  },
+  {
+    "id": "4b5dc015-e442-4a37-a318-65ab2bc9b2e3_8428",
+    "object": "measuring cup",
+    "verb": "hold",
+    "action": "hold the measuring cup",
+    "manifestUrl": "/data/explorer/4b5dc015-e442-4a37-a318-65ab2bc9b2e3_8428/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/4b5dc015-e442-4a37-a318-65ab2bc9b2e3_8428/000.webp",
+        "label": "Before contact",
+        "description": "measuring cup before contact"
+      },
+      {
+        "src": "/data/explorer/4b5dc015-e442-4a37-a318-65ab2bc9b2e3_8428/015.webp",
+        "label": "At contact",
+        "description": "measuring cup at first contact"
+      }
+    ]
+  },
+  {
+    "id": "7975e9f7-996b-468d-99a8-9ca2d6401a74_5492",
+    "object": "paint can",
+    "verb": "hold",
+    "action": "hold the paint can",
+    "manifestUrl": "/data/explorer/7975e9f7-996b-468d-99a8-9ca2d6401a74_5492/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/7975e9f7-996b-468d-99a8-9ca2d6401a74_5492/000.webp",
+        "label": "Before contact",
+        "description": "paint can before contact"
+      },
+      {
+        "src": "/data/explorer/7975e9f7-996b-468d-99a8-9ca2d6401a74_5492/015.webp",
+        "label": "At contact",
+        "description": "paint can at first contact"
+      }
+    ]
+  },
+  {
+    "id": "d3ffcc8a-8f30-45b7-9fdb-74242c1de579_13056",
+    "object": "tube",
+    "verb": "pick up",
+    "action": "pick up the tube from the floor",
+    "manifestUrl": "/data/explorer/d3ffcc8a-8f30-45b7-9fdb-74242c1de579_13056/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/d3ffcc8a-8f30-45b7-9fdb-74242c1de579_13056/000.webp",
+        "label": "Before contact",
+        "description": "tube before contact"
+      },
+      {
+        "src": "/data/explorer/d3ffcc8a-8f30-45b7-9fdb-74242c1de579_13056/015.webp",
+        "label": "At contact",
+        "description": "tube at first contact"
+      }
+    ]
+  },
+  {
+    "id": "03f13744-d779-4bf4-b1bd-fb64a6326750_23764",
+    "object": "plastic paper",
+    "verb": "pick up",
+    "action": "pick up the plastic paper from the table",
+    "manifestUrl": "/data/explorer/03f13744-d779-4bf4-b1bd-fb64a6326750_23764/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/03f13744-d779-4bf4-b1bd-fb64a6326750_23764/000.webp",
+        "label": "Before contact",
+        "description": "plastic paper before contact"
+      },
+      {
+        "src": "/data/explorer/03f13744-d779-4bf4-b1bd-fb64a6326750_23764/015.webp",
+        "label": "At contact",
+        "description": "plastic paper at first contact"
+      }
+    ]
+  },
+  {
+    "id": "c27d4a57-e854-427c-b403-d4760f6494b2_1665",
+    "object": "air pump",
+    "verb": "hold",
+    "action": "hold Air pump",
+    "manifestUrl": "/data/explorer/c27d4a57-e854-427c-b403-d4760f6494b2_1665/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/c27d4a57-e854-427c-b403-d4760f6494b2_1665/000.webp",
+        "label": "Before contact",
+        "description": "air pump before contact"
+      },
+      {
+        "src": "/data/explorer/c27d4a57-e854-427c-b403-d4760f6494b2_1665/015.webp",
+        "label": "At contact",
+        "description": "air pump at first contact"
+      }
+    ]
+  },
+  {
+    "id": "c7242152-97a7-42bd-99c9-98d6b4c32fc7_7571",
+    "object": "blade of grass",
+    "verb": "pick",
+    "action": "pick the blade of grass from the ground",
+    "manifestUrl": "/data/explorer/c7242152-97a7-42bd-99c9-98d6b4c32fc7_7571/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/c7242152-97a7-42bd-99c9-98d6b4c32fc7_7571/000.webp",
+        "label": "Before contact",
+        "description": "blade of grass before contact"
+      },
+      {
+        "src": "/data/explorer/c7242152-97a7-42bd-99c9-98d6b4c32fc7_7571/015.webp",
+        "label": "At contact",
+        "description": "blade of grass at first contact"
+      }
+    ]
+  },
+  {
+    "id": "63a1c028-3919-462b-9c97-9a22c5296eae_3310",
+    "object": "metal spoon",
+    "verb": "pick up",
+    "action": "pick up the metal spoon from the counter",
+    "manifestUrl": "/data/explorer/63a1c028-3919-462b-9c97-9a22c5296eae_3310/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/63a1c028-3919-462b-9c97-9a22c5296eae_3310/000.webp",
+        "label": "Before contact",
+        "description": "metal spoon before contact"
+      },
+      {
+        "src": "/data/explorer/63a1c028-3919-462b-9c97-9a22c5296eae_3310/015.webp",
+        "label": "At contact",
+        "description": "metal spoon at first contact"
+      }
+    ]
+  },
+  {
+    "id": "cccf19b2-00a5-409d-91f6-6ee31f9be48a_8995",
+    "object": "gas stove",
+    "verb": "turn on",
+    "action": "turn on gas stove",
+    "manifestUrl": "/data/explorer/cccf19b2-00a5-409d-91f6-6ee31f9be48a_8995/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/cccf19b2-00a5-409d-91f6-6ee31f9be48a_8995/000.webp",
+        "label": "Before contact",
+        "description": "gas stove before contact"
+      },
+      {
+        "src": "/data/explorer/cccf19b2-00a5-409d-91f6-6ee31f9be48a_8995/015.webp",
+        "label": "At contact",
+        "description": "gas stove at first contact"
+      }
+    ]
+  },
+  {
+    "id": "d5302fe8-fc45-470f-b4bf-88a9c2f63dbe_1451",
+    "object": "toy",
+    "verb": "pick up",
+    "action": "pick up the toy from the book",
+    "manifestUrl": "/data/explorer/d5302fe8-fc45-470f-b4bf-88a9c2f63dbe_1451/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/d5302fe8-fc45-470f-b4bf-88a9c2f63dbe_1451/000.webp",
+        "label": "Before contact",
+        "description": "toy before contact"
+      },
+      {
+        "src": "/data/explorer/d5302fe8-fc45-470f-b4bf-88a9c2f63dbe_1451/015.webp",
+        "label": "At contact",
+        "description": "toy at first contact"
+      }
+    ]
+  },
+  {
+    "id": "42aa1063-32f6-4038-8a14-a3fbc41b57ea_12507",
+    "object": "stroller",
+    "verb": "hold",
+    "action": "hold the stroller handle",
+    "manifestUrl": "/data/explorer/42aa1063-32f6-4038-8a14-a3fbc41b57ea_12507/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/42aa1063-32f6-4038-8a14-a3fbc41b57ea_12507/000.webp",
+        "label": "Before contact",
+        "description": "stroller before contact"
+      },
+      {
+        "src": "/data/explorer/42aa1063-32f6-4038-8a14-a3fbc41b57ea_12507/015.webp",
+        "label": "At contact",
+        "description": "stroller at first contact"
+      }
+    ]
+  },
+  {
+    "id": "0f8e8e38-7617-4f93-9727-7d26bdc36f53_10918",
+    "object": "garment",
+    "verb": "pick",
+    "action": "pick up the garment from the bed",
+    "manifestUrl": "/data/explorer/0f8e8e38-7617-4f93-9727-7d26bdc36f53_10918/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/0f8e8e38-7617-4f93-9727-7d26bdc36f53_10918/000.webp",
+        "label": "Before contact",
+        "description": "garment before contact"
+      },
+      {
+        "src": "/data/explorer/0f8e8e38-7617-4f93-9727-7d26bdc36f53_10918/015.webp",
+        "label": "At contact",
+        "description": "garment at first contact"
+      }
+    ]
+  },
+  {
+    "id": "1bd06ac3-7ec8-4c44-ba0e-2f88338a913c_5759",
+    "object": "paint bucket",
+    "verb": "open",
+    "action": "open the paint bucket lid",
+    "manifestUrl": "/data/explorer/1bd06ac3-7ec8-4c44-ba0e-2f88338a913c_5759/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/1bd06ac3-7ec8-4c44-ba0e-2f88338a913c_5759/000.webp",
+        "label": "Before contact",
+        "description": "paint bucket before contact"
+      },
+      {
+        "src": "/data/explorer/1bd06ac3-7ec8-4c44-ba0e-2f88338a913c_5759/015.webp",
+        "label": "At contact",
+        "description": "paint bucket at first contact"
+      }
+    ]
+  },
+  {
+    "id": "b1c09d0e-632f-47eb-a91c-93f49c957a6a_4526",
+    "object": "flower pot",
+    "verb": "hold",
+    "action": "hold a flower pot",
+    "manifestUrl": "/data/explorer/b1c09d0e-632f-47eb-a91c-93f49c957a6a_4526/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/b1c09d0e-632f-47eb-a91c-93f49c957a6a_4526/000.webp",
+        "label": "Before contact",
+        "description": "flower pot before contact"
+      },
+      {
+        "src": "/data/explorer/b1c09d0e-632f-47eb-a91c-93f49c957a6a_4526/015.webp",
+        "label": "At contact",
+        "description": "flower pot at first contact"
+      }
+    ]
+  },
+  {
+    "id": "9ba1c689-bd30-460e-b729-effb330e54a8_9103",
+    "object": "lemon",
+    "verb": "pick up",
+    "action": "pick up the lemon from the counter",
+    "manifestUrl": "/data/explorer/9ba1c689-bd30-460e-b729-effb330e54a8_9103/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/9ba1c689-bd30-460e-b729-effb330e54a8_9103/000.webp",
+        "label": "Before contact",
+        "description": "lemon before contact"
+      },
+      {
+        "src": "/data/explorer/9ba1c689-bd30-460e-b729-effb330e54a8_9103/015.webp",
+        "label": "At contact",
+        "description": "lemon at first contact"
+      }
+    ]
+  },
+  {
+    "id": "00c74da6-3d28-45bb-9ffb-cb5ee81f8213_1845",
+    "object": "wire connection",
+    "verb": "pick up",
+    "action": "pick up the wire connection from the planter",
+    "manifestUrl": "/data/explorer/00c74da6-3d28-45bb-9ffb-cb5ee81f8213_1845/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/00c74da6-3d28-45bb-9ffb-cb5ee81f8213_1845/000.webp",
+        "label": "Before contact",
+        "description": "wire connection before contact"
+      },
+      {
+        "src": "/data/explorer/00c74da6-3d28-45bb-9ffb-cb5ee81f8213_1845/015.webp",
+        "label": "At contact",
+        "description": "wire connection at first contact"
+      }
+    ]
+  },
+  {
+    "id": "0ccd01be-de91-4e22-b803-92de2c79c43e_5548",
+    "object": "scraper",
+    "verb": "pick up",
+    "action": "pick up the blue scrapper from the table",
+    "manifestUrl": "/data/explorer/0ccd01be-de91-4e22-b803-92de2c79c43e_5548/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/0ccd01be-de91-4e22-b803-92de2c79c43e_5548/000.webp",
+        "label": "Before contact",
+        "description": "scraper before contact"
+      },
+      {
+        "src": "/data/explorer/0ccd01be-de91-4e22-b803-92de2c79c43e_5548/015.webp",
+        "label": "At contact",
+        "description": "scraper at first contact"
+      }
+    ]
+  },
+  {
+    "id": "3df358e3-57c7-402c-ab90-9d6a09605dc4_5481",
+    "object": "steering wheel",
+    "verb": "hold",
+    "action": "hold a steering wheel",
+    "manifestUrl": "/data/explorer/3df358e3-57c7-402c-ab90-9d6a09605dc4_5481/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/3df358e3-57c7-402c-ab90-9d6a09605dc4_5481/000.webp",
+        "label": "Before contact",
+        "description": "steering wheel before contact"
+      },
+      {
+        "src": "/data/explorer/3df358e3-57c7-402c-ab90-9d6a09605dc4_5481/015.webp",
+        "label": "At contact",
+        "description": "steering wheel at first contact"
+      }
+    ]
+  },
+  {
+    "id": "88b13429-1faf-49c1-b213-29f4c5f47871_3476",
+    "object": "gear",
+    "verb": "pick",
+    "action": "pick gear",
+    "manifestUrl": "/data/explorer/88b13429-1faf-49c1-b213-29f4c5f47871_3476/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/88b13429-1faf-49c1-b213-29f4c5f47871_3476/000.webp",
+        "label": "Before contact",
+        "description": "gear before contact"
+      },
+      {
+        "src": "/data/explorer/88b13429-1faf-49c1-b213-29f4c5f47871_3476/015.webp",
+        "label": "At contact",
+        "description": "gear at first contact"
+      }
+    ]
+  },
+  {
+    "id": "0d23ad67-8c6a-48d4-b749-ec498e46496e_8374",
+    "object": "key",
+    "verb": "hold",
+    "action": "hold key 2",
+    "manifestUrl": "/data/explorer/0d23ad67-8c6a-48d4-b749-ec498e46496e_8374/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/0d23ad67-8c6a-48d4-b749-ec498e46496e_8374/000.webp",
+        "label": "Before contact",
+        "description": "key before contact"
+      },
+      {
+        "src": "/data/explorer/0d23ad67-8c6a-48d4-b749-ec498e46496e_8374/015.webp",
+        "label": "At contact",
+        "description": "key at first contact"
+      }
+    ]
+  },
+  {
+    "id": "cc2d7790-67f7-4e52-9fa9-33121c9431a2_13081",
+    "object": "electrical wire",
+    "verb": "hold",
+    "action": "hold the electrical wire from the spool",
+    "manifestUrl": "/data/explorer/cc2d7790-67f7-4e52-9fa9-33121c9431a2_13081/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/cc2d7790-67f7-4e52-9fa9-33121c9431a2_13081/000.webp",
+        "label": "Before contact",
+        "description": "electrical wire before contact"
+      },
+      {
+        "src": "/data/explorer/cc2d7790-67f7-4e52-9fa9-33121c9431a2_13081/015.webp",
+        "label": "At contact",
+        "description": "electrical wire at first contact"
+      }
+    ]
+  },
+  {
+    "id": "be97c001-8d23-4d16-8fd5-489773979277_7262",
+    "object": "toast",
+    "verb": "hold",
+    "action": "hold the toast from the table",
+    "manifestUrl": "/data/explorer/be97c001-8d23-4d16-8fd5-489773979277_7262/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/be97c001-8d23-4d16-8fd5-489773979277_7262/000.webp",
+        "label": "Before contact",
+        "description": "toast before contact"
+      },
+      {
+        "src": "/data/explorer/be97c001-8d23-4d16-8fd5-489773979277_7262/015.webp",
+        "label": "At contact",
+        "description": "toast at first contact"
+      }
+    ]
+  },
+  {
+    "id": "a98d0b45-835c-4b5d-8400-ecbb6edb4d51_5267",
+    "object": "cleaning cloth",
+    "verb": "hold",
+    "action": "hold a cleaning cloth",
+    "manifestUrl": "/data/explorer/a98d0b45-835c-4b5d-8400-ecbb6edb4d51_5267/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/a98d0b45-835c-4b5d-8400-ecbb6edb4d51_5267/000.webp",
+        "label": "Before contact",
+        "description": "cleaning cloth before contact"
+      },
+      {
+        "src": "/data/explorer/a98d0b45-835c-4b5d-8400-ecbb6edb4d51_5267/015.webp",
+        "label": "At contact",
+        "description": "cleaning cloth at first contact"
+      }
+    ]
+  },
+  {
+    "id": "7838357e-d81f-49c5-ba87-ad212cc20579_4561",
+    "object": "pottery clay",
+    "verb": "pick",
+    "action": "pick up pottery clay from the table",
+    "manifestUrl": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_4561/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_4561/000.webp",
+        "label": "Before contact",
+        "description": "pottery clay before contact"
+      },
+      {
+        "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_4561/015.webp",
+        "label": "At contact",
+        "description": "pottery clay at first contact"
+      }
+    ]
+  },
+  {
+    "id": "53cbb273-962b-4f63-9a60-f6e23c59c22b_7083",
+    "object": "grass trimmer",
+    "verb": "hold",
+    "action": "hold the grass trimmer",
+    "manifestUrl": "/data/explorer/53cbb273-962b-4f63-9a60-f6e23c59c22b_7083/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/53cbb273-962b-4f63-9a60-f6e23c59c22b_7083/000.webp",
+        "label": "Before contact",
+        "description": "grass trimmer before contact"
+      },
+      {
+        "src": "/data/explorer/53cbb273-962b-4f63-9a60-f6e23c59c22b_7083/015.webp",
+        "label": "At contact",
+        "description": "grass trimmer at first contact"
+      }
+    ]
+  },
+  {
+    "id": "72a88c93-a0c8-42ad-970e-bd8574e0837e_4094",
+    "object": "blue container",
+    "verb": "hold",
+    "action": "hold the blue container on the counter",
+    "manifestUrl": "/data/explorer/72a88c93-a0c8-42ad-970e-bd8574e0837e_4094/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/72a88c93-a0c8-42ad-970e-bd8574e0837e_4094/000.webp",
+        "label": "Before contact",
+        "description": "blue container before contact"
+      },
+      {
+        "src": "/data/explorer/72a88c93-a0c8-42ad-970e-bd8574e0837e_4094/015.webp",
+        "label": "At contact",
+        "description": "blue container at first contact"
+      }
+    ]
+  },
+  {
+    "id": "3308d15b-ddc9-469a-8ed5-abf9348eaace_3366",
+    "object": "avocado",
+    "verb": "pick up",
+    "action": "pick up the avocado from the table",
+    "manifestUrl": "/data/explorer/3308d15b-ddc9-469a-8ed5-abf9348eaace_3366/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/3308d15b-ddc9-469a-8ed5-abf9348eaace_3366/000.webp",
+        "label": "Before contact",
+        "description": "avocado before contact"
+      },
+      {
+        "src": "/data/explorer/3308d15b-ddc9-469a-8ed5-abf9348eaace_3366/015.webp",
+        "label": "At contact",
+        "description": "avocado at first contact"
+      }
+    ]
+  },
+  {
+    "id": "88d9aafe-e3c2-4eca-aa33-5e54b94dc5d8_8885",
+    "object": "chicken",
+    "verb": "take",
+    "action": "take a piece of chicken from a plastic bag",
+    "manifestUrl": "/data/explorer/88d9aafe-e3c2-4eca-aa33-5e54b94dc5d8_8885/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/88d9aafe-e3c2-4eca-aa33-5e54b94dc5d8_8885/000.webp",
+        "label": "Before contact",
+        "description": "chicken before contact"
+      },
+      {
+        "src": "/data/explorer/88d9aafe-e3c2-4eca-aa33-5e54b94dc5d8_8885/015.webp",
+        "label": "At contact",
+        "description": "chicken at first contact"
+      }
+    ]
+  },
+  {
+    "id": "fc362ce5-5e85-4b5a-9506-1585e2754a79_6969",
+    "object": "sprayer",
+    "verb": "pick",
+    "action": "pick a Sprayer 2",
+    "manifestUrl": "/data/explorer/fc362ce5-5e85-4b5a-9506-1585e2754a79_6969/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/fc362ce5-5e85-4b5a-9506-1585e2754a79_6969/000.webp",
+        "label": "Before contact",
+        "description": "sprayer before contact"
+      },
+      {
+        "src": "/data/explorer/fc362ce5-5e85-4b5a-9506-1585e2754a79_6969/015.webp",
+        "label": "At contact",
+        "description": "sprayer at first contact"
+      }
+    ]
+  },
+  {
+    "id": "103637a2-65a4-4763-8f73-517f8bbd0242_5930",
+    "object": "cable",
+    "verb": "plug in",
+    "action": "plug the cable into the wall socket",
+    "manifestUrl": "/data/explorer/103637a2-65a4-4763-8f73-517f8bbd0242_5930/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/103637a2-65a4-4763-8f73-517f8bbd0242_5930/000.webp",
+        "label": "Before contact",
+        "description": "cable before contact"
+      },
+      {
+        "src": "/data/explorer/103637a2-65a4-4763-8f73-517f8bbd0242_5930/015.webp",
+        "label": "At contact",
+        "description": "cable at first contact"
+      }
+    ]
+  },
+  {
+    "id": "25de67b6-ecd8-4c0e-a87d-025bf9936da8_859",
+    "object": "package",
+    "verb": "pick",
+    "action": "pick up the package from the counter",
+    "manifestUrl": "/data/explorer/25de67b6-ecd8-4c0e-a87d-025bf9936da8_859/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/25de67b6-ecd8-4c0e-a87d-025bf9936da8_859/000.webp",
+        "label": "Before contact",
+        "description": "package before contact"
+      },
+      {
+        "src": "/data/explorer/25de67b6-ecd8-4c0e-a87d-025bf9936da8_859/015.webp",
+        "label": "At contact",
+        "description": "package at first contact"
+      }
+    ]
+  },
+  {
+    "id": "440d461c-4ab4-462b-995e-329013041c98_1643",
+    "object": "pruning shears",
+    "verb": "hold",
+    "action": "hold pruning shears",
+    "manifestUrl": "/data/explorer/440d461c-4ab4-462b-995e-329013041c98_1643/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/440d461c-4ab4-462b-995e-329013041c98_1643/000.webp",
+        "label": "Before contact",
+        "description": "pruning shears before contact"
+      },
+      {
+        "src": "/data/explorer/440d461c-4ab4-462b-995e-329013041c98_1643/015.webp",
+        "label": "At contact",
+        "description": "pruning shears at first contact"
+      }
+    ]
+  },
+  {
+    "id": "98de94b2-2f61-4268-b244-75bf44e3b1be_7417",
+    "object": "water hose",
+    "verb": "pick up",
+    "action": "pick up the water hose from the ground",
+    "manifestUrl": "/data/explorer/98de94b2-2f61-4268-b244-75bf44e3b1be_7417/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/98de94b2-2f61-4268-b244-75bf44e3b1be_7417/000.webp",
+        "label": "Before contact",
+        "description": "water hose before contact"
+      },
+      {
+        "src": "/data/explorer/98de94b2-2f61-4268-b244-75bf44e3b1be_7417/015.webp",
+        "label": "At contact",
+        "description": "water hose at first contact"
+      }
+    ]
+  },
+  {
+    "id": "55317f2f-8128-46fb-b575-e5d3eafcfd7d_1217",
+    "object": "napkin",
+    "verb": "hold",
+    "action": "hold napkins",
+    "manifestUrl": "/data/explorer/55317f2f-8128-46fb-b575-e5d3eafcfd7d_1217/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/55317f2f-8128-46fb-b575-e5d3eafcfd7d_1217/000.webp",
+        "label": "Before contact",
+        "description": "napkin before contact"
+      },
+      {
+        "src": "/data/explorer/55317f2f-8128-46fb-b575-e5d3eafcfd7d_1217/015.webp",
+        "label": "At contact",
+        "description": "napkin at first contact"
+      }
+    ]
+  },
+  {
+    "id": "2a8e15dc-9b10-4932-86a9-931cb68e055d_6219",
+    "object": "plants",
+    "verb": "pick up",
+    "action": "pick up the plants from the black tarp",
+    "manifestUrl": "/data/explorer/2a8e15dc-9b10-4932-86a9-931cb68e055d_6219/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/2a8e15dc-9b10-4932-86a9-931cb68e055d_6219/000.webp",
+        "label": "Before contact",
+        "description": "plants before contact"
+      },
+      {
+        "src": "/data/explorer/2a8e15dc-9b10-4932-86a9-931cb68e055d_6219/015.webp",
+        "label": "At contact",
+        "description": "plants at first contact"
+      }
+    ]
+  },
+  {
+    "id": "43db99a3-61ce-4548-ba5a-faf4c91c72f1_2255",
+    "object": "green onion",
+    "verb": "pick",
+    "action": "pick up the green onion from the counter",
+    "manifestUrl": "/data/explorer/43db99a3-61ce-4548-ba5a-faf4c91c72f1_2255/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/43db99a3-61ce-4548-ba5a-faf4c91c72f1_2255/000.webp",
+        "label": "Before contact",
+        "description": "green onion before contact"
+      },
+      {
+        "src": "/data/explorer/43db99a3-61ce-4548-ba5a-faf4c91c72f1_2255/015.webp",
+        "label": "At contact",
+        "description": "green onion at first contact"
+      }
+    ]
+  },
+  {
+    "id": "4749b66f-a5a8-4b4d-8504-3499271d1541_4973",
+    "object": "nut",
+    "verb": "pick",
+    "action": "pick the nut from the red table",
+    "manifestUrl": "/data/explorer/4749b66f-a5a8-4b4d-8504-3499271d1541_4973/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/4749b66f-a5a8-4b4d-8504-3499271d1541_4973/000.webp",
+        "label": "Before contact",
+        "description": "nut before contact"
+      },
+      {
+        "src": "/data/explorer/4749b66f-a5a8-4b4d-8504-3499271d1541_4973/015.webp",
+        "label": "At contact",
+        "description": "nut at first contact"
+      }
+    ]
+  },
+  {
+    "id": "4288683d-f0f3-4cff-88e4-ff2ce15609ee_2796",
+    "object": "tissue paper",
+    "verb": "take",
+    "action": "take the tissue paper from the holder",
+    "manifestUrl": "/data/explorer/4288683d-f0f3-4cff-88e4-ff2ce15609ee_2796/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/4288683d-f0f3-4cff-88e4-ff2ce15609ee_2796/000.webp",
+        "label": "Before contact",
+        "description": "tissue paper before contact"
+      },
+      {
+        "src": "/data/explorer/4288683d-f0f3-4cff-88e4-ff2ce15609ee_2796/015.webp",
+        "label": "At contact",
+        "description": "tissue paper at first contact"
+      }
+    ]
+  },
+  {
+    "id": "c664f078-9b34-4a58-b949-180ac4bc0980_6303",
+    "object": "meter",
+    "verb": "pick",
+    "action": "pick a meter",
+    "manifestUrl": "/data/explorer/c664f078-9b34-4a58-b949-180ac4bc0980_6303/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/c664f078-9b34-4a58-b949-180ac4bc0980_6303/000.webp",
+        "label": "Before contact",
+        "description": "meter before contact"
+      },
+      {
+        "src": "/data/explorer/c664f078-9b34-4a58-b949-180ac4bc0980_6303/015.webp",
+        "label": "At contact",
+        "description": "meter at first contact"
+      }
+    ]
+  },
+  {
+    "id": "7473bb9f-74a1-4f50-abf9-410e16e469df_4272",
+    "object": "red pepper",
+    "verb": "pick up",
+    "action": "pick up the red pepper from the cutting board",
+    "manifestUrl": "/data/explorer/7473bb9f-74a1-4f50-abf9-410e16e469df_4272/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/7473bb9f-74a1-4f50-abf9-410e16e469df_4272/000.webp",
+        "label": "Before contact",
+        "description": "red pepper before contact"
+      },
+      {
+        "src": "/data/explorer/7473bb9f-74a1-4f50-abf9-410e16e469df_4272/015.webp",
+        "label": "At contact",
+        "description": "red pepper at first contact"
+      }
+    ]
+  },
+  {
+    "id": "16c123c6-3316-4689-9c79-09f0f0d0d604_2475",
+    "object": "dishwasher door",
+    "verb": "open",
+    "action": "open the dishwasher door",
+    "manifestUrl": "/data/explorer/16c123c6-3316-4689-9c79-09f0f0d0d604_2475/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/16c123c6-3316-4689-9c79-09f0f0d0d604_2475/000.webp",
+        "label": "Before contact",
+        "description": "dishwasher door before contact"
+      },
+      {
+        "src": "/data/explorer/16c123c6-3316-4689-9c79-09f0f0d0d604_2475/015.webp",
+        "label": "At contact",
+        "description": "dishwasher door at first contact"
+      }
+    ]
+  },
+  {
+    "id": "b4f94912-b538-4745-ad10-c7fb6304bd31_7605",
+    "object": "table",
+    "verb": "pick up",
+    "action": "pick up the table from the floor",
+    "manifestUrl": "/data/explorer/b4f94912-b538-4745-ad10-c7fb6304bd31_7605/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/b4f94912-b538-4745-ad10-c7fb6304bd31_7605/000.webp",
+        "label": "Before contact",
+        "description": "table before contact"
+      },
+      {
+        "src": "/data/explorer/b4f94912-b538-4745-ad10-c7fb6304bd31_7605/015.webp",
+        "label": "At contact",
+        "description": "table at first contact"
+      }
+    ]
+  },
+  {
+    "id": "4b7de8b3-ecec-4dfc-b6c9-1fec07375946_7988",
+    "object": "soil",
+    "verb": "dig",
+    "action": "dig into the soil around a plant",
+    "manifestUrl": "/data/explorer/4b7de8b3-ecec-4dfc-b6c9-1fec07375946_7988/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/4b7de8b3-ecec-4dfc-b6c9-1fec07375946_7988/000.webp",
+        "label": "Before contact",
+        "description": "soil before contact"
+      },
+      {
+        "src": "/data/explorer/4b7de8b3-ecec-4dfc-b6c9-1fec07375946_7988/015.webp",
+        "label": "At contact",
+        "description": "soil at first contact"
+      }
+    ]
+  },
+  {
+    "id": "073db1ec-285d-43af-a3b3-7b410c33847d_10765",
+    "object": "spice bottle",
+    "verb": "pick up",
+    "action": "pick up the spice bottle from the shelf",
+    "manifestUrl": "/data/explorer/073db1ec-285d-43af-a3b3-7b410c33847d_10765/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/073db1ec-285d-43af-a3b3-7b410c33847d_10765/000.webp",
+        "label": "Before contact",
+        "description": "spice bottle before contact"
+      },
+      {
+        "src": "/data/explorer/073db1ec-285d-43af-a3b3-7b410c33847d_10765/015.webp",
+        "label": "At contact",
+        "description": "spice bottle at first contact"
+      }
+    ]
+  },
+  {
+    "id": "52e6d8e4-3099-458f-90ab-30e4d69c4a16_7495",
+    "object": "door handle",
+    "verb": "open",
+    "action": "open the door with the door handle",
+    "manifestUrl": "/data/explorer/52e6d8e4-3099-458f-90ab-30e4d69c4a16_7495/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/52e6d8e4-3099-458f-90ab-30e4d69c4a16_7495/000.webp",
+        "label": "Before contact",
+        "description": "door handle before contact"
+      },
+      {
+        "src": "/data/explorer/52e6d8e4-3099-458f-90ab-30e4d69c4a16_7495/015.webp",
+        "label": "At contact",
+        "description": "door handle at first contact"
+      }
+    ]
+  },
+  {
+    "id": "1a5569e1-048c-4b5c-8340-e7c4d5c30402_10333",
+    "object": "stove knob",
+    "verb": "adjust",
+    "action": "adjust the stove knob",
+    "manifestUrl": "/data/explorer/1a5569e1-048c-4b5c-8340-e7c4d5c30402_10333/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/1a5569e1-048c-4b5c-8340-e7c4d5c30402_10333/000.webp",
+        "label": "Before contact",
+        "description": "stove knob before contact"
+      },
+      {
+        "src": "/data/explorer/1a5569e1-048c-4b5c-8340-e7c4d5c30402_10333/015.webp",
+        "label": "At contact",
+        "description": "stove knob at first contact"
+      }
+    ]
+  },
+  {
+    "id": "bb9046a7-5cf3-4188-93b3-a6fcaf67add4_3060",
+    "object": "puzzle piece",
+    "verb": "pick",
+    "action": "pick up the puzzle piece from the floor",
+    "manifestUrl": "/data/explorer/bb9046a7-5cf3-4188-93b3-a6fcaf67add4_3060/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/bb9046a7-5cf3-4188-93b3-a6fcaf67add4_3060/000.webp",
+        "label": "Before contact",
+        "description": "puzzle piece before contact"
+      },
+      {
+        "src": "/data/explorer/bb9046a7-5cf3-4188-93b3-a6fcaf67add4_3060/015.webp",
+        "label": "At contact",
+        "description": "puzzle piece at first contact"
+      }
+    ]
+  },
+  {
+    "id": "bc2a6dff-3d0a-44a9-be35-c5730e3a263c_13694",
+    "object": "dough cutter",
+    "verb": "hold",
+    "action": "hold dough cutter",
+    "manifestUrl": "/data/explorer/bc2a6dff-3d0a-44a9-be35-c5730e3a263c_13694/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/bc2a6dff-3d0a-44a9-be35-c5730e3a263c_13694/000.webp",
+        "label": "Before contact",
+        "description": "dough cutter before contact"
+      },
+      {
+        "src": "/data/explorer/bc2a6dff-3d0a-44a9-be35-c5730e3a263c_13694/015.webp",
+        "label": "At contact",
+        "description": "dough cutter at first contact"
+      }
+    ]
+  },
+  {
+    "id": "671c9807-2ef7-4d03-8e68-1253eabc8ee5_5391",
+    "object": "carton box",
+    "verb": "open",
+    "action": "open carton box cover",
+    "manifestUrl": "/data/explorer/671c9807-2ef7-4d03-8e68-1253eabc8ee5_5391/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/671c9807-2ef7-4d03-8e68-1253eabc8ee5_5391/000.webp",
+        "label": "Before contact",
+        "description": "carton box before contact"
+      },
+      {
+        "src": "/data/explorer/671c9807-2ef7-4d03-8e68-1253eabc8ee5_5391/015.webp",
+        "label": "At contact",
+        "description": "carton box at first contact"
+      }
+    ]
+  },
+  {
+    "id": "8e2b5741-3c91-43fc-990f-8d2c999f75c6_4562",
+    "object": "bottle cap",
+    "verb": "pick up",
+    "action": "pick up the bottle cap from the table",
+    "manifestUrl": "/data/explorer/8e2b5741-3c91-43fc-990f-8d2c999f75c6_4562/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/8e2b5741-3c91-43fc-990f-8d2c999f75c6_4562/000.webp",
+        "label": "Before contact",
+        "description": "bottle cap before contact"
+      },
+      {
+        "src": "/data/explorer/8e2b5741-3c91-43fc-990f-8d2c999f75c6_4562/015.webp",
+        "label": "At contact",
+        "description": "bottle cap at first contact"
+      }
+    ]
+  },
+  {
+    "id": "bd0d2777-e712-4e72-9e5d-a96f2c6df705_4572",
+    "object": "pants",
+    "verb": "pick",
+    "action": "pick pants",
+    "manifestUrl": "/data/explorer/bd0d2777-e712-4e72-9e5d-a96f2c6df705_4572/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/bd0d2777-e712-4e72-9e5d-a96f2c6df705_4572/000.webp",
+        "label": "Before contact",
+        "description": "pants before contact"
+      },
+      {
+        "src": "/data/explorer/bd0d2777-e712-4e72-9e5d-a96f2c6df705_4572/015.webp",
+        "label": "At contact",
+        "description": "pants at first contact"
+      }
+    ]
+  },
+  {
+    "id": "36b7c744-d167-43de-8f8f-e83ca3f8f2cc_2038",
+    "object": "Lego piece",
+    "verb": "pick up",
+    "action": "pick up the yellow Lego piece from the floor",
+    "manifestUrl": "/data/explorer/36b7c744-d167-43de-8f8f-e83ca3f8f2cc_2038/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/36b7c744-d167-43de-8f8f-e83ca3f8f2cc_2038/000.webp",
+        "label": "Before contact",
+        "description": "Lego piece before contact"
+      },
+      {
+        "src": "/data/explorer/36b7c744-d167-43de-8f8f-e83ca3f8f2cc_2038/015.webp",
+        "label": "At contact",
+        "description": "Lego piece at first contact"
+      }
+    ]
+  },
+  {
+    "id": "5e3d516e-4de6-43f9-a015-c85c35a0258e_13153",
+    "object": "glue bottle",
+    "verb": "pick up",
+    "action": "pick up the glue bottle from the table",
+    "manifestUrl": "/data/explorer/5e3d516e-4de6-43f9-a015-c85c35a0258e_13153/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/5e3d516e-4de6-43f9-a015-c85c35a0258e_13153/000.webp",
+        "label": "Before contact",
+        "description": "glue bottle before contact"
+      },
+      {
+        "src": "/data/explorer/5e3d516e-4de6-43f9-a015-c85c35a0258e_13153/015.webp",
+        "label": "At contact",
+        "description": "glue bottle at first contact"
+      }
+    ]
+  },
+  {
+    "id": "55eb6b38-c3a2-40bf-a971-bac0db690972_122",
+    "object": "garden hose",
+    "verb": "pick up",
+    "action": "pick up the garden hose from the ground",
+    "manifestUrl": "/data/explorer/55eb6b38-c3a2-40bf-a971-bac0db690972_122/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/55eb6b38-c3a2-40bf-a971-bac0db690972_122/000.webp",
+        "label": "Before contact",
+        "description": "garden hose before contact"
+      },
+      {
+        "src": "/data/explorer/55eb6b38-c3a2-40bf-a971-bac0db690972_122/015.webp",
+        "label": "At contact",
+        "description": "garden hose at first contact"
+      }
+    ]
+  },
+  {
+    "id": "7b16c199-f55e-4540-9ff7-6c2ab43ba20b_5906",
+    "object": "pottery",
+    "verb": "pick",
+    "action": "pick up the pottery from the table",
+    "manifestUrl": "/data/explorer/7b16c199-f55e-4540-9ff7-6c2ab43ba20b_5906/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/7b16c199-f55e-4540-9ff7-6c2ab43ba20b_5906/000.webp",
+        "label": "Before contact",
+        "description": "pottery before contact"
+      },
+      {
+        "src": "/data/explorer/7b16c199-f55e-4540-9ff7-6c2ab43ba20b_5906/015.webp",
+        "label": "At contact",
+        "description": "pottery at first contact"
+      }
+    ]
+  },
+  {
+    "id": "e2508048-e8d3-4e48-8129-a1b6abebba74_5338",
+    "object": "bicycle handle",
+    "verb": "hold",
+    "action": "hold bicycle handle",
+    "manifestUrl": "/data/explorer/e2508048-e8d3-4e48-8129-a1b6abebba74_5338/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/e2508048-e8d3-4e48-8129-a1b6abebba74_5338/000.webp",
+        "label": "Before contact",
+        "description": "bicycle handle before contact"
+      },
+      {
+        "src": "/data/explorer/e2508048-e8d3-4e48-8129-a1b6abebba74_5338/015.webp",
+        "label": "At contact",
+        "description": "bicycle handle at first contact"
+      }
+    ]
+  },
+  {
+    "id": "68609da7-2c75-404f-92ae-500a220ad353_6224",
+    "object": "pan handle",
+    "verb": "pick up",
+    "action": "pick up the pan handle",
+    "manifestUrl": "/data/explorer/68609da7-2c75-404f-92ae-500a220ad353_6224/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/68609da7-2c75-404f-92ae-500a220ad353_6224/000.webp",
+        "label": "Before contact",
+        "description": "pan handle before contact"
+      },
+      {
+        "src": "/data/explorer/68609da7-2c75-404f-92ae-500a220ad353_6224/015.webp",
+        "label": "At contact",
+        "description": "pan handle at first contact"
+      }
+    ]
+  },
+  {
+    "id": "cb4c9dd8-c8e1-4dd7-8b4d-0203c54d6381_2222",
+    "object": "concrete block",
+    "verb": "pick",
+    "action": "pick up the concrete block from the ground",
+    "manifestUrl": "/data/explorer/cb4c9dd8-c8e1-4dd7-8b4d-0203c54d6381_2222/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/cb4c9dd8-c8e1-4dd7-8b4d-0203c54d6381_2222/000.webp",
+        "label": "Before contact",
+        "description": "concrete block before contact"
+      },
+      {
+        "src": "/data/explorer/cb4c9dd8-c8e1-4dd7-8b4d-0203c54d6381_2222/015.webp",
+        "label": "At contact",
+        "description": "concrete block at first contact"
+      }
+    ]
+  },
+  {
+    "id": "44d320be-f764-4406-98c7-996f5bd64d90_8461",
+    "object": "tools",
+    "verb": "pick",
+    "action": "pick up the tools from the table",
+    "manifestUrl": "/data/explorer/44d320be-f764-4406-98c7-996f5bd64d90_8461/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/44d320be-f764-4406-98c7-996f5bd64d90_8461/000.webp",
+        "label": "Before contact",
+        "description": "tools before contact"
+      },
+      {
+        "src": "/data/explorer/44d320be-f764-4406-98c7-996f5bd64d90_8461/015.webp",
+        "label": "At contact",
+        "description": "tools at first contact"
+      }
+    ]
+  },
+  {
+    "id": "fbafc354-121f-40f1-a553-bbae0d2f66ed_11035",
+    "object": "slotted spoon",
+    "verb": "pick",
+    "action": "pick the slotted spoon from the counter",
+    "manifestUrl": "/data/explorer/fbafc354-121f-40f1-a553-bbae0d2f66ed_11035/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/fbafc354-121f-40f1-a553-bbae0d2f66ed_11035/000.webp",
+        "label": "Before contact",
+        "description": "slotted spoon before contact"
+      },
+      {
+        "src": "/data/explorer/fbafc354-121f-40f1-a553-bbae0d2f66ed_11035/015.webp",
+        "label": "At contact",
+        "description": "slotted spoon at first contact"
+      }
+    ]
+  },
+  {
+    "id": "bb5ac0de-ad07-4db2-a397-7c95b2faaac4_2311",
+    "object": "electric drill",
+    "verb": "pick up",
+    "action": "pick up the electric drill from the workbench",
+    "manifestUrl": "/data/explorer/bb5ac0de-ad07-4db2-a397-7c95b2faaac4_2311/manifest.json",
+    "frames": [
+      {
+        "src": "/data/explorer/bb5ac0de-ad07-4db2-a397-7c95b2faaac4_2311/000.webp",
+        "label": "Before contact",
+        "description": "electric drill before contact"
+      },
+      {
+        "src": "/data/explorer/bb5ac0de-ad07-4db2-a397-7c95b2faaac4_2311/015.webp",
+        "label": "At contact",
+        "description": "electric drill at first contact"
+      }
+    ]
+  }
+]

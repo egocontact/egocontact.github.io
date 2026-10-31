@@ -1,0 +1,118 @@
+{
+  "event": "fd3818dc-d53b-4322-9c46-0ab655fe78a4_19763",
+  "action": "pick a craft paper from the table",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 19748,
+  "observation": 19748,
+  "contact": 19763,
+  "anchors": {
+    "19748": {
+      "contact_thumb": {
+        "x": 104.91339097451741,
+        "y": 482.57663835781733,
+        "occluded": true,
+        "hard_sample": true
+      },
+      "contact_index": {
+        "x": 63.390900599404645,
+        "y": 405.2760272729783,
+        "occluded": true,
+        "hard_sample": true
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          21.46338397335129,
+          332.3827604067144,
+          89.75606407615996,
+          803.3803683058811,
+          421.46336743265925,
+          403.15442169726276,
+          443.41458603713346,
+          783.8571513981436
+        ]
+      }
+    },
+    "19763": {
+      "contact_thumb": {
+        "x": 450.3805615820894,
+        "y": 1009.8772354008264,
+        "occluded": true,
+        "hard_sample": true
+      },
+      "contact_index": {
+        "x": 395.01724108193906,
+        "y": 924.2944159854688,
+        "occluded": true,
+        "hard_sample": true
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 19748,
+      "src": "/data/explorer/fd3818dc-d53b-4322-9c46-0ab655fe78a4_19763/000.webp"
+    },
+    {
+      "index": 19749,
+      "src": "/data/explorer/fd3818dc-d53b-4322-9c46-0ab655fe78a4_19763/001.webp"
+    },
+    {
+      "index": 19750,
+      "src": "/data/explorer/fd3818dc-d53b-4322-9c46-0ab655fe78a4_19763/002.webp"
+    },
+    {
+      "index": 19751,
+      "src": "/data/explorer/fd3818dc-d53b-4322-9c46-0ab655fe78a4_19763/003.webp"
+    },
+    {
+      "index": 19752,
+      "src": "/data/explorer/fd3818dc-d53b-4322-9c46-0ab655fe78a4_19763/004.webp"
+    },
+    {
+      "index": 19753,
+      "src": "/data/explorer/fd3818dc-d53b-4322-9c46-0ab655fe78a4_19763/005.webp"
+    },
+    {
+      "index": 19754,
+      "src": "/data/explorer/fd3818dc-d53b-4322-9c46-0ab655fe78a4_19763/006.webp"
+    },
+    {
+      "index": 19755,
+      "src": "/data/explorer/fd3818dc-d53b-4322-9c46-0ab655fe78a4_19763/007.webp"
+    },
+    {
+      "index": 19756,
+      "src": "/data/explorer/fd3818dc-d53b-4322-9c46-0ab655fe78a4_19763/008.webp"
+    },
+    {
+      "index": 19757,
+      "src": "/data/explorer/fd3818dc-d53b-4322-9c46-0ab655fe78a4_19763/009.webp"
+    },
+    {
+      "index": 19758,
+      "src": "/data/explorer/fd3818dc-d53b-4322-9c46-0ab655fe78a4_19763/010.webp"
+    },
+    {
+      "index": 19759,
+      "src": "/data/explorer/fd3818dc-d53b-4322-9c46-0ab655fe78a4_19763/011.webp"
+    },
+    {
+      "index": 19760,
+      "src": "/data/explorer/fd3818dc-d53b-4322-9c46-0ab655fe78a4_19763/012.webp"
+    },
+    {
+      "index": 19761,
+      "src": "/data/explorer/fd3818dc-d53b-4322-9c46-0ab655fe78a4_19763/013.webp"
+    },
+    {
+      "index": 19762,
+      "src": "/data/explorer/fd3818dc-d53b-4322-9c46-0ab655fe78a4_19763/014.webp"
+    },
+    {
+      "index": 19763,
+      "src": "/data/explorer/fd3818dc-d53b-4322-9c46-0ab655fe78a4_19763/015.webp"
+    }
+  ]
+}

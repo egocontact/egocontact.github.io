@@ -1,0 +1,118 @@
+{
+  "event": "0d4b4867-40db-422a-b506-807badc28fe2_8685",
+  "action": "hold a sieve with vegetables",
+  "width": 1920,
+  "height": 1440,
+  "fps": 30.0,
+  "first": 8670,
+  "observation": 8670,
+  "contact": 8685,
+  "anchors": {
+    "8670": {
+      "contact_thumb": {
+        "x": 992.3314282687376,
+        "y": 884.1814234021962,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 984.0412730467992,
+        "y": 813.8770031213469,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          989.6977574190647,
+          815.6546657205485,
+          965.525095548561,
+          877.8129391018434,
+          1051.8560308003596,
+          908.8920757924909,
+          1072.5754552607912,
+          832.9208527709083
+        ]
+      }
+    },
+    "8685": {
+      "contact_thumb": {
+        "x": 1049.5335751987495,
+        "y": 979.2991684880512,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1057.823730420688,
+        "y": 875.910315133861,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 8670,
+      "src": "/data/explorer/0d4b4867-40db-422a-b506-807badc28fe2_8685/000.webp"
+    },
+    {
+      "index": 8671,
+      "src": "/data/explorer/0d4b4867-40db-422a-b506-807badc28fe2_8685/001.webp"
+    },
+    {
+      "index": 8672,
+      "src": "/data/explorer/0d4b4867-40db-422a-b506-807badc28fe2_8685/002.webp"
+    },
+    {
+      "index": 8673,
+      "src": "/data/explorer/0d4b4867-40db-422a-b506-807badc28fe2_8685/003.webp"
+    },
+    {
+      "index": 8674,
+      "src": "/data/explorer/0d4b4867-40db-422a-b506-807badc28fe2_8685/004.webp"
+    },
+    {
+      "index": 8675,
+      "src": "/data/explorer/0d4b4867-40db-422a-b506-807badc28fe2_8685/005.webp"
+    },
+    {
+      "index": 8676,
+      "src": "/data/explorer/0d4b4867-40db-422a-b506-807badc28fe2_8685/006.webp"
+    },
+    {
+      "index": 8677,
+      "src": "/data/explorer/0d4b4867-40db-422a-b506-807badc28fe2_8685/007.webp"
+    },
+    {
+      "index": 8678,
+      "src": "/data/explorer/0d4b4867-40db-422a-b506-807badc28fe2_8685/008.webp"
+    },
+    {
+      "index": 8679,
+      "src": "/data/explorer/0d4b4867-40db-422a-b506-807badc28fe2_8685/009.webp"
+    },
+    {
+      "index": 8680,
+      "src": "/data/explorer/0d4b4867-40db-422a-b506-807badc28fe2_8685/010.webp"
+    },
+    {
+      "index": 8681,
+      "src": "/data/explorer/0d4b4867-40db-422a-b506-807badc28fe2_8685/011.webp"
+    },
+    {
+      "index": 8682,
+      "src": "/data/explorer/0d4b4867-40db-422a-b506-807badc28fe2_8685/012.webp"
+    },
+    {
+      "index": 8683,
+      "src": "/data/explorer/0d4b4867-40db-422a-b506-807badc28fe2_8685/013.webp"
+    },
+    {
+      "index": 8684,
+      "src": "/data/explorer/0d4b4867-40db-422a-b506-807badc28fe2_8685/014.webp"
+    },
+    {
+      "index": 8685,
+      "src": "/data/explorer/0d4b4867-40db-422a-b506-807badc28fe2_8685/015.webp"
+    }
+  ]
+}

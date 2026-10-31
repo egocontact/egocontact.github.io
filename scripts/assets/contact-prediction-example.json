@@ -1,0 +1,56 @@
+{
+  "event": "4c470c78-989f-4331-a1e3-dff778df11b4_4555",
+  "clip_id": "4c470c78-989f-4331-a1e3-dff778df11b4",
+  "frame": 4540,
+  "width": 1440,
+  "height": 1080,
+  "action": "hold mug",
+  "ground_truth": {
+    "x": 741.6187989556136,
+    "y": 751.142578125
+  },
+  "display_contact": {
+    "x": 665,
+    "y": 815
+  },
+  "display_contact_note": "User-requested illustrative handle contact. The original dataset annotation is preserved in ground_truth.",
+  "contact": "opposing virtual finger",
+  "predictions_are_illustrative": true,
+  "observation_view": {
+    "center": [
+      740,
+      805
+    ],
+    "width": 330
+  },
+  "evaluation_view": {
+    "center": [
+      700,
+      805
+    ],
+    "width": 280
+  },
+  "predictions": [
+    {
+      "x": 710,
+      "y": 800
+    },
+    {
+      "x": 770,
+      "y": 830
+    },
+    {
+      "x": 749.6187989556136,
+      "y": 756.142578125
+    },
+    {
+      "x": 675,
+      "y": 825
+    },
+    {
+      "x": 805,
+      "y": 770
+    }
+  ],
+  "source_image": "data/EgoContact/frames/last_observation_frames/hifiego-4c470c78-989f-4331-a1e3-dff778df11b4-4540.jpg"
+}

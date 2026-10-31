@@ -1,0 +1,118 @@
+{
+  "event": "71a4df4c-46f2-4a45-ab76-ab9b0df3e5db_10014",
+  "action": "place the metal bowl into the sink",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 9999,
+  "observation": 9999,
+  "contact": 10014,
+  "anchors": {
+    "9999": {
+      "contact_thumb": {
+        "x": 660.0470133707983,
+        "y": 843.8204152078835,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 674.1868402117148,
+        "y": 798.7264709241235,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          245.5889808968322,
+          1049.530538910801,
+          218.46569322559932,
+          612.8429318291334,
+          689.4245973351883,
+          610.375770207203,
+          654.9040493899829,
+          1042.12905404501
+        ]
+      }
+    },
+    "10014": {
+      "contact_thumb": {
+        "x": 701.9009526015036,
+        "y": 807.1815854773284,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 727.3526409151533,
+        "y": 776.1794987822435,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 9999,
+      "src": "/data/explorer/71a4df4c-46f2-4a45-ab76-ab9b0df3e5db_10014/000.webp"
+    },
+    {
+      "index": 10000,
+      "src": "/data/explorer/71a4df4c-46f2-4a45-ab76-ab9b0df3e5db_10014/001.webp"
+    },
+    {
+      "index": 10001,
+      "src": "/data/explorer/71a4df4c-46f2-4a45-ab76-ab9b0df3e5db_10014/002.webp"
+    },
+    {
+      "index": 10002,
+      "src": "/data/explorer/71a4df4c-46f2-4a45-ab76-ab9b0df3e5db_10014/003.webp"
+    },
+    {
+      "index": 10003,
+      "src": "/data/explorer/71a4df4c-46f2-4a45-ab76-ab9b0df3e5db_10014/004.webp"
+    },
+    {
+      "index": 10004,
+      "src": "/data/explorer/71a4df4c-46f2-4a45-ab76-ab9b0df3e5db_10014/005.webp"
+    },
+    {
+      "index": 10005,
+      "src": "/data/explorer/71a4df4c-46f2-4a45-ab76-ab9b0df3e5db_10014/006.webp"
+    },
+    {
+      "index": 10006,
+      "src": "/data/explorer/71a4df4c-46f2-4a45-ab76-ab9b0df3e5db_10014/007.webp"
+    },
+    {
+      "index": 10007,
+      "src": "/data/explorer/71a4df4c-46f2-4a45-ab76-ab9b0df3e5db_10014/008.webp"
+    },
+    {
+      "index": 10008,
+      "src": "/data/explorer/71a4df4c-46f2-4a45-ab76-ab9b0df3e5db_10014/009.webp"
+    },
+    {
+      "index": 10009,
+      "src": "/data/explorer/71a4df4c-46f2-4a45-ab76-ab9b0df3e5db_10014/010.webp"
+    },
+    {
+      "index": 10010,
+      "src": "/data/explorer/71a4df4c-46f2-4a45-ab76-ab9b0df3e5db_10014/011.webp"
+    },
+    {
+      "index": 10011,
+      "src": "/data/explorer/71a4df4c-46f2-4a45-ab76-ab9b0df3e5db_10014/012.webp"
+    },
+    {
+      "index": 10012,
+      "src": "/data/explorer/71a4df4c-46f2-4a45-ab76-ab9b0df3e5db_10014/013.webp"
+    },
+    {
+      "index": 10013,
+      "src": "/data/explorer/71a4df4c-46f2-4a45-ab76-ab9b0df3e5db_10014/014.webp"
+    },
+    {
+      "index": 10014,
+      "src": "/data/explorer/71a4df4c-46f2-4a45-ab76-ab9b0df3e5db_10014/015.webp"
+    }
+  ]
+}

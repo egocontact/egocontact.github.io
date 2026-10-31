@@ -1,0 +1,118 @@
+{
+  "event": "9da570de-8439-4bf3-8f45-539536df86ed_4467",
+  "action": "pick up the watering can from the ground",
+  "width": 2560,
+  "height": 1920,
+  "fps": 30.0,
+  "first": 4452,
+  "observation": 4452,
+  "contact": 4467,
+  "anchors": {
+    "4452": {
+      "contact_thumb": {
+        "x": 1441.4146264025503,
+        "y": 1202.453950208607,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1431.5722583136346,
+        "y": 1143.5582465249202,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          796.9646837616098,
+          1254.6920600305664,
+          1273.9294336859878,
+          990.0440086145695,
+          1252.2492177803342,
+          1449.9242291079413,
+          1577.4524563651373,
+          1154.906729168797
+        ]
+      }
+    },
+    "4467": {
+      "contact_thumb": {
+        "x": 1711.0956021484094,
+        "y": 1163.1901477528158,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1740.6227064151562,
+        "y": 1119.0183699900506,
+        "occluded": true,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 4452,
+      "src": "/data/explorer/9da570de-8439-4bf3-8f45-539536df86ed_4467/000.webp"
+    },
+    {
+      "index": 4453,
+      "src": "/data/explorer/9da570de-8439-4bf3-8f45-539536df86ed_4467/001.webp"
+    },
+    {
+      "index": 4454,
+      "src": "/data/explorer/9da570de-8439-4bf3-8f45-539536df86ed_4467/002.webp"
+    },
+    {
+      "index": 4455,
+      "src": "/data/explorer/9da570de-8439-4bf3-8f45-539536df86ed_4467/003.webp"
+    },
+    {
+      "index": 4456,
+      "src": "/data/explorer/9da570de-8439-4bf3-8f45-539536df86ed_4467/004.webp"
+    },
+    {
+      "index": 4457,
+      "src": "/data/explorer/9da570de-8439-4bf3-8f45-539536df86ed_4467/005.webp"
+    },
+    {
+      "index": 4458,
+      "src": "/data/explorer/9da570de-8439-4bf3-8f45-539536df86ed_4467/006.webp"
+    },
+    {
+      "index": 4459,
+      "src": "/data/explorer/9da570de-8439-4bf3-8f45-539536df86ed_4467/007.webp"
+    },
+    {
+      "index": 4460,
+      "src": "/data/explorer/9da570de-8439-4bf3-8f45-539536df86ed_4467/008.webp"
+    },
+    {
+      "index": 4461,
+      "src": "/data/explorer/9da570de-8439-4bf3-8f45-539536df86ed_4467/009.webp"
+    },
+    {
+      "index": 4462,
+      "src": "/data/explorer/9da570de-8439-4bf3-8f45-539536df86ed_4467/010.webp"
+    },
+    {
+      "index": 4463,
+      "src": "/data/explorer/9da570de-8439-4bf3-8f45-539536df86ed_4467/011.webp"
+    },
+    {
+      "index": 4464,
+      "src": "/data/explorer/9da570de-8439-4bf3-8f45-539536df86ed_4467/012.webp"
+    },
+    {
+      "index": 4465,
+      "src": "/data/explorer/9da570de-8439-4bf3-8f45-539536df86ed_4467/013.webp"
+    },
+    {
+      "index": 4466,
+      "src": "/data/explorer/9da570de-8439-4bf3-8f45-539536df86ed_4467/014.webp"
+    },
+    {
+      "index": 4467,
+      "src": "/data/explorer/9da570de-8439-4bf3-8f45-539536df86ed_4467/015.webp"
+    }
+  ]
+}

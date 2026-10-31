@@ -1,0 +1,118 @@
+{
+  "event": "406388a0-31d3-4e2a-a91c-5f098867dd07_875",
+  "action": "hold glove",
+  "width": 1920,
+  "height": 1440,
+  "fps": 30.0,
+  "first": 860,
+  "observation": 860,
+  "contact": 875,
+  "anchors": {
+    "860": {
+      "contact_thumb": {
+        "x": 1200.558975642409,
+        "y": 807.5366118738762,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1236.245323828924,
+        "y": 803.5829442514827,
+        "occluded": true,
+        "hard_sample": true
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          992.7737416871618,
+          782.4750622994842,
+          1081.5361844911238,
+          973.6557083387867,
+          1248.8192497755133,
+          738.0938408975032,
+          1272.7168305304263,
+          891.7211457505142
+        ]
+      }
+    },
+    "875": {
+      "contact_thumb": {
+        "x": 1395.787787152371,
+        "y": 898.4709671889271,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1443.369584734391,
+        "y": 906.3783024337141,
+        "occluded": true,
+        "hard_sample": true
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 860,
+      "src": "/data/explorer/406388a0-31d3-4e2a-a91c-5f098867dd07_875/000.webp"
+    },
+    {
+      "index": 861,
+      "src": "/data/explorer/406388a0-31d3-4e2a-a91c-5f098867dd07_875/001.webp"
+    },
+    {
+      "index": 862,
+      "src": "/data/explorer/406388a0-31d3-4e2a-a91c-5f098867dd07_875/002.webp"
+    },
+    {
+      "index": 863,
+      "src": "/data/explorer/406388a0-31d3-4e2a-a91c-5f098867dd07_875/003.webp"
+    },
+    {
+      "index": 864,
+      "src": "/data/explorer/406388a0-31d3-4e2a-a91c-5f098867dd07_875/004.webp"
+    },
+    {
+      "index": 865,
+      "src": "/data/explorer/406388a0-31d3-4e2a-a91c-5f098867dd07_875/005.webp"
+    },
+    {
+      "index": 866,
+      "src": "/data/explorer/406388a0-31d3-4e2a-a91c-5f098867dd07_875/006.webp"
+    },
+    {
+      "index": 867,
+      "src": "/data/explorer/406388a0-31d3-4e2a-a91c-5f098867dd07_875/007.webp"
+    },
+    {
+      "index": 868,
+      "src": "/data/explorer/406388a0-31d3-4e2a-a91c-5f098867dd07_875/008.webp"
+    },
+    {
+      "index": 869,
+      "src": "/data/explorer/406388a0-31d3-4e2a-a91c-5f098867dd07_875/009.webp"
+    },
+    {
+      "index": 870,
+      "src": "/data/explorer/406388a0-31d3-4e2a-a91c-5f098867dd07_875/010.webp"
+    },
+    {
+      "index": 871,
+      "src": "/data/explorer/406388a0-31d3-4e2a-a91c-5f098867dd07_875/011.webp"
+    },
+    {
+      "index": 872,
+      "src": "/data/explorer/406388a0-31d3-4e2a-a91c-5f098867dd07_875/012.webp"
+    },
+    {
+      "index": 873,
+      "src": "/data/explorer/406388a0-31d3-4e2a-a91c-5f098867dd07_875/013.webp"
+    },
+    {
+      "index": 874,
+      "src": "/data/explorer/406388a0-31d3-4e2a-a91c-5f098867dd07_875/014.webp"
+    },
+    {
+      "index": 875,
+      "src": "/data/explorer/406388a0-31d3-4e2a-a91c-5f098867dd07_875/015.webp"
+    }
+  ]
+}

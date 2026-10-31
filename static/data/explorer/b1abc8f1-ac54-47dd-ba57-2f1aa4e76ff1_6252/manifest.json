@@ -1,0 +1,118 @@
+{
+  "event": "b1abc8f1-ac54-47dd-ba57-2f1aa4e76ff1_6252",
+  "action": "hold a carton",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 6237,
+  "observation": 6237,
+  "contact": 6252,
+  "anchors": {
+    "6237": {
+      "contact_thumb": {
+        "x": 649.3997027438346,
+        "y": 613.07123172608,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 695.0463625975747,
+        "y": 637.3272668296898,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          603.755276816778,
+          586.8562967246131,
+          539.74389979469,
+          709.7581406070219,
+          818.8335036109934,
+          632.9444881805165,
+          739.4593961036044,
+          865.9459005409165
+        ]
+      }
+    },
+    "6252": {
+      "contact_thumb": {
+        "x": 697.4809068441278,
+        "y": 579.7191834586165,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 752.2568986686158,
+        "y": 610.0392273381287,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 6237,
+      "src": "/data/explorer/b1abc8f1-ac54-47dd-ba57-2f1aa4e76ff1_6252/000.webp"
+    },
+    {
+      "index": 6238,
+      "src": "/data/explorer/b1abc8f1-ac54-47dd-ba57-2f1aa4e76ff1_6252/001.webp"
+    },
+    {
+      "index": 6239,
+      "src": "/data/explorer/b1abc8f1-ac54-47dd-ba57-2f1aa4e76ff1_6252/002.webp"
+    },
+    {
+      "index": 6240,
+      "src": "/data/explorer/b1abc8f1-ac54-47dd-ba57-2f1aa4e76ff1_6252/003.webp"
+    },
+    {
+      "index": 6241,
+      "src": "/data/explorer/b1abc8f1-ac54-47dd-ba57-2f1aa4e76ff1_6252/004.webp"
+    },
+    {
+      "index": 6242,
+      "src": "/data/explorer/b1abc8f1-ac54-47dd-ba57-2f1aa4e76ff1_6252/005.webp"
+    },
+    {
+      "index": 6243,
+      "src": "/data/explorer/b1abc8f1-ac54-47dd-ba57-2f1aa4e76ff1_6252/006.webp"
+    },
+    {
+      "index": 6244,
+      "src": "/data/explorer/b1abc8f1-ac54-47dd-ba57-2f1aa4e76ff1_6252/007.webp"
+    },
+    {
+      "index": 6245,
+      "src": "/data/explorer/b1abc8f1-ac54-47dd-ba57-2f1aa4e76ff1_6252/008.webp"
+    },
+    {
+      "index": 6246,
+      "src": "/data/explorer/b1abc8f1-ac54-47dd-ba57-2f1aa4e76ff1_6252/009.webp"
+    },
+    {
+      "index": 6247,
+      "src": "/data/explorer/b1abc8f1-ac54-47dd-ba57-2f1aa4e76ff1_6252/010.webp"
+    },
+    {
+      "index": 6248,
+      "src": "/data/explorer/b1abc8f1-ac54-47dd-ba57-2f1aa4e76ff1_6252/011.webp"
+    },
+    {
+      "index": 6249,
+      "src": "/data/explorer/b1abc8f1-ac54-47dd-ba57-2f1aa4e76ff1_6252/012.webp"
+    },
+    {
+      "index": 6250,
+      "src": "/data/explorer/b1abc8f1-ac54-47dd-ba57-2f1aa4e76ff1_6252/013.webp"
+    },
+    {
+      "index": 6251,
+      "src": "/data/explorer/b1abc8f1-ac54-47dd-ba57-2f1aa4e76ff1_6252/014.webp"
+    },
+    {
+      "index": 6252,
+      "src": "/data/explorer/b1abc8f1-ac54-47dd-ba57-2f1aa4e76ff1_6252/015.webp"
+    }
+  ]
+}

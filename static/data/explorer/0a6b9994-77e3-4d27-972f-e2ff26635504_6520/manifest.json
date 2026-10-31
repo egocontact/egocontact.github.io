@@ -1,0 +1,118 @@
+{
+  "event": "0a6b9994-77e3-4d27-972f-e2ff26635504_6520",
+  "action": "pick up grass from the ground",
+  "width": 1920,
+  "height": 1440,
+  "fps": 30.0,
+  "first": 6505,
+  "observation": 6505,
+  "contact": 6520,
+  "anchors": {
+    "6505": {
+      "contact_index": {
+        "x": 895.9999999999999,
+        "y": 977.545691906005,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 847.0588235294118,
+        "y": 1240.7310704960835,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          846.545,
+          912.0,
+          610.909,
+          1191.273,
+          1165.091,
+          1230.545,
+          1352.727,
+          1029.818
+        ]
+      }
+    },
+    "6520": {
+      "contact_thumb": {
+        "x": 854.5882352941176,
+        "y": 1048.9817232375979,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 952.4705882352941,
+        "y": 838.4334203655352,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 6505,
+      "src": "/data/explorer/0a6b9994-77e3-4d27-972f-e2ff26635504_6520/000.webp"
+    },
+    {
+      "index": 6506,
+      "src": "/data/explorer/0a6b9994-77e3-4d27-972f-e2ff26635504_6520/001.webp"
+    },
+    {
+      "index": 6507,
+      "src": "/data/explorer/0a6b9994-77e3-4d27-972f-e2ff26635504_6520/002.webp"
+    },
+    {
+      "index": 6508,
+      "src": "/data/explorer/0a6b9994-77e3-4d27-972f-e2ff26635504_6520/003.webp"
+    },
+    {
+      "index": 6509,
+      "src": "/data/explorer/0a6b9994-77e3-4d27-972f-e2ff26635504_6520/004.webp"
+    },
+    {
+      "index": 6510,
+      "src": "/data/explorer/0a6b9994-77e3-4d27-972f-e2ff26635504_6520/005.webp"
+    },
+    {
+      "index": 6511,
+      "src": "/data/explorer/0a6b9994-77e3-4d27-972f-e2ff26635504_6520/006.webp"
+    },
+    {
+      "index": 6512,
+      "src": "/data/explorer/0a6b9994-77e3-4d27-972f-e2ff26635504_6520/007.webp"
+    },
+    {
+      "index": 6513,
+      "src": "/data/explorer/0a6b9994-77e3-4d27-972f-e2ff26635504_6520/008.webp"
+    },
+    {
+      "index": 6514,
+      "src": "/data/explorer/0a6b9994-77e3-4d27-972f-e2ff26635504_6520/009.webp"
+    },
+    {
+      "index": 6515,
+      "src": "/data/explorer/0a6b9994-77e3-4d27-972f-e2ff26635504_6520/010.webp"
+    },
+    {
+      "index": 6516,
+      "src": "/data/explorer/0a6b9994-77e3-4d27-972f-e2ff26635504_6520/011.webp"
+    },
+    {
+      "index": 6517,
+      "src": "/data/explorer/0a6b9994-77e3-4d27-972f-e2ff26635504_6520/012.webp"
+    },
+    {
+      "index": 6518,
+      "src": "/data/explorer/0a6b9994-77e3-4d27-972f-e2ff26635504_6520/013.webp"
+    },
+    {
+      "index": 6519,
+      "src": "/data/explorer/0a6b9994-77e3-4d27-972f-e2ff26635504_6520/014.webp"
+    },
+    {
+      "index": 6520,
+      "src": "/data/explorer/0a6b9994-77e3-4d27-972f-e2ff26635504_6520/015.webp"
+    }
+  ]
+}

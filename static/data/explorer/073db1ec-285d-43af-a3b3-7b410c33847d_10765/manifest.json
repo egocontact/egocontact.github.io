@@ -1,0 +1,118 @@
+{
+  "event": "073db1ec-285d-43af-a3b3-7b410c33847d_10765",
+  "action": "pick up the spice bottle from the shelf",
+  "width": 1920,
+  "height": 1440,
+  "fps": 30.0,
+  "first": 10750,
+  "observation": 10750,
+  "contact": 10765,
+  "anchors": {
+    "10750": {
+      "contact_index": {
+        "x": 340.86395429411436,
+        "y": 232.23376718943146,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 350.5661990873361,
+        "y": 274.90173117424473,
+        "occluded": true,
+        "hard_sample": true
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          255.12320740582194,
+          276.3221016561965,
+          386.6300567208904,
+          503.3009708737864,
+          465.53416630993155,
+          463.8263849229012,
+          389.91772795376716,
+          233.55796687607082
+        ]
+      }
+    },
+    "10765": {
+      "contact_index": {
+        "x": 1026.3628285838706,
+        "y": 1325.7619160706101,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 1084.158815742581,
+        "y": 1418.978053561175,
+        "occluded": true,
+        "hard_sample": true
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 10750,
+      "src": "/data/explorer/073db1ec-285d-43af-a3b3-7b410c33847d_10765/000.webp"
+    },
+    {
+      "index": 10751,
+      "src": "/data/explorer/073db1ec-285d-43af-a3b3-7b410c33847d_10765/001.webp"
+    },
+    {
+      "index": 10752,
+      "src": "/data/explorer/073db1ec-285d-43af-a3b3-7b410c33847d_10765/002.webp"
+    },
+    {
+      "index": 10753,
+      "src": "/data/explorer/073db1ec-285d-43af-a3b3-7b410c33847d_10765/003.webp"
+    },
+    {
+      "index": 10754,
+      "src": "/data/explorer/073db1ec-285d-43af-a3b3-7b410c33847d_10765/004.webp"
+    },
+    {
+      "index": 10755,
+      "src": "/data/explorer/073db1ec-285d-43af-a3b3-7b410c33847d_10765/005.webp"
+    },
+    {
+      "index": 10756,
+      "src": "/data/explorer/073db1ec-285d-43af-a3b3-7b410c33847d_10765/006.webp"
+    },
+    {
+      "index": 10757,
+      "src": "/data/explorer/073db1ec-285d-43af-a3b3-7b410c33847d_10765/007.webp"
+    },
+    {
+      "index": 10758,
+      "src": "/data/explorer/073db1ec-285d-43af-a3b3-7b410c33847d_10765/008.webp"
+    },
+    {
+      "index": 10759,
+      "src": "/data/explorer/073db1ec-285d-43af-a3b3-7b410c33847d_10765/009.webp"
+    },
+    {
+      "index": 10760,
+      "src": "/data/explorer/073db1ec-285d-43af-a3b3-7b410c33847d_10765/010.webp"
+    },
+    {
+      "index": 10761,
+      "src": "/data/explorer/073db1ec-285d-43af-a3b3-7b410c33847d_10765/011.webp"
+    },
+    {
+      "index": 10762,
+      "src": "/data/explorer/073db1ec-285d-43af-a3b3-7b410c33847d_10765/012.webp"
+    },
+    {
+      "index": 10763,
+      "src": "/data/explorer/073db1ec-285d-43af-a3b3-7b410c33847d_10765/013.webp"
+    },
+    {
+      "index": 10764,
+      "src": "/data/explorer/073db1ec-285d-43af-a3b3-7b410c33847d_10765/014.webp"
+    },
+    {
+      "index": 10765,
+      "src": "/data/explorer/073db1ec-285d-43af-a3b3-7b410c33847d_10765/015.webp"
+    }
+  ]
+}

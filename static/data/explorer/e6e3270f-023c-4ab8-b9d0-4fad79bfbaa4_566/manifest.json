@@ -1,0 +1,118 @@
+{
+  "event": "e6e3270f-023c-4ab8-b9d0-4fad79bfbaa4_566",
+  "action": "hold clothes hanger",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 551,
+  "observation": 551,
+  "contact": 566,
+  "anchors": {
+    "551": {
+      "contact_index": {
+        "x": 1638.6366596634389,
+        "y": 391.43014200577085,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 1613.709688394832,
+        "y": 419.34513241140223,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          922.7046331555198,
+          223.25179065731788,
+          1803.2900568909479,
+          546.9927978515625,
+          1500.2650728408153,
+          78.21581943429631,
+          1342.277687994165,
+          461.5251719522819
+        ]
+      }
+    },
+    "566": {
+      "contact_index": {
+        "x": 1329.5422729860209,
+        "y": 611.648399650196,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 1317.0787873517172,
+        "y": 639.5633900558273,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 551,
+      "src": "/data/explorer/e6e3270f-023c-4ab8-b9d0-4fad79bfbaa4_566/000.webp"
+    },
+    {
+      "index": 552,
+      "src": "/data/explorer/e6e3270f-023c-4ab8-b9d0-4fad79bfbaa4_566/001.webp"
+    },
+    {
+      "index": 553,
+      "src": "/data/explorer/e6e3270f-023c-4ab8-b9d0-4fad79bfbaa4_566/002.webp"
+    },
+    {
+      "index": 554,
+      "src": "/data/explorer/e6e3270f-023c-4ab8-b9d0-4fad79bfbaa4_566/003.webp"
+    },
+    {
+      "index": 555,
+      "src": "/data/explorer/e6e3270f-023c-4ab8-b9d0-4fad79bfbaa4_566/004.webp"
+    },
+    {
+      "index": 556,
+      "src": "/data/explorer/e6e3270f-023c-4ab8-b9d0-4fad79bfbaa4_566/005.webp"
+    },
+    {
+      "index": 557,
+      "src": "/data/explorer/e6e3270f-023c-4ab8-b9d0-4fad79bfbaa4_566/006.webp"
+    },
+    {
+      "index": 558,
+      "src": "/data/explorer/e6e3270f-023c-4ab8-b9d0-4fad79bfbaa4_566/007.webp"
+    },
+    {
+      "index": 559,
+      "src": "/data/explorer/e6e3270f-023c-4ab8-b9d0-4fad79bfbaa4_566/008.webp"
+    },
+    {
+      "index": 560,
+      "src": "/data/explorer/e6e3270f-023c-4ab8-b9d0-4fad79bfbaa4_566/009.webp"
+    },
+    {
+      "index": 561,
+      "src": "/data/explorer/e6e3270f-023c-4ab8-b9d0-4fad79bfbaa4_566/010.webp"
+    },
+    {
+      "index": 562,
+      "src": "/data/explorer/e6e3270f-023c-4ab8-b9d0-4fad79bfbaa4_566/011.webp"
+    },
+    {
+      "index": 563,
+      "src": "/data/explorer/e6e3270f-023c-4ab8-b9d0-4fad79bfbaa4_566/012.webp"
+    },
+    {
+      "index": 564,
+      "src": "/data/explorer/e6e3270f-023c-4ab8-b9d0-4fad79bfbaa4_566/013.webp"
+    },
+    {
+      "index": 565,
+      "src": "/data/explorer/e6e3270f-023c-4ab8-b9d0-4fad79bfbaa4_566/014.webp"
+    },
+    {
+      "index": 566,
+      "src": "/data/explorer/e6e3270f-023c-4ab8-b9d0-4fad79bfbaa4_566/015.webp"
+    }
+  ]
+}

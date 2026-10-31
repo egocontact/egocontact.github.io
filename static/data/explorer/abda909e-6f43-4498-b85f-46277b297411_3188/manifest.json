@@ -1,0 +1,118 @@
+{
+  "event": "abda909e-6f43-4498-b85f-46277b297411_3188",
+  "action": "pick up the welding machine from the floor",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 3173,
+  "observation": 3173,
+  "contact": 3188,
+  "anchors": {
+    "3173": {
+      "contact_thumb": {
+        "x": 1190.0344727774645,
+        "y": 549.3864859243915,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1278.6157855777049,
+        "y": 483.1288192802439,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          1133.6584599333783,
+          635.4806954518226,
+          1260.4877229814515,
+          647.6827060191584,
+          1406.829180344613,
+          340.19203972229315,
+          1275.1218687177677,
+          301.1456059068182
+        ]
+      }
+    },
+    "3188": {
+      "contact_thumb": {
+        "x": 1217.1625505091718,
+        "y": 541.1042775938731,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1314.048361384435,
+        "y": 488.6502915005895,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 3173,
+      "src": "/data/explorer/abda909e-6f43-4498-b85f-46277b297411_3188/000.webp"
+    },
+    {
+      "index": 3174,
+      "src": "/data/explorer/abda909e-6f43-4498-b85f-46277b297411_3188/001.webp"
+    },
+    {
+      "index": 3175,
+      "src": "/data/explorer/abda909e-6f43-4498-b85f-46277b297411_3188/002.webp"
+    },
+    {
+      "index": 3176,
+      "src": "/data/explorer/abda909e-6f43-4498-b85f-46277b297411_3188/003.webp"
+    },
+    {
+      "index": 3177,
+      "src": "/data/explorer/abda909e-6f43-4498-b85f-46277b297411_3188/004.webp"
+    },
+    {
+      "index": 3178,
+      "src": "/data/explorer/abda909e-6f43-4498-b85f-46277b297411_3188/005.webp"
+    },
+    {
+      "index": 3179,
+      "src": "/data/explorer/abda909e-6f43-4498-b85f-46277b297411_3188/006.webp"
+    },
+    {
+      "index": 3180,
+      "src": "/data/explorer/abda909e-6f43-4498-b85f-46277b297411_3188/007.webp"
+    },
+    {
+      "index": 3181,
+      "src": "/data/explorer/abda909e-6f43-4498-b85f-46277b297411_3188/008.webp"
+    },
+    {
+      "index": 3182,
+      "src": "/data/explorer/abda909e-6f43-4498-b85f-46277b297411_3188/009.webp"
+    },
+    {
+      "index": 3183,
+      "src": "/data/explorer/abda909e-6f43-4498-b85f-46277b297411_3188/010.webp"
+    },
+    {
+      "index": 3184,
+      "src": "/data/explorer/abda909e-6f43-4498-b85f-46277b297411_3188/011.webp"
+    },
+    {
+      "index": 3185,
+      "src": "/data/explorer/abda909e-6f43-4498-b85f-46277b297411_3188/012.webp"
+    },
+    {
+      "index": 3186,
+      "src": "/data/explorer/abda909e-6f43-4498-b85f-46277b297411_3188/013.webp"
+    },
+    {
+      "index": 3187,
+      "src": "/data/explorer/abda909e-6f43-4498-b85f-46277b297411_3188/014.webp"
+    },
+    {
+      "index": 3188,
+      "src": "/data/explorer/abda909e-6f43-4498-b85f-46277b297411_3188/015.webp"
+    }
+  ]
+}

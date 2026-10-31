@@ -1,0 +1,29 @@
+{
+  "selection": "static/data/tsne.json",
+  "requested": 300,
+  "exported": 296,
+  "quality": 80,
+  "width": 480,
+  "skipped": [
+    {
+      "id": "51698586-40d6-4e1a-8168-193c4927b806_6996",
+      "object": "stove",
+      "reason": "Missing or invalid contact_thumb at frame 6981"
+    },
+    {
+      "id": "dd1c57ff-2e4a-4995-81d6-a7ef3dea8a85_3665",
+      "object": "cooker",
+      "reason": "Missing or invalid contact_thumb at frame 3650"
+    },
+    {
+      "id": "85b9f7d1-8be5-4298-b82d-2b4cf799ca76_9113",
+      "object": "tablet",
+      "reason": "Missing or invalid contact_thumb at frame 9098"
+    },
+    {
+      "id": "f99399f0-53a3-4cff-9588-21cb6a157538_9972",
+      "object": "rag",
+      "reason": "Missing or invalid contact_thumb at frame 9957"
+    }
+  ]
+}

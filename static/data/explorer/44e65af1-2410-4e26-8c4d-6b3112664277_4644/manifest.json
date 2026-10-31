@@ -1,0 +1,118 @@
+{
+  "event": "44e65af1-2410-4e26-8c4d-6b3112664277_4644",
+  "action": "take cheese from fridge drawer",
+  "width": 1920,
+  "height": 1440,
+  "fps": 30.0,
+  "first": 4629,
+  "observation": 4629,
+  "contact": 4644,
+  "anchors": {
+    "4629": {
+      "contact_thumb": {
+        "x": 903.1727407547835,
+        "y": 868.5987447884203,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 970.5802873293119,
+        "y": 852.7840742988462,
+        "occluded": true,
+        "hard_sample": true
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          856.7670430222604,
+          835.5454026270702,
+          929.0958101455481,
+          822.3872073101085,
+          843.6163580907535,
+          911.2050256996002,
+          938.9588238441781,
+          898.0468303826385
+        ]
+      }
+    },
+    "4644": {
+      "contact_thumb": {
+        "x": 939.7955603246788,
+        "y": 896.2744181451749,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1011.1682566977089,
+        "y": 860.6914095436332,
+        "occluded": true,
+        "hard_sample": true
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 4629,
+      "src": "/data/explorer/44e65af1-2410-4e26-8c4d-6b3112664277_4644/000.webp"
+    },
+    {
+      "index": 4630,
+      "src": "/data/explorer/44e65af1-2410-4e26-8c4d-6b3112664277_4644/001.webp"
+    },
+    {
+      "index": 4631,
+      "src": "/data/explorer/44e65af1-2410-4e26-8c4d-6b3112664277_4644/002.webp"
+    },
+    {
+      "index": 4632,
+      "src": "/data/explorer/44e65af1-2410-4e26-8c4d-6b3112664277_4644/003.webp"
+    },
+    {
+      "index": 4633,
+      "src": "/data/explorer/44e65af1-2410-4e26-8c4d-6b3112664277_4644/004.webp"
+    },
+    {
+      "index": 4634,
+      "src": "/data/explorer/44e65af1-2410-4e26-8c4d-6b3112664277_4644/005.webp"
+    },
+    {
+      "index": 4635,
+      "src": "/data/explorer/44e65af1-2410-4e26-8c4d-6b3112664277_4644/006.webp"
+    },
+    {
+      "index": 4636,
+      "src": "/data/explorer/44e65af1-2410-4e26-8c4d-6b3112664277_4644/007.webp"
+    },
+    {
+      "index": 4637,
+      "src": "/data/explorer/44e65af1-2410-4e26-8c4d-6b3112664277_4644/008.webp"
+    },
+    {
+      "index": 4638,
+      "src": "/data/explorer/44e65af1-2410-4e26-8c4d-6b3112664277_4644/009.webp"
+    },
+    {
+      "index": 4639,
+      "src": "/data/explorer/44e65af1-2410-4e26-8c4d-6b3112664277_4644/010.webp"
+    },
+    {
+      "index": 4640,
+      "src": "/data/explorer/44e65af1-2410-4e26-8c4d-6b3112664277_4644/011.webp"
+    },
+    {
+      "index": 4641,
+      "src": "/data/explorer/44e65af1-2410-4e26-8c4d-6b3112664277_4644/012.webp"
+    },
+    {
+      "index": 4642,
+      "src": "/data/explorer/44e65af1-2410-4e26-8c4d-6b3112664277_4644/013.webp"
+    },
+    {
+      "index": 4643,
+      "src": "/data/explorer/44e65af1-2410-4e26-8c4d-6b3112664277_4644/014.webp"
+    },
+    {
+      "index": 4644,
+      "src": "/data/explorer/44e65af1-2410-4e26-8c4d-6b3112664277_4644/015.webp"
+    }
+  ]
+}

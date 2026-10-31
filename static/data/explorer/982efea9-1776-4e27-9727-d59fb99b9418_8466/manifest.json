@@ -1,0 +1,118 @@
+{
+  "event": "982efea9-1776-4e27-9727-d59fb99b9418_8466",
+  "action": "pull a paper towel from a roll on the counter",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 8451,
+  "observation": 8451,
+  "contact": 8466,
+  "anchors": {
+    "8451": {
+      "contact_index": {
+        "x": 779.7063287179486,
+        "y": 714.167047094133,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 774.5234896055814,
+        "y": 786.221947322273,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          622.105,
+          647.368,
+          843.158,
+          881.053,
+          691.579,
+          824.211,
+          754.737,
+          805.263
+        ]
+      }
+    },
+    "8466": {
+      "contact_thumb": {
+        "x": 812.4619098683571,
+        "y": 760.4880543836516,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 828.010427205459,
+        "y": 693.5799327432358,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 8451,
+      "src": "/data/explorer/982efea9-1776-4e27-9727-d59fb99b9418_8466/000.webp"
+    },
+    {
+      "index": 8452,
+      "src": "/data/explorer/982efea9-1776-4e27-9727-d59fb99b9418_8466/001.webp"
+    },
+    {
+      "index": 8453,
+      "src": "/data/explorer/982efea9-1776-4e27-9727-d59fb99b9418_8466/002.webp"
+    },
+    {
+      "index": 8454,
+      "src": "/data/explorer/982efea9-1776-4e27-9727-d59fb99b9418_8466/003.webp"
+    },
+    {
+      "index": 8455,
+      "src": "/data/explorer/982efea9-1776-4e27-9727-d59fb99b9418_8466/004.webp"
+    },
+    {
+      "index": 8456,
+      "src": "/data/explorer/982efea9-1776-4e27-9727-d59fb99b9418_8466/005.webp"
+    },
+    {
+      "index": 8457,
+      "src": "/data/explorer/982efea9-1776-4e27-9727-d59fb99b9418_8466/006.webp"
+    },
+    {
+      "index": 8458,
+      "src": "/data/explorer/982efea9-1776-4e27-9727-d59fb99b9418_8466/007.webp"
+    },
+    {
+      "index": 8459,
+      "src": "/data/explorer/982efea9-1776-4e27-9727-d59fb99b9418_8466/008.webp"
+    },
+    {
+      "index": 8460,
+      "src": "/data/explorer/982efea9-1776-4e27-9727-d59fb99b9418_8466/009.webp"
+    },
+    {
+      "index": 8461,
+      "src": "/data/explorer/982efea9-1776-4e27-9727-d59fb99b9418_8466/010.webp"
+    },
+    {
+      "index": 8462,
+      "src": "/data/explorer/982efea9-1776-4e27-9727-d59fb99b9418_8466/011.webp"
+    },
+    {
+      "index": 8463,
+      "src": "/data/explorer/982efea9-1776-4e27-9727-d59fb99b9418_8466/012.webp"
+    },
+    {
+      "index": 8464,
+      "src": "/data/explorer/982efea9-1776-4e27-9727-d59fb99b9418_8466/013.webp"
+    },
+    {
+      "index": 8465,
+      "src": "/data/explorer/982efea9-1776-4e27-9727-d59fb99b9418_8466/014.webp"
+    },
+    {
+      "index": 8466,
+      "src": "/data/explorer/982efea9-1776-4e27-9727-d59fb99b9418_8466/015.webp"
+    }
+  ]
+}

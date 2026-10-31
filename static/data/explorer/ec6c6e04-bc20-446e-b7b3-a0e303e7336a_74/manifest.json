@@ -1,0 +1,118 @@
+{
+  "event": "ec6c6e04-bc20-446e-b7b3-a0e303e7336a_74",
+  "action": "open the cabinet door under the sink",
+  "width": 1920,
+  "height": 1440,
+  "fps": 30.0,
+  "first": 59,
+  "observation": 59,
+  "contact": 74,
+  "anchors": {
+    "59": {
+      "contact_thumb": {
+        "x": 1048.452909740073,
+        "y": 841.6843440717165,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1080.912756747177,
+        "y": 845.7270165889848,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          565.2031726371952,
+          822.3341931491041,
+          717.3982945884146,
+          977.5437718468239,
+          1542.7641482469512,
+          822.3341931491041,
+          1370.0812214176829,
+          974.6152892298858
+        ]
+      }
+    },
+    "74": {
+      "contact_thumb": {
+        "x": 1145.0210288809012,
+        "y": 748.7028761745455,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1189.6533185156693,
+        "y": 736.5748586227406,
+        "occluded": true,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 59,
+      "src": "/data/explorer/ec6c6e04-bc20-446e-b7b3-a0e303e7336a_74/000.webp"
+    },
+    {
+      "index": 60,
+      "src": "/data/explorer/ec6c6e04-bc20-446e-b7b3-a0e303e7336a_74/001.webp"
+    },
+    {
+      "index": 61,
+      "src": "/data/explorer/ec6c6e04-bc20-446e-b7b3-a0e303e7336a_74/002.webp"
+    },
+    {
+      "index": 62,
+      "src": "/data/explorer/ec6c6e04-bc20-446e-b7b3-a0e303e7336a_74/003.webp"
+    },
+    {
+      "index": 63,
+      "src": "/data/explorer/ec6c6e04-bc20-446e-b7b3-a0e303e7336a_74/004.webp"
+    },
+    {
+      "index": 64,
+      "src": "/data/explorer/ec6c6e04-bc20-446e-b7b3-a0e303e7336a_74/005.webp"
+    },
+    {
+      "index": 65,
+      "src": "/data/explorer/ec6c6e04-bc20-446e-b7b3-a0e303e7336a_74/006.webp"
+    },
+    {
+      "index": 66,
+      "src": "/data/explorer/ec6c6e04-bc20-446e-b7b3-a0e303e7336a_74/007.webp"
+    },
+    {
+      "index": 67,
+      "src": "/data/explorer/ec6c6e04-bc20-446e-b7b3-a0e303e7336a_74/008.webp"
+    },
+    {
+      "index": 68,
+      "src": "/data/explorer/ec6c6e04-bc20-446e-b7b3-a0e303e7336a_74/009.webp"
+    },
+    {
+      "index": 69,
+      "src": "/data/explorer/ec6c6e04-bc20-446e-b7b3-a0e303e7336a_74/010.webp"
+    },
+    {
+      "index": 70,
+      "src": "/data/explorer/ec6c6e04-bc20-446e-b7b3-a0e303e7336a_74/011.webp"
+    },
+    {
+      "index": 71,
+      "src": "/data/explorer/ec6c6e04-bc20-446e-b7b3-a0e303e7336a_74/012.webp"
+    },
+    {
+      "index": 72,
+      "src": "/data/explorer/ec6c6e04-bc20-446e-b7b3-a0e303e7336a_74/013.webp"
+    },
+    {
+      "index": 73,
+      "src": "/data/explorer/ec6c6e04-bc20-446e-b7b3-a0e303e7336a_74/014.webp"
+    },
+    {
+      "index": 74,
+      "src": "/data/explorer/ec6c6e04-bc20-446e-b7b3-a0e303e7336a_74/015.webp"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "event": "3011f5cd-3475-486f-8f1e-4cd21bfc126a_14197",
+  "action": "pick up the wooden spoon from the pan",
+  "width": 1920,
+  "height": 1440,
+  "fps": 30.0,
+  "first": 14182,
+  "observation": 14182,
+  "contact": 14197,
+  "anchors": {
+    "14182": {
+      "contact_thumb": {
+        "x": 606.1874942682804,
+        "y": 902.3244318307411,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 650.8197839030485,
+        "y": 898.2817593134728,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          451.38205545804584,
+          833.6413520303688,
+          721.3007434834325,
+          960.5422619306623,
+          535.9348974900946,
+          791.3410487302709,
+          519.6747355608545,
+          924.7496975998104
+        ]
+      }
+    },
+    "14197": {
+      "contact_thumb": {
+        "x": 873.1698101964049,
+        "y": 813.3856364508383,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 921.859580707061,
+        "y": 821.470981485375,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 14182,
+      "src": "/data/explorer/3011f5cd-3475-486f-8f1e-4cd21bfc126a_14197/000.webp"
+    },
+    {
+      "index": 14183,
+      "src": "/data/explorer/3011f5cd-3475-486f-8f1e-4cd21bfc126a_14197/001.webp"
+    },
+    {
+      "index": 14184,
+      "src": "/data/explorer/3011f5cd-3475-486f-8f1e-4cd21bfc126a_14197/002.webp"
+    },
+    {
+      "index": 14185,
+      "src": "/data/explorer/3011f5cd-3475-486f-8f1e-4cd21bfc126a_14197/003.webp"
+    },
+    {
+      "index": 14186,
+      "src": "/data/explorer/3011f5cd-3475-486f-8f1e-4cd21bfc126a_14197/004.webp"
+    },
+    {
+      "index": 14187,
+      "src": "/data/explorer/3011f5cd-3475-486f-8f1e-4cd21bfc126a_14197/005.webp"
+    },
+    {
+      "index": 14188,
+      "src": "/data/explorer/3011f5cd-3475-486f-8f1e-4cd21bfc126a_14197/006.webp"
+    },
+    {
+      "index": 14189,
+      "src": "/data/explorer/3011f5cd-3475-486f-8f1e-4cd21bfc126a_14197/007.webp"
+    },
+    {
+      "index": 14190,
+      "src": "/data/explorer/3011f5cd-3475-486f-8f1e-4cd21bfc126a_14197/008.webp"
+    },
+    {
+      "index": 14191,
+      "src": "/data/explorer/3011f5cd-3475-486f-8f1e-4cd21bfc126a_14197/009.webp"
+    },
+    {
+      "index": 14192,
+      "src": "/data/explorer/3011f5cd-3475-486f-8f1e-4cd21bfc126a_14197/010.webp"
+    },
+    {
+      "index": 14193,
+      "src": "/data/explorer/3011f5cd-3475-486f-8f1e-4cd21bfc126a_14197/011.webp"
+    },
+    {
+      "index": 14194,
+      "src": "/data/explorer/3011f5cd-3475-486f-8f1e-4cd21bfc126a_14197/012.webp"
+    },
+    {
+      "index": 14195,
+      "src": "/data/explorer/3011f5cd-3475-486f-8f1e-4cd21bfc126a_14197/013.webp"
+    },
+    {
+      "index": 14196,
+      "src": "/data/explorer/3011f5cd-3475-486f-8f1e-4cd21bfc126a_14197/014.webp"
+    },
+    {
+      "index": 14197,
+      "src": "/data/explorer/3011f5cd-3475-486f-8f1e-4cd21bfc126a_14197/015.webp"
+    }
+  ]
+}

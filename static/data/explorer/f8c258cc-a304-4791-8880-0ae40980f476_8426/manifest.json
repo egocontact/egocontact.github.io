@@ -1,0 +1,118 @@
+{
+  "event": "f8c258cc-a304-4791-8880-0ae40980f476_8426",
+  "action": "insert the pump into the bicycle tire valve",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 8411,
+  "observation": 8411,
+  "contact": 8426,
+  "anchors": {
+    "8411": {
+      "contact_thumb": {
+        "x": 768.9907069543796,
+        "y": 613.061985607687,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 755.2292393855467,
+        "y": 580.1016610968725,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          694.7026433171453,
+          555.0810736578865,
+          770.1080487225507,
+          508.8648574416702,
+          916.0539946684967,
+          773.9999925768053,
+          821.1891298036318,
+          820.2162087930216
+        ]
+      }
+    },
+    "8426": {
+      "contact_index": {
+        "x": 716.1467218860608,
+        "y": 646.0223101185017,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 743.6696570237266,
+        "y": 667.995859792378,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 8411,
+      "src": "/data/explorer/f8c258cc-a304-4791-8880-0ae40980f476_8426/000.webp"
+    },
+    {
+      "index": 8412,
+      "src": "/data/explorer/f8c258cc-a304-4791-8880-0ae40980f476_8426/001.webp"
+    },
+    {
+      "index": 8413,
+      "src": "/data/explorer/f8c258cc-a304-4791-8880-0ae40980f476_8426/002.webp"
+    },
+    {
+      "index": 8414,
+      "src": "/data/explorer/f8c258cc-a304-4791-8880-0ae40980f476_8426/003.webp"
+    },
+    {
+      "index": 8415,
+      "src": "/data/explorer/f8c258cc-a304-4791-8880-0ae40980f476_8426/004.webp"
+    },
+    {
+      "index": 8416,
+      "src": "/data/explorer/f8c258cc-a304-4791-8880-0ae40980f476_8426/005.webp"
+    },
+    {
+      "index": 8417,
+      "src": "/data/explorer/f8c258cc-a304-4791-8880-0ae40980f476_8426/006.webp"
+    },
+    {
+      "index": 8418,
+      "src": "/data/explorer/f8c258cc-a304-4791-8880-0ae40980f476_8426/007.webp"
+    },
+    {
+      "index": 8419,
+      "src": "/data/explorer/f8c258cc-a304-4791-8880-0ae40980f476_8426/008.webp"
+    },
+    {
+      "index": 8420,
+      "src": "/data/explorer/f8c258cc-a304-4791-8880-0ae40980f476_8426/009.webp"
+    },
+    {
+      "index": 8421,
+      "src": "/data/explorer/f8c258cc-a304-4791-8880-0ae40980f476_8426/010.webp"
+    },
+    {
+      "index": 8422,
+      "src": "/data/explorer/f8c258cc-a304-4791-8880-0ae40980f476_8426/011.webp"
+    },
+    {
+      "index": 8423,
+      "src": "/data/explorer/f8c258cc-a304-4791-8880-0ae40980f476_8426/012.webp"
+    },
+    {
+      "index": 8424,
+      "src": "/data/explorer/f8c258cc-a304-4791-8880-0ae40980f476_8426/013.webp"
+    },
+    {
+      "index": 8425,
+      "src": "/data/explorer/f8c258cc-a304-4791-8880-0ae40980f476_8426/014.webp"
+    },
+    {
+      "index": 8426,
+      "src": "/data/explorer/f8c258cc-a304-4791-8880-0ae40980f476_8426/015.webp"
+    }
+  ]
+}

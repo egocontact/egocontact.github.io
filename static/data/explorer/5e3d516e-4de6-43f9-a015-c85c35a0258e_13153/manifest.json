@@ -1,0 +1,118 @@
+{
+  "event": "5e3d516e-4de6-43f9-a015-c85c35a0258e_13153",
+  "action": "pick up the glue bottle from the table",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 13138,
+  "observation": 13138,
+  "contact": 13153,
+  "anchors": {
+    "13138": {
+      "contact_thumb": {
+        "x": 1063.2018208343309,
+        "y": 873.5550794903597,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1038.6735168878643,
+        "y": 858.2668030062092,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          974.3777290780133,
+          828.7053089152736,
+          958.9270632936945,
+          900.810376215226,
+          1064.5066128198732,
+          826.1301279402753,
+          1097.983055352564,
+          918.8366430402141
+        ]
+      }
+    },
+    "13153": {
+      "contact_thumb": {
+        "x": 1103.7842507810983,
+        "y": 928.5928748333016,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1076.1899088413234,
+        "y": 922.4775642396414,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 13138,
+      "src": "/data/explorer/5e3d516e-4de6-43f9-a015-c85c35a0258e_13153/000.webp"
+    },
+    {
+      "index": 13139,
+      "src": "/data/explorer/5e3d516e-4de6-43f9-a015-c85c35a0258e_13153/001.webp"
+    },
+    {
+      "index": 13140,
+      "src": "/data/explorer/5e3d516e-4de6-43f9-a015-c85c35a0258e_13153/002.webp"
+    },
+    {
+      "index": 13141,
+      "src": "/data/explorer/5e3d516e-4de6-43f9-a015-c85c35a0258e_13153/003.webp"
+    },
+    {
+      "index": 13142,
+      "src": "/data/explorer/5e3d516e-4de6-43f9-a015-c85c35a0258e_13153/004.webp"
+    },
+    {
+      "index": 13143,
+      "src": "/data/explorer/5e3d516e-4de6-43f9-a015-c85c35a0258e_13153/005.webp"
+    },
+    {
+      "index": 13144,
+      "src": "/data/explorer/5e3d516e-4de6-43f9-a015-c85c35a0258e_13153/006.webp"
+    },
+    {
+      "index": 13145,
+      "src": "/data/explorer/5e3d516e-4de6-43f9-a015-c85c35a0258e_13153/007.webp"
+    },
+    {
+      "index": 13146,
+      "src": "/data/explorer/5e3d516e-4de6-43f9-a015-c85c35a0258e_13153/008.webp"
+    },
+    {
+      "index": 13147,
+      "src": "/data/explorer/5e3d516e-4de6-43f9-a015-c85c35a0258e_13153/009.webp"
+    },
+    {
+      "index": 13148,
+      "src": "/data/explorer/5e3d516e-4de6-43f9-a015-c85c35a0258e_13153/010.webp"
+    },
+    {
+      "index": 13149,
+      "src": "/data/explorer/5e3d516e-4de6-43f9-a015-c85c35a0258e_13153/011.webp"
+    },
+    {
+      "index": 13150,
+      "src": "/data/explorer/5e3d516e-4de6-43f9-a015-c85c35a0258e_13153/012.webp"
+    },
+    {
+      "index": 13151,
+      "src": "/data/explorer/5e3d516e-4de6-43f9-a015-c85c35a0258e_13153/013.webp"
+    },
+    {
+      "index": 13152,
+      "src": "/data/explorer/5e3d516e-4de6-43f9-a015-c85c35a0258e_13153/014.webp"
+    },
+    {
+      "index": 13153,
+      "src": "/data/explorer/5e3d516e-4de6-43f9-a015-c85c35a0258e_13153/015.webp"
+    }
+  ]
+}

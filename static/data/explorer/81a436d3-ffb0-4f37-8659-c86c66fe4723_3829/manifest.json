@@ -1,0 +1,118 @@
+{
+  "event": "81a436d3-ffb0-4f37-8659-c86c66fe4723_3829",
+  "action": "pick up the metal tool from the workbench",
+  "width": 2560,
+  "height": 1920,
+  "fps": 30.0,
+  "first": 3814,
+  "observation": 3814,
+  "contact": 3829,
+  "anchors": {
+    "3814": {
+      "contact_index": {
+        "x": 1646.0013475200512,
+        "y": 366.7639884307164,
+        "occluded": true,
+        "hard_sample": true
+      },
+      "contact_thumb": {
+        "x": 1580.6439256775927,
+        "y": 401.8370562069741,
+        "occluded": true,
+        "hard_sample": true
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          1532.4930436643835,
+          360.5345382995431,
+          1725.3697559931506,
+          264.04110597515705,
+          1826.19167380137,
+          338.6042127712736,
+          1620.164276541096,
+          527.2050123143918
+        ]
+      }
+    },
+    "3829": {
+      "contact_index": {
+        "x": 1841.068206306015,
+        "y": 562.1710803270095,
+        "occluded": true,
+        "hard_sample": true
+      },
+      "contact_thumb": {
+        "x": 1745.545820536268,
+        "y": 567.1815185807606,
+        "occluded": true,
+        "hard_sample": true
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 3814,
+      "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_3829/000.webp"
+    },
+    {
+      "index": 3815,
+      "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_3829/001.webp"
+    },
+    {
+      "index": 3816,
+      "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_3829/002.webp"
+    },
+    {
+      "index": 3817,
+      "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_3829/003.webp"
+    },
+    {
+      "index": 3818,
+      "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_3829/004.webp"
+    },
+    {
+      "index": 3819,
+      "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_3829/005.webp"
+    },
+    {
+      "index": 3820,
+      "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_3829/006.webp"
+    },
+    {
+      "index": 3821,
+      "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_3829/007.webp"
+    },
+    {
+      "index": 3822,
+      "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_3829/008.webp"
+    },
+    {
+      "index": 3823,
+      "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_3829/009.webp"
+    },
+    {
+      "index": 3824,
+      "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_3829/010.webp"
+    },
+    {
+      "index": 3825,
+      "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_3829/011.webp"
+    },
+    {
+      "index": 3826,
+      "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_3829/012.webp"
+    },
+    {
+      "index": 3827,
+      "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_3829/013.webp"
+    },
+    {
+      "index": 3828,
+      "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_3829/014.webp"
+    },
+    {
+      "index": 3829,
+      "src": "/data/explorer/81a436d3-ffb0-4f37-8659-c86c66fe4723_3829/015.webp"
+    }
+  ]
+}

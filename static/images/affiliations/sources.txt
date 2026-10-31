@@ -1,0 +1,11 @@
+Affiliation logo sources (retrieved 28 October 2026)
+
+cambridge.svg: https://www.cam.ac.uk/themes/custom/fresh/images/interface/university_logo_white-01.svg
+tum.svg: https://dominik-schnaus.github.io/unpaired-rosetta/img/logos/tum.svg
+eth.png: https://dominik-schnaus.github.io/unpaired-rosetta/img/logos/eth.png
+microsoft.png: https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png
+ulm.png: https://dominik-schnaus.github.io/unpaired-rosetta/img/logos/ulm.png
+mcml.svg: https://dominik-schnaus.github.io/unpaired-rosetta/img/logos/mcml.svg
+
+Original assets are rendered as white CSS masks on the dark sidebar.
+Display order follows ral-letter/main.tex: Cambridge, TUM, ETH, Microsoft, Ulm, MCML.

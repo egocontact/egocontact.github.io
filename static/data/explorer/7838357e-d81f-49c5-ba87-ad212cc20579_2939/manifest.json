@@ -1,0 +1,118 @@
+{
+  "event": "7838357e-d81f-49c5-ba87-ad212cc20579_2939",
+  "action": "mold the clay with hands",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 2924,
+  "observation": 2924,
+  "contact": 2939,
+  "anchors": {
+    "2924": {
+      "contact_thumb": {
+        "x": 755.0667533049423,
+        "y": 984.7389910946332,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 763.550649409492,
+        "y": 945.2817898463433,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          806.639,
+          938.838,
+          672.199,
+          927.635,
+          676.68,
+          1028.465,
+          777.51,
+          1032.946
+        ]
+      }
+    },
+    "2939": {
+      "contact_thumb": {
+        "x": 770.3377490326012,
+        "y": 970.6471335059583,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 781.6496105053345,
+        "y": 928.3715607399333,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 2924,
+      "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_2939/000.webp"
+    },
+    {
+      "index": 2925,
+      "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_2939/001.webp"
+    },
+    {
+      "index": 2926,
+      "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_2939/002.webp"
+    },
+    {
+      "index": 2927,
+      "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_2939/003.webp"
+    },
+    {
+      "index": 2928,
+      "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_2939/004.webp"
+    },
+    {
+      "index": 2929,
+      "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_2939/005.webp"
+    },
+    {
+      "index": 2930,
+      "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_2939/006.webp"
+    },
+    {
+      "index": 2931,
+      "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_2939/007.webp"
+    },
+    {
+      "index": 2932,
+      "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_2939/008.webp"
+    },
+    {
+      "index": 2933,
+      "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_2939/009.webp"
+    },
+    {
+      "index": 2934,
+      "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_2939/010.webp"
+    },
+    {
+      "index": 2935,
+      "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_2939/011.webp"
+    },
+    {
+      "index": 2936,
+      "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_2939/012.webp"
+    },
+    {
+      "index": 2937,
+      "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_2939/013.webp"
+    },
+    {
+      "index": 2938,
+      "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_2939/014.webp"
+    },
+    {
+      "index": 2939,
+      "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_2939/015.webp"
+    }
+  ]
+}

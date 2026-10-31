@@ -1,0 +1,118 @@
+{
+  "event": "ffac3b1e-4ca5-45bc-99a9-b5c81f5cb025_1242",
+  "action": "hold the handle of the pot on the stove",
+  "width": 1920,
+  "height": 1440,
+  "fps": 30.0,
+  "first": 1227,
+  "observation": 1227,
+  "contact": 1242,
+  "anchors": {
+    "1227": {
+      "contact_thumb": {
+        "x": 829.3489424421207,
+        "y": 946.7938295206924,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 821.2339806903447,
+        "y": 971.0498646243022,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          845.9743170498401,
+          799.5447628387076,
+          767.4536945694124,
+          1000.9672292015442,
+          917.6670593145786,
+          854.1678045642226,
+          842.5603769419955,
+          1031.6926901721465
+        ]
+      }
+    },
+    "1242": {
+      "contact_thumb": {
+        "x": 1128.7911053773494,
+        "y": 910.4097768652776,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1100.3887392461331,
+        "y": 942.7511570034242,
+        "occluded": true,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 1227,
+      "src": "/data/explorer/ffac3b1e-4ca5-45bc-99a9-b5c81f5cb025_1242/000.webp"
+    },
+    {
+      "index": 1228,
+      "src": "/data/explorer/ffac3b1e-4ca5-45bc-99a9-b5c81f5cb025_1242/001.webp"
+    },
+    {
+      "index": 1229,
+      "src": "/data/explorer/ffac3b1e-4ca5-45bc-99a9-b5c81f5cb025_1242/002.webp"
+    },
+    {
+      "index": 1230,
+      "src": "/data/explorer/ffac3b1e-4ca5-45bc-99a9-b5c81f5cb025_1242/003.webp"
+    },
+    {
+      "index": 1231,
+      "src": "/data/explorer/ffac3b1e-4ca5-45bc-99a9-b5c81f5cb025_1242/004.webp"
+    },
+    {
+      "index": 1232,
+      "src": "/data/explorer/ffac3b1e-4ca5-45bc-99a9-b5c81f5cb025_1242/005.webp"
+    },
+    {
+      "index": 1233,
+      "src": "/data/explorer/ffac3b1e-4ca5-45bc-99a9-b5c81f5cb025_1242/006.webp"
+    },
+    {
+      "index": 1234,
+      "src": "/data/explorer/ffac3b1e-4ca5-45bc-99a9-b5c81f5cb025_1242/007.webp"
+    },
+    {
+      "index": 1235,
+      "src": "/data/explorer/ffac3b1e-4ca5-45bc-99a9-b5c81f5cb025_1242/008.webp"
+    },
+    {
+      "index": 1236,
+      "src": "/data/explorer/ffac3b1e-4ca5-45bc-99a9-b5c81f5cb025_1242/009.webp"
+    },
+    {
+      "index": 1237,
+      "src": "/data/explorer/ffac3b1e-4ca5-45bc-99a9-b5c81f5cb025_1242/010.webp"
+    },
+    {
+      "index": 1238,
+      "src": "/data/explorer/ffac3b1e-4ca5-45bc-99a9-b5c81f5cb025_1242/011.webp"
+    },
+    {
+      "index": 1239,
+      "src": "/data/explorer/ffac3b1e-4ca5-45bc-99a9-b5c81f5cb025_1242/012.webp"
+    },
+    {
+      "index": 1240,
+      "src": "/data/explorer/ffac3b1e-4ca5-45bc-99a9-b5c81f5cb025_1242/013.webp"
+    },
+    {
+      "index": 1241,
+      "src": "/data/explorer/ffac3b1e-4ca5-45bc-99a9-b5c81f5cb025_1242/014.webp"
+    },
+    {
+      "index": 1242,
+      "src": "/data/explorer/ffac3b1e-4ca5-45bc-99a9-b5c81f5cb025_1242/015.webp"
+    }
+  ]
+}

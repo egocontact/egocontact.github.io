@@ -1,0 +1,118 @@
+{
+  "event": "2e168c7b-3c33-448a-9000-c2aea9fedb46_503",
+  "action": "hold clothes 2",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 488,
+  "observation": 488,
+  "contact": 503,
+  "anchors": {
+    "488": {
+      "contact_index": {
+        "x": 1244.2906282408792,
+        "y": 909.3864578407315,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 1213.8408019657966,
+        "y": 917.6686661712502,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          1321.4633302161021,
+          824.3902098124761,
+          1172.6828485635547,
+          836.5853312594062,
+          1209.268212904345,
+          939.0243514136192,
+          1331.219427373646,
+          931.7072785454611
+        ]
+      }
+    },
+    "503": {
+      "contact_index": {
+        "x": 1242.6297117303302,
+        "y": 862.4539439677937,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 1220.4843835302702,
+        "y": 884.5398328491762,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 488,
+      "src": "/data/explorer/2e168c7b-3c33-448a-9000-c2aea9fedb46_503/000.webp"
+    },
+    {
+      "index": 489,
+      "src": "/data/explorer/2e168c7b-3c33-448a-9000-c2aea9fedb46_503/001.webp"
+    },
+    {
+      "index": 490,
+      "src": "/data/explorer/2e168c7b-3c33-448a-9000-c2aea9fedb46_503/002.webp"
+    },
+    {
+      "index": 491,
+      "src": "/data/explorer/2e168c7b-3c33-448a-9000-c2aea9fedb46_503/003.webp"
+    },
+    {
+      "index": 492,
+      "src": "/data/explorer/2e168c7b-3c33-448a-9000-c2aea9fedb46_503/004.webp"
+    },
+    {
+      "index": 493,
+      "src": "/data/explorer/2e168c7b-3c33-448a-9000-c2aea9fedb46_503/005.webp"
+    },
+    {
+      "index": 494,
+      "src": "/data/explorer/2e168c7b-3c33-448a-9000-c2aea9fedb46_503/006.webp"
+    },
+    {
+      "index": 495,
+      "src": "/data/explorer/2e168c7b-3c33-448a-9000-c2aea9fedb46_503/007.webp"
+    },
+    {
+      "index": 496,
+      "src": "/data/explorer/2e168c7b-3c33-448a-9000-c2aea9fedb46_503/008.webp"
+    },
+    {
+      "index": 497,
+      "src": "/data/explorer/2e168c7b-3c33-448a-9000-c2aea9fedb46_503/009.webp"
+    },
+    {
+      "index": 498,
+      "src": "/data/explorer/2e168c7b-3c33-448a-9000-c2aea9fedb46_503/010.webp"
+    },
+    {
+      "index": 499,
+      "src": "/data/explorer/2e168c7b-3c33-448a-9000-c2aea9fedb46_503/011.webp"
+    },
+    {
+      "index": 500,
+      "src": "/data/explorer/2e168c7b-3c33-448a-9000-c2aea9fedb46_503/012.webp"
+    },
+    {
+      "index": 501,
+      "src": "/data/explorer/2e168c7b-3c33-448a-9000-c2aea9fedb46_503/013.webp"
+    },
+    {
+      "index": 502,
+      "src": "/data/explorer/2e168c7b-3c33-448a-9000-c2aea9fedb46_503/014.webp"
+    },
+    {
+      "index": 503,
+      "src": "/data/explorer/2e168c7b-3c33-448a-9000-c2aea9fedb46_503/015.webp"
+    }
+  ]
+}

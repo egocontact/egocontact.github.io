@@ -1,0 +1,118 @@
+{
+  "event": "cb4c9dd8-c8e1-4dd7-8b4d-0203c54d6381_2222",
+  "action": "pick up the concrete block from the ground",
+  "width": 2560,
+  "height": 1920,
+  "fps": 30.0,
+  "first": 2207,
+  "observation": 2207,
+  "contact": 2222,
+  "anchors": {
+    "2207": {
+      "contact_thumb": {
+        "x": 1319.2142383077585,
+        "y": 830.7306013093569,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1374.5166721744542,
+        "y": 635.3235094130638,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          1425.8217708555908,
+          938.8694236017066,
+          1569.6461936461149,
+          759.0888951135516,
+          1232.5577027308243,
+          525.3742080789502,
+          1106.7113327891159,
+          687.1766837182896
+        ]
+      }
+    },
+    "2222": {
+      "contact_thumb": {
+        "x": 850.6518906933735,
+        "y": 1221.5447851019433,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 790.3219628387964,
+        "y": 1041.1690079669033,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 2207,
+      "src": "/data/explorer/cb4c9dd8-c8e1-4dd7-8b4d-0203c54d6381_2222/000.webp"
+    },
+    {
+      "index": 2208,
+      "src": "/data/explorer/cb4c9dd8-c8e1-4dd7-8b4d-0203c54d6381_2222/001.webp"
+    },
+    {
+      "index": 2209,
+      "src": "/data/explorer/cb4c9dd8-c8e1-4dd7-8b4d-0203c54d6381_2222/002.webp"
+    },
+    {
+      "index": 2210,
+      "src": "/data/explorer/cb4c9dd8-c8e1-4dd7-8b4d-0203c54d6381_2222/003.webp"
+    },
+    {
+      "index": 2211,
+      "src": "/data/explorer/cb4c9dd8-c8e1-4dd7-8b4d-0203c54d6381_2222/004.webp"
+    },
+    {
+      "index": 2212,
+      "src": "/data/explorer/cb4c9dd8-c8e1-4dd7-8b4d-0203c54d6381_2222/005.webp"
+    },
+    {
+      "index": 2213,
+      "src": "/data/explorer/cb4c9dd8-c8e1-4dd7-8b4d-0203c54d6381_2222/006.webp"
+    },
+    {
+      "index": 2214,
+      "src": "/data/explorer/cb4c9dd8-c8e1-4dd7-8b4d-0203c54d6381_2222/007.webp"
+    },
+    {
+      "index": 2215,
+      "src": "/data/explorer/cb4c9dd8-c8e1-4dd7-8b4d-0203c54d6381_2222/008.webp"
+    },
+    {
+      "index": 2216,
+      "src": "/data/explorer/cb4c9dd8-c8e1-4dd7-8b4d-0203c54d6381_2222/009.webp"
+    },
+    {
+      "index": 2217,
+      "src": "/data/explorer/cb4c9dd8-c8e1-4dd7-8b4d-0203c54d6381_2222/010.webp"
+    },
+    {
+      "index": 2218,
+      "src": "/data/explorer/cb4c9dd8-c8e1-4dd7-8b4d-0203c54d6381_2222/011.webp"
+    },
+    {
+      "index": 2219,
+      "src": "/data/explorer/cb4c9dd8-c8e1-4dd7-8b4d-0203c54d6381_2222/012.webp"
+    },
+    {
+      "index": 2220,
+      "src": "/data/explorer/cb4c9dd8-c8e1-4dd7-8b4d-0203c54d6381_2222/013.webp"
+    },
+    {
+      "index": 2221,
+      "src": "/data/explorer/cb4c9dd8-c8e1-4dd7-8b4d-0203c54d6381_2222/014.webp"
+    },
+    {
+      "index": 2222,
+      "src": "/data/explorer/cb4c9dd8-c8e1-4dd7-8b4d-0203c54d6381_2222/015.webp"
+    }
+  ]
+}

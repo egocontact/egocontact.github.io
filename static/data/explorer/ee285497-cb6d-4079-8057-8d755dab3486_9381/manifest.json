@@ -1,0 +1,118 @@
+{
+  "event": "ee285497-cb6d-4079-8057-8d755dab3486_9381",
+  "action": "pick a coconut from a pile",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 9366,
+  "observation": 9366,
+  "contact": 9381,
+  "anchors": {
+    "9366": {
+      "contact_index": {
+        "x": 867.286537221061,
+        "y": 177.06903775046558,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 894.6745331333052,
+        "y": 222.549103569734,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          771.75,
+          87.75,
+          909.0,
+          171.0,
+          823.5,
+          353.25,
+          695.25,
+          301.5
+        ]
+      }
+    },
+    "9381": {
+      "contact_thumb": {
+        "x": 1024.2253448480276,
+        "y": 351.3794786847988,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1008.4868531282904,
+        "y": 289.25320010466106,
+        "occluded": true,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 9366,
+      "src": "/data/explorer/ee285497-cb6d-4079-8057-8d755dab3486_9381/000.webp"
+    },
+    {
+      "index": 9367,
+      "src": "/data/explorer/ee285497-cb6d-4079-8057-8d755dab3486_9381/001.webp"
+    },
+    {
+      "index": 9368,
+      "src": "/data/explorer/ee285497-cb6d-4079-8057-8d755dab3486_9381/002.webp"
+    },
+    {
+      "index": 9369,
+      "src": "/data/explorer/ee285497-cb6d-4079-8057-8d755dab3486_9381/003.webp"
+    },
+    {
+      "index": 9370,
+      "src": "/data/explorer/ee285497-cb6d-4079-8057-8d755dab3486_9381/004.webp"
+    },
+    {
+      "index": 9371,
+      "src": "/data/explorer/ee285497-cb6d-4079-8057-8d755dab3486_9381/005.webp"
+    },
+    {
+      "index": 9372,
+      "src": "/data/explorer/ee285497-cb6d-4079-8057-8d755dab3486_9381/006.webp"
+    },
+    {
+      "index": 9373,
+      "src": "/data/explorer/ee285497-cb6d-4079-8057-8d755dab3486_9381/007.webp"
+    },
+    {
+      "index": 9374,
+      "src": "/data/explorer/ee285497-cb6d-4079-8057-8d755dab3486_9381/008.webp"
+    },
+    {
+      "index": 9375,
+      "src": "/data/explorer/ee285497-cb6d-4079-8057-8d755dab3486_9381/009.webp"
+    },
+    {
+      "index": 9376,
+      "src": "/data/explorer/ee285497-cb6d-4079-8057-8d755dab3486_9381/010.webp"
+    },
+    {
+      "index": 9377,
+      "src": "/data/explorer/ee285497-cb6d-4079-8057-8d755dab3486_9381/011.webp"
+    },
+    {
+      "index": 9378,
+      "src": "/data/explorer/ee285497-cb6d-4079-8057-8d755dab3486_9381/012.webp"
+    },
+    {
+      "index": 9379,
+      "src": "/data/explorer/ee285497-cb6d-4079-8057-8d755dab3486_9381/013.webp"
+    },
+    {
+      "index": 9380,
+      "src": "/data/explorer/ee285497-cb6d-4079-8057-8d755dab3486_9381/014.webp"
+    },
+    {
+      "index": 9381,
+      "src": "/data/explorer/ee285497-cb6d-4079-8057-8d755dab3486_9381/015.webp"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "event": "f783063a-c8ed-40a5-9f5e-967eface9688_3523",
+  "action": "pick up the trowel from the concrete structure",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 3508,
+  "observation": 3508,
+  "contact": 3523,
+  "anchors": {
+    "3508": {
+      "contact_index": {
+        "x": 885.5499199874254,
+        "y": 604.0050471225929,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 817.1510859632715,
+        "y": 633.6575542905443,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          805.3150082940924,
+          622.2181535216483,
+          940.9314466502568,
+          602.4808605462058,
+          869.4245973351883,
+          723.3717800207917,
+          950.794460348887,
+          671.5613859602548
+        ]
+      }
+    },
+    "3523": {
+      "contact_thumb": {
+        "x": 925.3102166879846,
+        "y": 692.7556846553131,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 981.8695240516507,
+        "y": 658.9352264424931,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 3508,
+      "src": "/data/explorer/f783063a-c8ed-40a5-9f5e-967eface9688_3523/000.webp"
+    },
+    {
+      "index": 3509,
+      "src": "/data/explorer/f783063a-c8ed-40a5-9f5e-967eface9688_3523/001.webp"
+    },
+    {
+      "index": 3510,
+      "src": "/data/explorer/f783063a-c8ed-40a5-9f5e-967eface9688_3523/002.webp"
+    },
+    {
+      "index": 3511,
+      "src": "/data/explorer/f783063a-c8ed-40a5-9f5e-967eface9688_3523/003.webp"
+    },
+    {
+      "index": 3512,
+      "src": "/data/explorer/f783063a-c8ed-40a5-9f5e-967eface9688_3523/004.webp"
+    },
+    {
+      "index": 3513,
+      "src": "/data/explorer/f783063a-c8ed-40a5-9f5e-967eface9688_3523/005.webp"
+    },
+    {
+      "index": 3514,
+      "src": "/data/explorer/f783063a-c8ed-40a5-9f5e-967eface9688_3523/006.webp"
+    },
+    {
+      "index": 3515,
+      "src": "/data/explorer/f783063a-c8ed-40a5-9f5e-967eface9688_3523/007.webp"
+    },
+    {
+      "index": 3516,
+      "src": "/data/explorer/f783063a-c8ed-40a5-9f5e-967eface9688_3523/008.webp"
+    },
+    {
+      "index": 3517,
+      "src": "/data/explorer/f783063a-c8ed-40a5-9f5e-967eface9688_3523/009.webp"
+    },
+    {
+      "index": 3518,
+      "src": "/data/explorer/f783063a-c8ed-40a5-9f5e-967eface9688_3523/010.webp"
+    },
+    {
+      "index": 3519,
+      "src": "/data/explorer/f783063a-c8ed-40a5-9f5e-967eface9688_3523/011.webp"
+    },
+    {
+      "index": 3520,
+      "src": "/data/explorer/f783063a-c8ed-40a5-9f5e-967eface9688_3523/012.webp"
+    },
+    {
+      "index": 3521,
+      "src": "/data/explorer/f783063a-c8ed-40a5-9f5e-967eface9688_3523/013.webp"
+    },
+    {
+      "index": 3522,
+      "src": "/data/explorer/f783063a-c8ed-40a5-9f5e-967eface9688_3523/014.webp"
+    },
+    {
+      "index": 3523,
+      "src": "/data/explorer/f783063a-c8ed-40a5-9f5e-967eface9688_3523/015.webp"
+    }
+  ]
+}

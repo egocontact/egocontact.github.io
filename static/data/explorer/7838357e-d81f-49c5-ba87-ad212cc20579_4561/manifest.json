@@ -1,0 +1,118 @@
+{
+  "event": "7838357e-d81f-49c5-ba87-ad212cc20579_4561",
+  "action": "pick up pottery clay from the table",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 4546,
+  "observation": 4546,
+  "contact": 4561,
+  "anchors": {
+    "4546": {
+      "contact_index": {
+        "x": 822.9379221413416,
+        "y": 683.1732386969887,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 808.7980953004248,
+        "y": 733.9039260162186,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          890.331,
+          707.355,
+          696.198,
+          685.041,
+          727.438,
+          805.537,
+          883.636,
+          832.314
+        ]
+      }
+    },
+    "4561": {
+      "contact_index": {
+        "x": 829.7250217644506,
+        "y": 702.9018393211337,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 812.7572295553507,
+        "y": 762.0876411935685,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 4546,
+      "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_4561/000.webp"
+    },
+    {
+      "index": 4547,
+      "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_4561/001.webp"
+    },
+    {
+      "index": 4548,
+      "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_4561/002.webp"
+    },
+    {
+      "index": 4549,
+      "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_4561/003.webp"
+    },
+    {
+      "index": 4550,
+      "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_4561/004.webp"
+    },
+    {
+      "index": 4551,
+      "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_4561/005.webp"
+    },
+    {
+      "index": 4552,
+      "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_4561/006.webp"
+    },
+    {
+      "index": 4553,
+      "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_4561/007.webp"
+    },
+    {
+      "index": 4554,
+      "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_4561/008.webp"
+    },
+    {
+      "index": 4555,
+      "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_4561/009.webp"
+    },
+    {
+      "index": 4556,
+      "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_4561/010.webp"
+    },
+    {
+      "index": 4557,
+      "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_4561/011.webp"
+    },
+    {
+      "index": 4558,
+      "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_4561/012.webp"
+    },
+    {
+      "index": 4559,
+      "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_4561/013.webp"
+    },
+    {
+      "index": 4560,
+      "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_4561/014.webp"
+    },
+    {
+      "index": 4561,
+      "src": "/data/explorer/7838357e-d81f-49c5-ba87-ad212cc20579_4561/015.webp"
+    }
+  ]
+}

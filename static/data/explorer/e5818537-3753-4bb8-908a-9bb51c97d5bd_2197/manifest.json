@@ -1,0 +1,118 @@
+{
+  "event": "e5818537-3753-4bb8-908a-9bb51c97d5bd_2197",
+  "action": "pick up the knife from the counter",
+  "width": 1920,
+  "height": 1440,
+  "fps": 30.0,
+  "first": 2182,
+  "observation": 2182,
+  "contact": 2197,
+  "anchors": {
+    "2182": {
+      "contact_thumb": {
+        "x": 1299.6877206049505,
+        "y": 1101.865134509638,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1315.5483197989572,
+        "y": 963.4867677258648,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          1254.5752622003426,
+          648.6990190873072,
+          1175.6711526113015,
+          681.5945073797116,
+          1320.3286868578768,
+          1250.6864548383066,
+          1392.6574539811645,
+          1224.3700642043832
+        ]
+      }
+    },
+    "2197": {
+      "contact_index": {
+        "x": 1264.937843801816,
+        "y": 892.3207505227814,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 1241.146945010806,
+        "y": 1003.0234439497999,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 2182,
+      "src": "/data/explorer/e5818537-3753-4bb8-908a-9bb51c97d5bd_2197/000.webp"
+    },
+    {
+      "index": 2183,
+      "src": "/data/explorer/e5818537-3753-4bb8-908a-9bb51c97d5bd_2197/001.webp"
+    },
+    {
+      "index": 2184,
+      "src": "/data/explorer/e5818537-3753-4bb8-908a-9bb51c97d5bd_2197/002.webp"
+    },
+    {
+      "index": 2185,
+      "src": "/data/explorer/e5818537-3753-4bb8-908a-9bb51c97d5bd_2197/003.webp"
+    },
+    {
+      "index": 2186,
+      "src": "/data/explorer/e5818537-3753-4bb8-908a-9bb51c97d5bd_2197/004.webp"
+    },
+    {
+      "index": 2187,
+      "src": "/data/explorer/e5818537-3753-4bb8-908a-9bb51c97d5bd_2197/005.webp"
+    },
+    {
+      "index": 2188,
+      "src": "/data/explorer/e5818537-3753-4bb8-908a-9bb51c97d5bd_2197/006.webp"
+    },
+    {
+      "index": 2189,
+      "src": "/data/explorer/e5818537-3753-4bb8-908a-9bb51c97d5bd_2197/007.webp"
+    },
+    {
+      "index": 2190,
+      "src": "/data/explorer/e5818537-3753-4bb8-908a-9bb51c97d5bd_2197/008.webp"
+    },
+    {
+      "index": 2191,
+      "src": "/data/explorer/e5818537-3753-4bb8-908a-9bb51c97d5bd_2197/009.webp"
+    },
+    {
+      "index": 2192,
+      "src": "/data/explorer/e5818537-3753-4bb8-908a-9bb51c97d5bd_2197/010.webp"
+    },
+    {
+      "index": 2193,
+      "src": "/data/explorer/e5818537-3753-4bb8-908a-9bb51c97d5bd_2197/011.webp"
+    },
+    {
+      "index": 2194,
+      "src": "/data/explorer/e5818537-3753-4bb8-908a-9bb51c97d5bd_2197/012.webp"
+    },
+    {
+      "index": 2195,
+      "src": "/data/explorer/e5818537-3753-4bb8-908a-9bb51c97d5bd_2197/013.webp"
+    },
+    {
+      "index": 2196,
+      "src": "/data/explorer/e5818537-3753-4bb8-908a-9bb51c97d5bd_2197/014.webp"
+    },
+    {
+      "index": 2197,
+      "src": "/data/explorer/e5818537-3753-4bb8-908a-9bb51c97d5bd_2197/015.webp"
+    }
+  ]
+}

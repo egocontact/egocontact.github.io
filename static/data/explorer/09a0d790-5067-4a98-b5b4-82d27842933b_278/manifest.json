@@ -1,0 +1,118 @@
+{
+  "event": "09a0d790-5067-4a98-b5b4-82d27842933b_278",
+  "action": "pick chain oil",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 263,
+  "observation": 263,
+  "contact": 278,
+  "anchors": {
+    "263": {
+      "contact_thumb": {
+        "x": 760.6477013346228,
+        "y": 445.1994378419068,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 757.6738389857464,
+        "y": 415.5469306739554,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          799.5121322874929,
+          395.34514238168396,
+          719.0243307377541,
+          402.66634872208556,
+          728.7804278952982,
+          492.96122692037136,
+          794.6340837087209,
+          492.96122692037136
+        ]
+      }
+    },
+    "278": {
+      "contact_thumb": {
+        "x": 779.1932289654154,
+        "y": 489.6781985938338,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 767.2977795699104,
+        "y": 460.02569142588254,
+        "occluded": true,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 263,
+      "src": "/data/explorer/09a0d790-5067-4a98-b5b4-82d27842933b_278/000.webp"
+    },
+    {
+      "index": 264,
+      "src": "/data/explorer/09a0d790-5067-4a98-b5b4-82d27842933b_278/001.webp"
+    },
+    {
+      "index": 265,
+      "src": "/data/explorer/09a0d790-5067-4a98-b5b4-82d27842933b_278/002.webp"
+    },
+    {
+      "index": 266,
+      "src": "/data/explorer/09a0d790-5067-4a98-b5b4-82d27842933b_278/003.webp"
+    },
+    {
+      "index": 267,
+      "src": "/data/explorer/09a0d790-5067-4a98-b5b4-82d27842933b_278/004.webp"
+    },
+    {
+      "index": 268,
+      "src": "/data/explorer/09a0d790-5067-4a98-b5b4-82d27842933b_278/005.webp"
+    },
+    {
+      "index": 269,
+      "src": "/data/explorer/09a0d790-5067-4a98-b5b4-82d27842933b_278/006.webp"
+    },
+    {
+      "index": 270,
+      "src": "/data/explorer/09a0d790-5067-4a98-b5b4-82d27842933b_278/007.webp"
+    },
+    {
+      "index": 271,
+      "src": "/data/explorer/09a0d790-5067-4a98-b5b4-82d27842933b_278/008.webp"
+    },
+    {
+      "index": 272,
+      "src": "/data/explorer/09a0d790-5067-4a98-b5b4-82d27842933b_278/009.webp"
+    },
+    {
+      "index": 273,
+      "src": "/data/explorer/09a0d790-5067-4a98-b5b4-82d27842933b_278/010.webp"
+    },
+    {
+      "index": 274,
+      "src": "/data/explorer/09a0d790-5067-4a98-b5b4-82d27842933b_278/011.webp"
+    },
+    {
+      "index": 275,
+      "src": "/data/explorer/09a0d790-5067-4a98-b5b4-82d27842933b_278/012.webp"
+    },
+    {
+      "index": 276,
+      "src": "/data/explorer/09a0d790-5067-4a98-b5b4-82d27842933b_278/013.webp"
+    },
+    {
+      "index": 277,
+      "src": "/data/explorer/09a0d790-5067-4a98-b5b4-82d27842933b_278/014.webp"
+    },
+    {
+      "index": 278,
+      "src": "/data/explorer/09a0d790-5067-4a98-b5b4-82d27842933b_278/015.webp"
+    }
+  ]
+}

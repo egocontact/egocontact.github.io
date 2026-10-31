@@ -1,0 +1,106 @@
+{
+  "event": "fbafc354-121f-40f1-a553-bbae0d2f66ed_11035",
+  "action": "pick the slotted spoon from the counter",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 11020,
+  "observation": 11020,
+  "contact": 11035,
+  "anchors": {
+    "11020": {
+      "contact_thumb": {
+        "x": 1002.2308229209781,
+        "y": 396.82667529313835,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 956.9833770300452,
+        "y": 399.6450468108734,
+        "occluded": true,
+        "hard_sample": false
+      }
+    },
+    "11035": {
+      "contact_thumb": {
+        "x": 981.8695240516507,
+        "y": 470.1043347542483,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 942.2780088970845,
+        "y": 478.5594493074533,
+        "occluded": true,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 11020,
+      "src": "/data/explorer/fbafc354-121f-40f1-a553-bbae0d2f66ed_11035/000.webp"
+    },
+    {
+      "index": 11021,
+      "src": "/data/explorer/fbafc354-121f-40f1-a553-bbae0d2f66ed_11035/001.webp"
+    },
+    {
+      "index": 11022,
+      "src": "/data/explorer/fbafc354-121f-40f1-a553-bbae0d2f66ed_11035/002.webp"
+    },
+    {
+      "index": 11023,
+      "src": "/data/explorer/fbafc354-121f-40f1-a553-bbae0d2f66ed_11035/003.webp"
+    },
+    {
+      "index": 11024,
+      "src": "/data/explorer/fbafc354-121f-40f1-a553-bbae0d2f66ed_11035/004.webp"
+    },
+    {
+      "index": 11025,
+      "src": "/data/explorer/fbafc354-121f-40f1-a553-bbae0d2f66ed_11035/005.webp"
+    },
+    {
+      "index": 11026,
+      "src": "/data/explorer/fbafc354-121f-40f1-a553-bbae0d2f66ed_11035/006.webp"
+    },
+    {
+      "index": 11027,
+      "src": "/data/explorer/fbafc354-121f-40f1-a553-bbae0d2f66ed_11035/007.webp"
+    },
+    {
+      "index": 11028,
+      "src": "/data/explorer/fbafc354-121f-40f1-a553-bbae0d2f66ed_11035/008.webp"
+    },
+    {
+      "index": 11029,
+      "src": "/data/explorer/fbafc354-121f-40f1-a553-bbae0d2f66ed_11035/009.webp"
+    },
+    {
+      "index": 11030,
+      "src": "/data/explorer/fbafc354-121f-40f1-a553-bbae0d2f66ed_11035/010.webp"
+    },
+    {
+      "index": 11031,
+      "src": "/data/explorer/fbafc354-121f-40f1-a553-bbae0d2f66ed_11035/011.webp"
+    },
+    {
+      "index": 11032,
+      "src": "/data/explorer/fbafc354-121f-40f1-a553-bbae0d2f66ed_11035/012.webp"
+    },
+    {
+      "index": 11033,
+      "src": "/data/explorer/fbafc354-121f-40f1-a553-bbae0d2f66ed_11035/013.webp"
+    },
+    {
+      "index": 11034,
+      "src": "/data/explorer/fbafc354-121f-40f1-a553-bbae0d2f66ed_11035/014.webp"
+    },
+    {
+      "index": 11035,
+      "src": "/data/explorer/fbafc354-121f-40f1-a553-bbae0d2f66ed_11035/015.webp"
+    }
+  ]
+}

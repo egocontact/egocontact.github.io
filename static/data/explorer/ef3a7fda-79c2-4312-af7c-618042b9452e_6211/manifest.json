@@ -1,0 +1,118 @@
+{
+  "event": "ef3a7fda-79c2-4312-af7c-618042b9452e_6211",
+  "action": "pick the Spices 3",
+  "width": 1920,
+  "height": 1440,
+  "fps": 30.0,
+  "first": 6196,
+  "observation": 6196,
+  "contact": 6211,
+  "anchors": {
+    "6196": {
+      "contact_thumb": {
+        "x": 1049.7406065853959,
+        "y": 746.3048008321932,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1042.1993656035738,
+        "y": 693.6951991678067,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          1027.7259471318494,
+          676.9891590965876,
+          991.5615635702055,
+          821.7293075831667,
+          1070.4656731592468,
+          834.8875029001285,
+          1106.6300567208905,
+          700.0160009012707
+        ]
+      }
+    },
+    "6211": {
+      "contact_thumb": {
+        "x": 1060.2984130020702,
+        "y": 735.0313147612533,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1045.2159310384259,
+        "y": 671.1482270259266,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 6196,
+      "src": "/data/explorer/ef3a7fda-79c2-4312-af7c-618042b9452e_6211/000.webp"
+    },
+    {
+      "index": 6197,
+      "src": "/data/explorer/ef3a7fda-79c2-4312-af7c-618042b9452e_6211/001.webp"
+    },
+    {
+      "index": 6198,
+      "src": "/data/explorer/ef3a7fda-79c2-4312-af7c-618042b9452e_6211/002.webp"
+    },
+    {
+      "index": 6199,
+      "src": "/data/explorer/ef3a7fda-79c2-4312-af7c-618042b9452e_6211/003.webp"
+    },
+    {
+      "index": 6200,
+      "src": "/data/explorer/ef3a7fda-79c2-4312-af7c-618042b9452e_6211/004.webp"
+    },
+    {
+      "index": 6201,
+      "src": "/data/explorer/ef3a7fda-79c2-4312-af7c-618042b9452e_6211/005.webp"
+    },
+    {
+      "index": 6202,
+      "src": "/data/explorer/ef3a7fda-79c2-4312-af7c-618042b9452e_6211/006.webp"
+    },
+    {
+      "index": 6203,
+      "src": "/data/explorer/ef3a7fda-79c2-4312-af7c-618042b9452e_6211/007.webp"
+    },
+    {
+      "index": 6204,
+      "src": "/data/explorer/ef3a7fda-79c2-4312-af7c-618042b9452e_6211/008.webp"
+    },
+    {
+      "index": 6205,
+      "src": "/data/explorer/ef3a7fda-79c2-4312-af7c-618042b9452e_6211/009.webp"
+    },
+    {
+      "index": 6206,
+      "src": "/data/explorer/ef3a7fda-79c2-4312-af7c-618042b9452e_6211/010.webp"
+    },
+    {
+      "index": 6207,
+      "src": "/data/explorer/ef3a7fda-79c2-4312-af7c-618042b9452e_6211/011.webp"
+    },
+    {
+      "index": 6208,
+      "src": "/data/explorer/ef3a7fda-79c2-4312-af7c-618042b9452e_6211/012.webp"
+    },
+    {
+      "index": 6209,
+      "src": "/data/explorer/ef3a7fda-79c2-4312-af7c-618042b9452e_6211/013.webp"
+    },
+    {
+      "index": 6210,
+      "src": "/data/explorer/ef3a7fda-79c2-4312-af7c-618042b9452e_6211/014.webp"
+    },
+    {
+      "index": 6211,
+      "src": "/data/explorer/ef3a7fda-79c2-4312-af7c-618042b9452e_6211/015.webp"
+    }
+  ]
+}

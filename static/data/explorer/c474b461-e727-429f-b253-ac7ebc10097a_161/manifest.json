@@ -1,0 +1,118 @@
+{
+  "event": "c474b461-e727-429f-b253-ac7ebc10097a_161",
+  "action": "pick up the bicycle from the floor",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 146,
+  "observation": 146,
+  "contact": 161,
+  "anchors": {
+    "146": {
+      "contact_thumb": {
+        "x": 781.4647377767566,
+        "y": 540.7463350002065,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 799.307911870014,
+        "y": 511.0938278322551,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          471.21052797426466,
+          315.6866361373628,
+          1178.0263758172882,
+          555.5645409986915,
+          782.5024816875134,
+          1020.6713183634052,
+          498.6774650666102,
+          1009.6845440949475
+        ]
+      }
+    },
+    "161": {
+      "contact_index": {
+        "x": 972.4942816423719,
+        "y": 605.9818507696996,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 942.7556581536094,
+        "y": 617.8428536368801,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 146,
+      "src": "/data/explorer/c474b461-e727-429f-b253-ac7ebc10097a_161/000.webp"
+    },
+    {
+      "index": 147,
+      "src": "/data/explorer/c474b461-e727-429f-b253-ac7ebc10097a_161/001.webp"
+    },
+    {
+      "index": 148,
+      "src": "/data/explorer/c474b461-e727-429f-b253-ac7ebc10097a_161/002.webp"
+    },
+    {
+      "index": 149,
+      "src": "/data/explorer/c474b461-e727-429f-b253-ac7ebc10097a_161/003.webp"
+    },
+    {
+      "index": 150,
+      "src": "/data/explorer/c474b461-e727-429f-b253-ac7ebc10097a_161/004.webp"
+    },
+    {
+      "index": 151,
+      "src": "/data/explorer/c474b461-e727-429f-b253-ac7ebc10097a_161/005.webp"
+    },
+    {
+      "index": 152,
+      "src": "/data/explorer/c474b461-e727-429f-b253-ac7ebc10097a_161/006.webp"
+    },
+    {
+      "index": 153,
+      "src": "/data/explorer/c474b461-e727-429f-b253-ac7ebc10097a_161/007.webp"
+    },
+    {
+      "index": 154,
+      "src": "/data/explorer/c474b461-e727-429f-b253-ac7ebc10097a_161/008.webp"
+    },
+    {
+      "index": 155,
+      "src": "/data/explorer/c474b461-e727-429f-b253-ac7ebc10097a_161/009.webp"
+    },
+    {
+      "index": 156,
+      "src": "/data/explorer/c474b461-e727-429f-b253-ac7ebc10097a_161/010.webp"
+    },
+    {
+      "index": 157,
+      "src": "/data/explorer/c474b461-e727-429f-b253-ac7ebc10097a_161/011.webp"
+    },
+    {
+      "index": 158,
+      "src": "/data/explorer/c474b461-e727-429f-b253-ac7ebc10097a_161/012.webp"
+    },
+    {
+      "index": 159,
+      "src": "/data/explorer/c474b461-e727-429f-b253-ac7ebc10097a_161/013.webp"
+    },
+    {
+      "index": 160,
+      "src": "/data/explorer/c474b461-e727-429f-b253-ac7ebc10097a_161/014.webp"
+    },
+    {
+      "index": 161,
+      "src": "/data/explorer/c474b461-e727-429f-b253-ac7ebc10097a_161/015.webp"
+    }
+  ]
+}

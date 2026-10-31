@@ -1,0 +1,118 @@
+{
+  "event": "93d16e5d-8a11-4265-85fc-1d2222d0d6db_1203",
+  "action": "apply oil from bottle to bicycle chain",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 1188,
+  "observation": 1188,
+  "contact": 1203,
+  "anchors": {
+    "1188": {
+      "contact_thumb": {
+        "x": 619.3313069908816,
+        "y": 953.8003146263861,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 584.3161094224924,
+        "y": 884.1228952715473,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          462.857,
+          896.453,
+          731.527,
+          875.172,
+          577.241,
+          965.616,
+          516.059,
+          904.433
+        ]
+      }
+    },
+    "1203": {
+      "contact_index": {
+        "x": 816.29179331307,
+        "y": 789.7681008615801,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 851.306990881459,
+        "y": 872.5100363454511,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 1188,
+      "src": "/data/explorer/93d16e5d-8a11-4265-85fc-1d2222d0d6db_1203/000.webp"
+    },
+    {
+      "index": 1189,
+      "src": "/data/explorer/93d16e5d-8a11-4265-85fc-1d2222d0d6db_1203/001.webp"
+    },
+    {
+      "index": 1190,
+      "src": "/data/explorer/93d16e5d-8a11-4265-85fc-1d2222d0d6db_1203/002.webp"
+    },
+    {
+      "index": 1191,
+      "src": "/data/explorer/93d16e5d-8a11-4265-85fc-1d2222d0d6db_1203/003.webp"
+    },
+    {
+      "index": 1192,
+      "src": "/data/explorer/93d16e5d-8a11-4265-85fc-1d2222d0d6db_1203/004.webp"
+    },
+    {
+      "index": 1193,
+      "src": "/data/explorer/93d16e5d-8a11-4265-85fc-1d2222d0d6db_1203/005.webp"
+    },
+    {
+      "index": 1194,
+      "src": "/data/explorer/93d16e5d-8a11-4265-85fc-1d2222d0d6db_1203/006.webp"
+    },
+    {
+      "index": 1195,
+      "src": "/data/explorer/93d16e5d-8a11-4265-85fc-1d2222d0d6db_1203/007.webp"
+    },
+    {
+      "index": 1196,
+      "src": "/data/explorer/93d16e5d-8a11-4265-85fc-1d2222d0d6db_1203/008.webp"
+    },
+    {
+      "index": 1197,
+      "src": "/data/explorer/93d16e5d-8a11-4265-85fc-1d2222d0d6db_1203/009.webp"
+    },
+    {
+      "index": 1198,
+      "src": "/data/explorer/93d16e5d-8a11-4265-85fc-1d2222d0d6db_1203/010.webp"
+    },
+    {
+      "index": 1199,
+      "src": "/data/explorer/93d16e5d-8a11-4265-85fc-1d2222d0d6db_1203/011.webp"
+    },
+    {
+      "index": 1200,
+      "src": "/data/explorer/93d16e5d-8a11-4265-85fc-1d2222d0d6db_1203/012.webp"
+    },
+    {
+      "index": 1201,
+      "src": "/data/explorer/93d16e5d-8a11-4265-85fc-1d2222d0d6db_1203/013.webp"
+    },
+    {
+      "index": 1202,
+      "src": "/data/explorer/93d16e5d-8a11-4265-85fc-1d2222d0d6db_1203/014.webp"
+    },
+    {
+      "index": 1203,
+      "src": "/data/explorer/93d16e5d-8a11-4265-85fc-1d2222d0d6db_1203/015.webp"
+    }
+  ]
+}

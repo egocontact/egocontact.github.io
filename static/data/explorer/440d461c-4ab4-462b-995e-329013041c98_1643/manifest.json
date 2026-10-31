@@ -1,0 +1,118 @@
+{
+  "event": "440d461c-4ab4-462b-995e-329013041c98_1643",
+  "action": "hold pruning shears",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 1628,
+  "observation": 1628,
+  "contact": 1643,
+  "anchors": {
+    "1628": {
+      "contact_thumb": {
+        "x": 974.8505741358579,
+        "y": 507.43251119343006,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1006.0059173199465,
+        "y": 482.61918638842445,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          1053.0646849707734,
+          393.66906474820144,
+          858.8200806542266,
+          401.4388489208633,
+          858.8200806542266,
+          673.3812949640287,
+          1060.8344691434352,
+          670.7913669064748
+        ]
+      }
+    },
+    "1643": {
+      "contact_thumb": {
+        "x": 918.1479065879539,
+        "y": 510.53417679405584,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 977.3430586377223,
+        "y": 498.12751439155295,
+        "occluded": true,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 1628,
+      "src": "/data/explorer/440d461c-4ab4-462b-995e-329013041c98_1643/000.webp"
+    },
+    {
+      "index": 1629,
+      "src": "/data/explorer/440d461c-4ab4-462b-995e-329013041c98_1643/001.webp"
+    },
+    {
+      "index": 1630,
+      "src": "/data/explorer/440d461c-4ab4-462b-995e-329013041c98_1643/002.webp"
+    },
+    {
+      "index": 1631,
+      "src": "/data/explorer/440d461c-4ab4-462b-995e-329013041c98_1643/003.webp"
+    },
+    {
+      "index": 1632,
+      "src": "/data/explorer/440d461c-4ab4-462b-995e-329013041c98_1643/004.webp"
+    },
+    {
+      "index": 1633,
+      "src": "/data/explorer/440d461c-4ab4-462b-995e-329013041c98_1643/005.webp"
+    },
+    {
+      "index": 1634,
+      "src": "/data/explorer/440d461c-4ab4-462b-995e-329013041c98_1643/006.webp"
+    },
+    {
+      "index": 1635,
+      "src": "/data/explorer/440d461c-4ab4-462b-995e-329013041c98_1643/007.webp"
+    },
+    {
+      "index": 1636,
+      "src": "/data/explorer/440d461c-4ab4-462b-995e-329013041c98_1643/008.webp"
+    },
+    {
+      "index": 1637,
+      "src": "/data/explorer/440d461c-4ab4-462b-995e-329013041c98_1643/009.webp"
+    },
+    {
+      "index": 1638,
+      "src": "/data/explorer/440d461c-4ab4-462b-995e-329013041c98_1643/010.webp"
+    },
+    {
+      "index": 1639,
+      "src": "/data/explorer/440d461c-4ab4-462b-995e-329013041c98_1643/011.webp"
+    },
+    {
+      "index": 1640,
+      "src": "/data/explorer/440d461c-4ab4-462b-995e-329013041c98_1643/012.webp"
+    },
+    {
+      "index": 1641,
+      "src": "/data/explorer/440d461c-4ab4-462b-995e-329013041c98_1643/013.webp"
+    },
+    {
+      "index": 1642,
+      "src": "/data/explorer/440d461c-4ab4-462b-995e-329013041c98_1643/014.webp"
+    },
+    {
+      "index": 1643,
+      "src": "/data/explorer/440d461c-4ab4-462b-995e-329013041c98_1643/015.webp"
+    }
+  ]
+}

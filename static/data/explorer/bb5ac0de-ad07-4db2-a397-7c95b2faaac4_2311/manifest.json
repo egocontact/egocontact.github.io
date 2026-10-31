@@ -1,0 +1,118 @@
+{
+  "event": "bb5ac0de-ad07-4db2-a397-7c95b2faaac4_2311",
+  "action": "pick up the electric drill from the workbench",
+  "width": 1920,
+  "height": 1440,
+  "fps": 30.0,
+  "first": 2296,
+  "observation": 2296,
+  "contact": 2311,
+  "anchors": {
+    "2296": {
+      "contact_index": {
+        "x": 1672.4118016641078,
+        "y": 979.3014382154388,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 1616.8997044850844,
+        "y": 1062.3284582857027,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          1453.6472077851242,
+          832.2456942490903,
+          1615.4496834244637,
+          828.8748093399373,
+          1639.045877788534,
+          1435.6340929874602,
+          1878.3787063383902,
+          1435.6340929874602
+        ]
+      }
+    },
+    "2311": {
+      "contact_thumb": {
+        "x": 1641.6270746594746,
+        "y": 959.5331001034712,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1677.3134228459896,
+        "y": 860.6914095436332,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 2296,
+      "src": "/data/explorer/bb5ac0de-ad07-4db2-a397-7c95b2faaac4_2311/000.webp"
+    },
+    {
+      "index": 2297,
+      "src": "/data/explorer/bb5ac0de-ad07-4db2-a397-7c95b2faaac4_2311/001.webp"
+    },
+    {
+      "index": 2298,
+      "src": "/data/explorer/bb5ac0de-ad07-4db2-a397-7c95b2faaac4_2311/002.webp"
+    },
+    {
+      "index": 2299,
+      "src": "/data/explorer/bb5ac0de-ad07-4db2-a397-7c95b2faaac4_2311/003.webp"
+    },
+    {
+      "index": 2300,
+      "src": "/data/explorer/bb5ac0de-ad07-4db2-a397-7c95b2faaac4_2311/004.webp"
+    },
+    {
+      "index": 2301,
+      "src": "/data/explorer/bb5ac0de-ad07-4db2-a397-7c95b2faaac4_2311/005.webp"
+    },
+    {
+      "index": 2302,
+      "src": "/data/explorer/bb5ac0de-ad07-4db2-a397-7c95b2faaac4_2311/006.webp"
+    },
+    {
+      "index": 2303,
+      "src": "/data/explorer/bb5ac0de-ad07-4db2-a397-7c95b2faaac4_2311/007.webp"
+    },
+    {
+      "index": 2304,
+      "src": "/data/explorer/bb5ac0de-ad07-4db2-a397-7c95b2faaac4_2311/008.webp"
+    },
+    {
+      "index": 2305,
+      "src": "/data/explorer/bb5ac0de-ad07-4db2-a397-7c95b2faaac4_2311/009.webp"
+    },
+    {
+      "index": 2306,
+      "src": "/data/explorer/bb5ac0de-ad07-4db2-a397-7c95b2faaac4_2311/010.webp"
+    },
+    {
+      "index": 2307,
+      "src": "/data/explorer/bb5ac0de-ad07-4db2-a397-7c95b2faaac4_2311/011.webp"
+    },
+    {
+      "index": 2308,
+      "src": "/data/explorer/bb5ac0de-ad07-4db2-a397-7c95b2faaac4_2311/012.webp"
+    },
+    {
+      "index": 2309,
+      "src": "/data/explorer/bb5ac0de-ad07-4db2-a397-7c95b2faaac4_2311/013.webp"
+    },
+    {
+      "index": 2310,
+      "src": "/data/explorer/bb5ac0de-ad07-4db2-a397-7c95b2faaac4_2311/014.webp"
+    },
+    {
+      "index": 2311,
+      "src": "/data/explorer/bb5ac0de-ad07-4db2-a397-7c95b2faaac4_2311/015.webp"
+    }
+  ]
+}

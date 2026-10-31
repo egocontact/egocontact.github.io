@@ -1,0 +1,118 @@
+{
+  "event": "9b657b29-ee00-4999-beea-2fe1d5d19cd2_12441",
+  "action": "dip ladle into batter in pot",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 12426,
+  "observation": 12426,
+  "contact": 12441,
+  "anchors": {
+    "12426": {
+      "contact_index": {
+        "x": 933.9603564829605,
+        "y": 516.0929752471872,
+        "occluded": true,
+        "hard_sample": true
+      },
+      "contact_thumb": {
+        "x": 943.9507209500114,
+        "y": 555.9494575430311,
+        "occluded": true,
+        "hard_sample": true
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          964.358896108774,
+          511.8589782714844,
+          872.0512038010817,
+          523.3974398099459,
+          881.281973031851,
+          606.474362886869,
+          945.8973576472356,
+          606.474362886869
+        ]
+      }
+    },
+    "12441": {
+      "contact_index": {
+        "x": 973.6442957581424,
+        "y": 526.0570958211481,
+        "occluded": true,
+        "hard_sample": true
+      },
+      "contact_thumb": {
+        "x": 978.6394779916678,
+        "y": 573.3866685474629,
+        "occluded": true,
+        "hard_sample": true
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 12426,
+      "src": "/data/explorer/9b657b29-ee00-4999-beea-2fe1d5d19cd2_12441/000.webp"
+    },
+    {
+      "index": 12427,
+      "src": "/data/explorer/9b657b29-ee00-4999-beea-2fe1d5d19cd2_12441/001.webp"
+    },
+    {
+      "index": 12428,
+      "src": "/data/explorer/9b657b29-ee00-4999-beea-2fe1d5d19cd2_12441/002.webp"
+    },
+    {
+      "index": 12429,
+      "src": "/data/explorer/9b657b29-ee00-4999-beea-2fe1d5d19cd2_12441/003.webp"
+    },
+    {
+      "index": 12430,
+      "src": "/data/explorer/9b657b29-ee00-4999-beea-2fe1d5d19cd2_12441/004.webp"
+    },
+    {
+      "index": 12431,
+      "src": "/data/explorer/9b657b29-ee00-4999-beea-2fe1d5d19cd2_12441/005.webp"
+    },
+    {
+      "index": 12432,
+      "src": "/data/explorer/9b657b29-ee00-4999-beea-2fe1d5d19cd2_12441/006.webp"
+    },
+    {
+      "index": 12433,
+      "src": "/data/explorer/9b657b29-ee00-4999-beea-2fe1d5d19cd2_12441/007.webp"
+    },
+    {
+      "index": 12434,
+      "src": "/data/explorer/9b657b29-ee00-4999-beea-2fe1d5d19cd2_12441/008.webp"
+    },
+    {
+      "index": 12435,
+      "src": "/data/explorer/9b657b29-ee00-4999-beea-2fe1d5d19cd2_12441/009.webp"
+    },
+    {
+      "index": 12436,
+      "src": "/data/explorer/9b657b29-ee00-4999-beea-2fe1d5d19cd2_12441/010.webp"
+    },
+    {
+      "index": 12437,
+      "src": "/data/explorer/9b657b29-ee00-4999-beea-2fe1d5d19cd2_12441/011.webp"
+    },
+    {
+      "index": 12438,
+      "src": "/data/explorer/9b657b29-ee00-4999-beea-2fe1d5d19cd2_12441/012.webp"
+    },
+    {
+      "index": 12439,
+      "src": "/data/explorer/9b657b29-ee00-4999-beea-2fe1d5d19cd2_12441/013.webp"
+    },
+    {
+      "index": 12440,
+      "src": "/data/explorer/9b657b29-ee00-4999-beea-2fe1d5d19cd2_12441/014.webp"
+    },
+    {
+      "index": 12441,
+      "src": "/data/explorer/9b657b29-ee00-4999-beea-2fe1d5d19cd2_12441/015.webp"
+    }
+  ]
+}

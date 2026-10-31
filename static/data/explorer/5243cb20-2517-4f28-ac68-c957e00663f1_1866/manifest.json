@@ -1,0 +1,118 @@
+{
+  "event": "5243cb20-2517-4f28-ac68-c957e00663f1_1866",
+  "action": "lift the wooden board from the ground",
+  "width": 2560,
+  "height": 1920,
+  "fps": 30.0,
+  "first": 1851,
+  "observation": 1851,
+  "contact": 1866,
+  "anchors": {
+    "1851": {
+      "contact_index": {
+        "x": 1429.81910604115,
+        "y": 416.86837096822745,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 1444.9015880047941,
+        "y": 475.99163410635504,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          1216.8766053082193,
+          334.21814766561965,
+          1181.8081121575342,
+          483.34436125785265,
+          2154.958797089041,
+          535.9771425256996,
+          2159.3423587328766,
+          417.553384673044
+        ]
+      }
+    },
+    "1866": {
+      "contact_thumb": {
+        "x": 1494.1711211421966,
+        "y": 487.01450652074294,
+        "occluded": true,
+        "hard_sample": true
+      },
+      "contact_index": {
+        "x": 1474.0611451906707,
+        "y": 416.86837096822745,
+        "occluded": true,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 1851,
+      "src": "/data/explorer/5243cb20-2517-4f28-ac68-c957e00663f1_1866/000.webp"
+    },
+    {
+      "index": 1852,
+      "src": "/data/explorer/5243cb20-2517-4f28-ac68-c957e00663f1_1866/001.webp"
+    },
+    {
+      "index": 1853,
+      "src": "/data/explorer/5243cb20-2517-4f28-ac68-c957e00663f1_1866/002.webp"
+    },
+    {
+      "index": 1854,
+      "src": "/data/explorer/5243cb20-2517-4f28-ac68-c957e00663f1_1866/003.webp"
+    },
+    {
+      "index": 1855,
+      "src": "/data/explorer/5243cb20-2517-4f28-ac68-c957e00663f1_1866/004.webp"
+    },
+    {
+      "index": 1856,
+      "src": "/data/explorer/5243cb20-2517-4f28-ac68-c957e00663f1_1866/005.webp"
+    },
+    {
+      "index": 1857,
+      "src": "/data/explorer/5243cb20-2517-4f28-ac68-c957e00663f1_1866/006.webp"
+    },
+    {
+      "index": 1858,
+      "src": "/data/explorer/5243cb20-2517-4f28-ac68-c957e00663f1_1866/007.webp"
+    },
+    {
+      "index": 1859,
+      "src": "/data/explorer/5243cb20-2517-4f28-ac68-c957e00663f1_1866/008.webp"
+    },
+    {
+      "index": 1860,
+      "src": "/data/explorer/5243cb20-2517-4f28-ac68-c957e00663f1_1866/009.webp"
+    },
+    {
+      "index": 1861,
+      "src": "/data/explorer/5243cb20-2517-4f28-ac68-c957e00663f1_1866/010.webp"
+    },
+    {
+      "index": 1862,
+      "src": "/data/explorer/5243cb20-2517-4f28-ac68-c957e00663f1_1866/011.webp"
+    },
+    {
+      "index": 1863,
+      "src": "/data/explorer/5243cb20-2517-4f28-ac68-c957e00663f1_1866/012.webp"
+    },
+    {
+      "index": 1864,
+      "src": "/data/explorer/5243cb20-2517-4f28-ac68-c957e00663f1_1866/013.webp"
+    },
+    {
+      "index": 1865,
+      "src": "/data/explorer/5243cb20-2517-4f28-ac68-c957e00663f1_1866/014.webp"
+    },
+    {
+      "index": 1866,
+      "src": "/data/explorer/5243cb20-2517-4f28-ac68-c957e00663f1_1866/015.webp"
+    }
+  ]
+}

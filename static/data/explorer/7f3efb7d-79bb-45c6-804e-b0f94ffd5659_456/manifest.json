@@ -1,0 +1,106 @@
+{
+  "event": "7f3efb7d-79bb-45c6-804e-b0f94ffd5659_456",
+  "action": "pick up the tongs from the counter",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 441,
+  "observation": 441,
+  "contact": 456,
+  "anchors": {
+    "441": {
+      "contact_thumb": {
+        "x": 679.1489361702128,
+        "y": 712.9752489546655,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 689.3617021276596,
+        "y": 647.059755996919,
+        "occluded": false,
+        "hard_sample": false
+      }
+    },
+    "456": {
+      "contact_thumb": {
+        "x": 738.7233523105053,
+        "y": 682.5527137433978,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 743.8297352892287,
+        "y": 631.8484883912853,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 441,
+      "src": "/data/explorer/7f3efb7d-79bb-45c6-804e-b0f94ffd5659_456/000.webp"
+    },
+    {
+      "index": 442,
+      "src": "/data/explorer/7f3efb7d-79bb-45c6-804e-b0f94ffd5659_456/001.webp"
+    },
+    {
+      "index": 443,
+      "src": "/data/explorer/7f3efb7d-79bb-45c6-804e-b0f94ffd5659_456/002.webp"
+    },
+    {
+      "index": 444,
+      "src": "/data/explorer/7f3efb7d-79bb-45c6-804e-b0f94ffd5659_456/003.webp"
+    },
+    {
+      "index": 445,
+      "src": "/data/explorer/7f3efb7d-79bb-45c6-804e-b0f94ffd5659_456/004.webp"
+    },
+    {
+      "index": 446,
+      "src": "/data/explorer/7f3efb7d-79bb-45c6-804e-b0f94ffd5659_456/005.webp"
+    },
+    {
+      "index": 447,
+      "src": "/data/explorer/7f3efb7d-79bb-45c6-804e-b0f94ffd5659_456/006.webp"
+    },
+    {
+      "index": 448,
+      "src": "/data/explorer/7f3efb7d-79bb-45c6-804e-b0f94ffd5659_456/007.webp"
+    },
+    {
+      "index": 449,
+      "src": "/data/explorer/7f3efb7d-79bb-45c6-804e-b0f94ffd5659_456/008.webp"
+    },
+    {
+      "index": 450,
+      "src": "/data/explorer/7f3efb7d-79bb-45c6-804e-b0f94ffd5659_456/009.webp"
+    },
+    {
+      "index": 451,
+      "src": "/data/explorer/7f3efb7d-79bb-45c6-804e-b0f94ffd5659_456/010.webp"
+    },
+    {
+      "index": 452,
+      "src": "/data/explorer/7f3efb7d-79bb-45c6-804e-b0f94ffd5659_456/011.webp"
+    },
+    {
+      "index": 453,
+      "src": "/data/explorer/7f3efb7d-79bb-45c6-804e-b0f94ffd5659_456/012.webp"
+    },
+    {
+      "index": 454,
+      "src": "/data/explorer/7f3efb7d-79bb-45c6-804e-b0f94ffd5659_456/013.webp"
+    },
+    {
+      "index": 455,
+      "src": "/data/explorer/7f3efb7d-79bb-45c6-804e-b0f94ffd5659_456/014.webp"
+    },
+    {
+      "index": 456,
+      "src": "/data/explorer/7f3efb7d-79bb-45c6-804e-b0f94ffd5659_456/015.webp"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "event": "16bdfa0d-6710-4b8d-a0af-82a70df3a44a_1646",
+  "action": "knit a piece of fabric using a needle and yarn",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 1631,
+  "observation": 1631,
+  "contact": 1646,
+  "anchors": {
+    "1631": {
+      "contact_thumb": {
+        "x": 939.4352296856293,
+        "y": 481.99881540617037,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 877.1178015141116,
+        "y": 401.355509789902,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          1140.239,
+          228.048,
+          890.677,
+          215.139,
+          748.685,
+          722.869,
+          1067.092,
+          731.474
+        ]
+      }
+    },
+    "1646": {
+      "contact_thumb": {
+        "x": 1065.3164155743252,
+        "y": 565.7437866230645,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1046.62118712287,
+        "y": 426.1688345949077,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 1631,
+      "src": "/data/explorer/16bdfa0d-6710-4b8d-a0af-82a70df3a44a_1646/000.webp"
+    },
+    {
+      "index": 1632,
+      "src": "/data/explorer/16bdfa0d-6710-4b8d-a0af-82a70df3a44a_1646/001.webp"
+    },
+    {
+      "index": 1633,
+      "src": "/data/explorer/16bdfa0d-6710-4b8d-a0af-82a70df3a44a_1646/002.webp"
+    },
+    {
+      "index": 1634,
+      "src": "/data/explorer/16bdfa0d-6710-4b8d-a0af-82a70df3a44a_1646/003.webp"
+    },
+    {
+      "index": 1635,
+      "src": "/data/explorer/16bdfa0d-6710-4b8d-a0af-82a70df3a44a_1646/004.webp"
+    },
+    {
+      "index": 1636,
+      "src": "/data/explorer/16bdfa0d-6710-4b8d-a0af-82a70df3a44a_1646/005.webp"
+    },
+    {
+      "index": 1637,
+      "src": "/data/explorer/16bdfa0d-6710-4b8d-a0af-82a70df3a44a_1646/006.webp"
+    },
+    {
+      "index": 1638,
+      "src": "/data/explorer/16bdfa0d-6710-4b8d-a0af-82a70df3a44a_1646/007.webp"
+    },
+    {
+      "index": 1639,
+      "src": "/data/explorer/16bdfa0d-6710-4b8d-a0af-82a70df3a44a_1646/008.webp"
+    },
+    {
+      "index": 1640,
+      "src": "/data/explorer/16bdfa0d-6710-4b8d-a0af-82a70df3a44a_1646/009.webp"
+    },
+    {
+      "index": 1641,
+      "src": "/data/explorer/16bdfa0d-6710-4b8d-a0af-82a70df3a44a_1646/010.webp"
+    },
+    {
+      "index": 1642,
+      "src": "/data/explorer/16bdfa0d-6710-4b8d-a0af-82a70df3a44a_1646/011.webp"
+    },
+    {
+      "index": 1643,
+      "src": "/data/explorer/16bdfa0d-6710-4b8d-a0af-82a70df3a44a_1646/012.webp"
+    },
+    {
+      "index": 1644,
+      "src": "/data/explorer/16bdfa0d-6710-4b8d-a0af-82a70df3a44a_1646/013.webp"
+    },
+    {
+      "index": 1645,
+      "src": "/data/explorer/16bdfa0d-6710-4b8d-a0af-82a70df3a44a_1646/014.webp"
+    },
+    {
+      "index": 1646,
+      "src": "/data/explorer/16bdfa0d-6710-4b8d-a0af-82a70df3a44a_1646/015.webp"
+    }
+  ]
+}

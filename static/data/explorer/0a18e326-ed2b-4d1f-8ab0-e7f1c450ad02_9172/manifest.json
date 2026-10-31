@@ -1,0 +1,118 @@
+{
+  "event": "0a18e326-ed2b-4d1f-8ab0-e7f1c450ad02_9172",
+  "action": "pick a seed from the ground",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 9157,
+  "observation": 9157,
+  "contact": 9172,
+  "anchors": {
+    "9157": {
+      "contact_index": {
+        "x": 705.9773244400931,
+        "y": 52.688210768885824,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 695.4144630634114,
+        "y": 92.79504392638876,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          749.5275409276944,
+          12.501384369719796,
+          669.8986186903137,
+          25.07419937481911,
+          678.2806105047749,
+          108.8929660754812,
+          747.4320429740791,
+          106.79749690796464
+        ]
+      }
+    },
+    "9172": {
+      "contact_index": {
+        "x": 676.5993017656077,
+        "y": 139.23453495086582,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 668.1490126642624,
+        "y": 181.4522540640268,
+        "occluded": true,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 9157,
+      "src": "/data/explorer/0a18e326-ed2b-4d1f-8ab0-e7f1c450ad02_9172/000.webp"
+    },
+    {
+      "index": 9158,
+      "src": "/data/explorer/0a18e326-ed2b-4d1f-8ab0-e7f1c450ad02_9172/001.webp"
+    },
+    {
+      "index": 9159,
+      "src": "/data/explorer/0a18e326-ed2b-4d1f-8ab0-e7f1c450ad02_9172/002.webp"
+    },
+    {
+      "index": 9160,
+      "src": "/data/explorer/0a18e326-ed2b-4d1f-8ab0-e7f1c450ad02_9172/003.webp"
+    },
+    {
+      "index": 9161,
+      "src": "/data/explorer/0a18e326-ed2b-4d1f-8ab0-e7f1c450ad02_9172/004.webp"
+    },
+    {
+      "index": 9162,
+      "src": "/data/explorer/0a18e326-ed2b-4d1f-8ab0-e7f1c450ad02_9172/005.webp"
+    },
+    {
+      "index": 9163,
+      "src": "/data/explorer/0a18e326-ed2b-4d1f-8ab0-e7f1c450ad02_9172/006.webp"
+    },
+    {
+      "index": 9164,
+      "src": "/data/explorer/0a18e326-ed2b-4d1f-8ab0-e7f1c450ad02_9172/007.webp"
+    },
+    {
+      "index": 9165,
+      "src": "/data/explorer/0a18e326-ed2b-4d1f-8ab0-e7f1c450ad02_9172/008.webp"
+    },
+    {
+      "index": 9166,
+      "src": "/data/explorer/0a18e326-ed2b-4d1f-8ab0-e7f1c450ad02_9172/009.webp"
+    },
+    {
+      "index": 9167,
+      "src": "/data/explorer/0a18e326-ed2b-4d1f-8ab0-e7f1c450ad02_9172/010.webp"
+    },
+    {
+      "index": 9168,
+      "src": "/data/explorer/0a18e326-ed2b-4d1f-8ab0-e7f1c450ad02_9172/011.webp"
+    },
+    {
+      "index": 9169,
+      "src": "/data/explorer/0a18e326-ed2b-4d1f-8ab0-e7f1c450ad02_9172/012.webp"
+    },
+    {
+      "index": 9170,
+      "src": "/data/explorer/0a18e326-ed2b-4d1f-8ab0-e7f1c450ad02_9172/013.webp"
+    },
+    {
+      "index": 9171,
+      "src": "/data/explorer/0a18e326-ed2b-4d1f-8ab0-e7f1c450ad02_9172/014.webp"
+    },
+    {
+      "index": 9172,
+      "src": "/data/explorer/0a18e326-ed2b-4d1f-8ab0-e7f1c450ad02_9172/015.webp"
+    }
+  ]
+}

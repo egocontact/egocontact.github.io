@@ -1,0 +1,118 @@
+{
+  "event": "c7242152-97a7-42bd-99c9-98d6b4c32fc7_7571",
+  "action": "pick the blade of grass from the ground",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 7556,
+  "observation": 7556,
+  "contact": 7571,
+  "anchors": {
+    "7556": {
+      "contact_thumb": {
+        "x": 630.6362771048769,
+        "y": 869.1857588674984,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 636.2922078412435,
+        "y": 798.7264709241235,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          572.4,
+          831.6,
+          598.32,
+          764.64,
+          693.36,
+          818.64,
+          613.44,
+          857.52
+        ]
+      }
+    },
+    "7571": {
+      "contact_thumb": {
+        "x": 677.0148918825522,
+        "y": 967.8287619882233,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 685.498787987102,
+        "y": 877.6408734207034,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 7556,
+      "src": "/data/explorer/c7242152-97a7-42bd-99c9-98d6b4c32fc7_7571/000.webp"
+    },
+    {
+      "index": 7557,
+      "src": "/data/explorer/c7242152-97a7-42bd-99c9-98d6b4c32fc7_7571/001.webp"
+    },
+    {
+      "index": 7558,
+      "src": "/data/explorer/c7242152-97a7-42bd-99c9-98d6b4c32fc7_7571/002.webp"
+    },
+    {
+      "index": 7559,
+      "src": "/data/explorer/c7242152-97a7-42bd-99c9-98d6b4c32fc7_7571/003.webp"
+    },
+    {
+      "index": 7560,
+      "src": "/data/explorer/c7242152-97a7-42bd-99c9-98d6b4c32fc7_7571/004.webp"
+    },
+    {
+      "index": 7561,
+      "src": "/data/explorer/c7242152-97a7-42bd-99c9-98d6b4c32fc7_7571/005.webp"
+    },
+    {
+      "index": 7562,
+      "src": "/data/explorer/c7242152-97a7-42bd-99c9-98d6b4c32fc7_7571/006.webp"
+    },
+    {
+      "index": 7563,
+      "src": "/data/explorer/c7242152-97a7-42bd-99c9-98d6b4c32fc7_7571/007.webp"
+    },
+    {
+      "index": 7564,
+      "src": "/data/explorer/c7242152-97a7-42bd-99c9-98d6b4c32fc7_7571/008.webp"
+    },
+    {
+      "index": 7565,
+      "src": "/data/explorer/c7242152-97a7-42bd-99c9-98d6b4c32fc7_7571/009.webp"
+    },
+    {
+      "index": 7566,
+      "src": "/data/explorer/c7242152-97a7-42bd-99c9-98d6b4c32fc7_7571/010.webp"
+    },
+    {
+      "index": 7567,
+      "src": "/data/explorer/c7242152-97a7-42bd-99c9-98d6b4c32fc7_7571/011.webp"
+    },
+    {
+      "index": 7568,
+      "src": "/data/explorer/c7242152-97a7-42bd-99c9-98d6b4c32fc7_7571/012.webp"
+    },
+    {
+      "index": 7569,
+      "src": "/data/explorer/c7242152-97a7-42bd-99c9-98d6b4c32fc7_7571/013.webp"
+    },
+    {
+      "index": 7570,
+      "src": "/data/explorer/c7242152-97a7-42bd-99c9-98d6b4c32fc7_7571/014.webp"
+    },
+    {
+      "index": 7571,
+      "src": "/data/explorer/c7242152-97a7-42bd-99c9-98d6b4c32fc7_7571/015.webp"
+    }
+  ]
+}

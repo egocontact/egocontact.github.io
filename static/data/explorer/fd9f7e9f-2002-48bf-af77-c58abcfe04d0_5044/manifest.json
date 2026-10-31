@@ -1,0 +1,118 @@
+{
+  "event": "fd9f7e9f-2002-48bf-af77-c58abcfe04d0_5044",
+  "action": "pick up the screwdriver from the workbench",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 5029,
+  "observation": 5029,
+  "contact": 5044,
+  "anchors": {
+    "5029": {
+      "contact_index": {
+        "x": 817.1510859632715,
+        "y": 605.6524589054071,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 846.8897094520341,
+        "y": 638.2702167901537,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          831.1477257211707,
+          578.5758588019975,
+          902.4592041040307,
+          630.215205217172,
+          764.754280330232,
+          630.215205217172,
+          831.1477257211707,
+          699.0676671040715
+        ]
+      }
+    },
+    "5044": {
+      "contact_thumb": {
+        "x": 880.3045488272081,
+        "y": 1005.9613056727509,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 880.3045488272081,
+        "y": 958.5172942040286,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 5029,
+      "src": "/data/explorer/fd9f7e9f-2002-48bf-af77-c58abcfe04d0_5044/000.webp"
+    },
+    {
+      "index": 5030,
+      "src": "/data/explorer/fd9f7e9f-2002-48bf-af77-c58abcfe04d0_5044/001.webp"
+    },
+    {
+      "index": 5031,
+      "src": "/data/explorer/fd9f7e9f-2002-48bf-af77-c58abcfe04d0_5044/002.webp"
+    },
+    {
+      "index": 5032,
+      "src": "/data/explorer/fd9f7e9f-2002-48bf-af77-c58abcfe04d0_5044/003.webp"
+    },
+    {
+      "index": 5033,
+      "src": "/data/explorer/fd9f7e9f-2002-48bf-af77-c58abcfe04d0_5044/004.webp"
+    },
+    {
+      "index": 5034,
+      "src": "/data/explorer/fd9f7e9f-2002-48bf-af77-c58abcfe04d0_5044/005.webp"
+    },
+    {
+      "index": 5035,
+      "src": "/data/explorer/fd9f7e9f-2002-48bf-af77-c58abcfe04d0_5044/006.webp"
+    },
+    {
+      "index": 5036,
+      "src": "/data/explorer/fd9f7e9f-2002-48bf-af77-c58abcfe04d0_5044/007.webp"
+    },
+    {
+      "index": 5037,
+      "src": "/data/explorer/fd9f7e9f-2002-48bf-af77-c58abcfe04d0_5044/008.webp"
+    },
+    {
+      "index": 5038,
+      "src": "/data/explorer/fd9f7e9f-2002-48bf-af77-c58abcfe04d0_5044/009.webp"
+    },
+    {
+      "index": 5039,
+      "src": "/data/explorer/fd9f7e9f-2002-48bf-af77-c58abcfe04d0_5044/010.webp"
+    },
+    {
+      "index": 5040,
+      "src": "/data/explorer/fd9f7e9f-2002-48bf-af77-c58abcfe04d0_5044/011.webp"
+    },
+    {
+      "index": 5041,
+      "src": "/data/explorer/fd9f7e9f-2002-48bf-af77-c58abcfe04d0_5044/012.webp"
+    },
+    {
+      "index": 5042,
+      "src": "/data/explorer/fd9f7e9f-2002-48bf-af77-c58abcfe04d0_5044/013.webp"
+    },
+    {
+      "index": 5043,
+      "src": "/data/explorer/fd9f7e9f-2002-48bf-af77-c58abcfe04d0_5044/014.webp"
+    },
+    {
+      "index": 5044,
+      "src": "/data/explorer/fd9f7e9f-2002-48bf-af77-c58abcfe04d0_5044/015.webp"
+    }
+  ]
+}

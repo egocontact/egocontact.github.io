@@ -1,0 +1,118 @@
+{
+  "event": "eea0adb3-b69c-4d32-ab77-d42d52e31e79_14329",
+  "action": "take a jar from the cabinet",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 14314,
+  "observation": 14314,
+  "contact": 14329,
+  "anchors": {
+    "14314": {
+      "contact_thumb": {
+        "x": 854.0374407465537,
+        "y": 417.28213822880946,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 849.0422585130283,
+        "y": 310.1678420587286,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          835.1281268780048,
+          340.06411038912256,
+          918.2050499549279,
+          344.6794950045072,
+          897.435819185697,
+          439.2948796198918,
+          807.4358191856971,
+          490.06411038912256
+        ]
+      }
+    },
+    "14329": {
+      "contact_thumb": {
+        "x": 911.2045178390745,
+        "y": 404.8269875113582,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 906.2093356055491,
+        "y": 307.6768119152383,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 14314,
+      "src": "/data/explorer/eea0adb3-b69c-4d32-ab77-d42d52e31e79_14329/000.webp"
+    },
+    {
+      "index": 14315,
+      "src": "/data/explorer/eea0adb3-b69c-4d32-ab77-d42d52e31e79_14329/001.webp"
+    },
+    {
+      "index": 14316,
+      "src": "/data/explorer/eea0adb3-b69c-4d32-ab77-d42d52e31e79_14329/002.webp"
+    },
+    {
+      "index": 14317,
+      "src": "/data/explorer/eea0adb3-b69c-4d32-ab77-d42d52e31e79_14329/003.webp"
+    },
+    {
+      "index": 14318,
+      "src": "/data/explorer/eea0adb3-b69c-4d32-ab77-d42d52e31e79_14329/004.webp"
+    },
+    {
+      "index": 14319,
+      "src": "/data/explorer/eea0adb3-b69c-4d32-ab77-d42d52e31e79_14329/005.webp"
+    },
+    {
+      "index": 14320,
+      "src": "/data/explorer/eea0adb3-b69c-4d32-ab77-d42d52e31e79_14329/006.webp"
+    },
+    {
+      "index": 14321,
+      "src": "/data/explorer/eea0adb3-b69c-4d32-ab77-d42d52e31e79_14329/007.webp"
+    },
+    {
+      "index": 14322,
+      "src": "/data/explorer/eea0adb3-b69c-4d32-ab77-d42d52e31e79_14329/008.webp"
+    },
+    {
+      "index": 14323,
+      "src": "/data/explorer/eea0adb3-b69c-4d32-ab77-d42d52e31e79_14329/009.webp"
+    },
+    {
+      "index": 14324,
+      "src": "/data/explorer/eea0adb3-b69c-4d32-ab77-d42d52e31e79_14329/010.webp"
+    },
+    {
+      "index": 14325,
+      "src": "/data/explorer/eea0adb3-b69c-4d32-ab77-d42d52e31e79_14329/011.webp"
+    },
+    {
+      "index": 14326,
+      "src": "/data/explorer/eea0adb3-b69c-4d32-ab77-d42d52e31e79_14329/012.webp"
+    },
+    {
+      "index": 14327,
+      "src": "/data/explorer/eea0adb3-b69c-4d32-ab77-d42d52e31e79_14329/013.webp"
+    },
+    {
+      "index": 14328,
+      "src": "/data/explorer/eea0adb3-b69c-4d32-ab77-d42d52e31e79_14329/014.webp"
+    },
+    {
+      "index": 14329,
+      "src": "/data/explorer/eea0adb3-b69c-4d32-ab77-d42d52e31e79_14329/015.webp"
+    }
+  ]
+}

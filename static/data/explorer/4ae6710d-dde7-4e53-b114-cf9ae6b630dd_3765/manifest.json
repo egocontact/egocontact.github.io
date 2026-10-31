@@ -1,0 +1,118 @@
+{
+  "event": "4ae6710d-dde7-4e53-b114-cf9ae6b630dd_3765",
+  "action": "pick vegetable 2",
+  "width": 1920,
+  "height": 1440,
+  "fps": 30.0,
+  "first": 3750,
+  "observation": 3750,
+  "contact": 3765,
+  "anchors": {
+    "3750": {
+      "contact_thumb": {
+        "x": 931.3432612550348,
+        "y": 949.227550109113,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 942.655122727768,
+        "y": 900.3757771350397,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          946.909,
+          894.545,
+          1025.455,
+          912.0,
+          1003.636,
+          964.364,
+          929.455,
+          942.545
+        ]
+      }
+    },
+    "3765": {
+      "contact_thumb": {
+        "x": 929.0808659464469,
+        "y": 949.227550109113,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 936.6221069282691,
+        "y": 900.3757771350397,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 3750,
+      "src": "/data/explorer/4ae6710d-dde7-4e53-b114-cf9ae6b630dd_3765/000.webp"
+    },
+    {
+      "index": 3751,
+      "src": "/data/explorer/4ae6710d-dde7-4e53-b114-cf9ae6b630dd_3765/001.webp"
+    },
+    {
+      "index": 3752,
+      "src": "/data/explorer/4ae6710d-dde7-4e53-b114-cf9ae6b630dd_3765/002.webp"
+    },
+    {
+      "index": 3753,
+      "src": "/data/explorer/4ae6710d-dde7-4e53-b114-cf9ae6b630dd_3765/003.webp"
+    },
+    {
+      "index": 3754,
+      "src": "/data/explorer/4ae6710d-dde7-4e53-b114-cf9ae6b630dd_3765/004.webp"
+    },
+    {
+      "index": 3755,
+      "src": "/data/explorer/4ae6710d-dde7-4e53-b114-cf9ae6b630dd_3765/005.webp"
+    },
+    {
+      "index": 3756,
+      "src": "/data/explorer/4ae6710d-dde7-4e53-b114-cf9ae6b630dd_3765/006.webp"
+    },
+    {
+      "index": 3757,
+      "src": "/data/explorer/4ae6710d-dde7-4e53-b114-cf9ae6b630dd_3765/007.webp"
+    },
+    {
+      "index": 3758,
+      "src": "/data/explorer/4ae6710d-dde7-4e53-b114-cf9ae6b630dd_3765/008.webp"
+    },
+    {
+      "index": 3759,
+      "src": "/data/explorer/4ae6710d-dde7-4e53-b114-cf9ae6b630dd_3765/009.webp"
+    },
+    {
+      "index": 3760,
+      "src": "/data/explorer/4ae6710d-dde7-4e53-b114-cf9ae6b630dd_3765/010.webp"
+    },
+    {
+      "index": 3761,
+      "src": "/data/explorer/4ae6710d-dde7-4e53-b114-cf9ae6b630dd_3765/011.webp"
+    },
+    {
+      "index": 3762,
+      "src": "/data/explorer/4ae6710d-dde7-4e53-b114-cf9ae6b630dd_3765/012.webp"
+    },
+    {
+      "index": 3763,
+      "src": "/data/explorer/4ae6710d-dde7-4e53-b114-cf9ae6b630dd_3765/013.webp"
+    },
+    {
+      "index": 3764,
+      "src": "/data/explorer/4ae6710d-dde7-4e53-b114-cf9ae6b630dd_3765/014.webp"
+    },
+    {
+      "index": 3765,
+      "src": "/data/explorer/4ae6710d-dde7-4e53-b114-cf9ae6b630dd_3765/015.webp"
+    }
+  ]
+}

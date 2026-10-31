@@ -1,0 +1,1589 @@
+{
+  "total": 22523,
+  "source": "data/EgoContact/annotations/24_04_2026.json",
+  "sourceSha256": "5332a2772ee6b4b4b743a6ea2f7360a1caae5b4c15acd6c1b007adef5b843554",
+  "basis": "stored_annotation_ids",
+  "taxonomyVerified": false,
+  "panels": [
+    {
+      "key": "actions",
+      "title": "Actions",
+      "labelCount": 68,
+      "mappedEvents": 22421,
+      "unmappedEvents": 98,
+      "missingEvents": 4,
+      "coveragePercent": 99.5471,
+      "groups": [
+        {
+          "title": "Grasp",
+          "rows": [
+            {
+              "id": 62,
+              "label": "take",
+              "count": 12373,
+              "labelVerified": false,
+              "observedLabelVariants": 11
+            },
+            {
+              "id": 22,
+              "label": "hold",
+              "count": 6763,
+              "labelVerified": false,
+              "observedLabelVariants": 5
+            },
+            {
+              "id": 66,
+              "label": "touch",
+              "count": 215,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            }
+          ]
+        },
+        {
+          "title": "Move",
+          "rows": [
+            {
+              "id": 33,
+              "label": "move",
+              "count": 188,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 44,
+              "label": "put",
+              "count": 87,
+              "labelVerified": false,
+              "observedLabelVariants": 4
+            },
+            {
+              "id": 63,
+              "label": "pull",
+              "count": 18,
+              "labelVerified": false,
+              "observedLabelVariants": 6
+            },
+            {
+              "id": 18,
+              "label": "give",
+              "count": 8,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 74,
+              "label": "pull",
+              "count": 3,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 80,
+              "label": "lift",
+              "count": 3,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 30,
+              "label": "lift",
+              "count": 2,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 61,
+              "label": "pull",
+              "count": 2,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 72,
+              "label": "pull",
+              "count": 2,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 81,
+              "label": "pull",
+              "count": 1,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            }
+          ]
+        },
+        {
+          "title": "Access",
+          "rows": [
+            {
+              "id": 34,
+              "label": "open",
+              "count": 825,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 6,
+              "label": "close",
+              "count": 199,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 28,
+              "label": "lock",
+              "count": 1,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            }
+          ]
+        },
+        {
+          "title": "Operate",
+          "rows": [
+            {
+              "id": 69,
+              "label": "turn on",
+              "count": 439,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 42,
+              "label": "press",
+              "count": 205,
+              "labelVerified": false,
+              "observedLabelVariants": 7
+            },
+            {
+              "id": 67,
+              "label": "turn",
+              "count": 129,
+              "labelVerified": false,
+              "observedLabelVariants": 5
+            },
+            {
+              "id": 35,
+              "label": "operate",
+              "count": 113,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 68,
+              "label": "turn off",
+              "count": 61,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 14,
+              "label": "drive",
+              "count": 4,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 43,
+              "label": "pump",
+              "count": 3,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 51,
+              "label": "scroll",
+              "count": 1,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            }
+          ]
+        },
+        {
+          "title": "Arrange",
+          "rows": [
+            {
+              "id": 0,
+              "label": "adjust",
+              "count": 124,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 2,
+              "label": "arrange",
+              "count": 48,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 16,
+              "label": "fill",
+              "count": 4,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 36,
+              "label": "pack",
+              "count": 3,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 53,
+              "label": "serve",
+              "count": 1,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            }
+          ]
+        },
+        {
+          "title": "Join",
+          "rows": [
+            {
+              "id": 23,
+              "label": "insert",
+              "count": 40,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 3,
+              "label": "attach",
+              "count": 34,
+              "labelVerified": false,
+              "observedLabelVariants": 3
+            },
+            {
+              "id": 65,
+              "label": "tighten",
+              "count": 13,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 64,
+              "label": "tie",
+              "count": 10,
+              "labelVerified": false,
+              "observedLabelVariants": 5
+            },
+            {
+              "id": 50,
+              "label": "screw",
+              "count": 8,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 60,
+              "label": "stick",
+              "count": 3,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            }
+          ]
+        },
+        {
+          "title": "Separate",
+          "rows": [
+            {
+              "id": 9,
+              "label": "detach",
+              "count": 17,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 70,
+              "label": "unscrew",
+              "count": 4,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            }
+          ]
+        },
+        {
+          "title": "Cut & peel",
+          "rows": [
+            {
+              "id": 8,
+              "label": "cut",
+              "count": 48,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 38,
+              "label": "peel",
+              "count": 18,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            }
+          ]
+        },
+        {
+          "title": "Shape",
+          "rows": [
+            {
+              "id": 27,
+              "label": "knead",
+              "count": 45,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 75,
+              "label": "grind",
+              "count": 28,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 46,
+              "label": "roll",
+              "count": 22,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 32,
+              "label": "mold",
+              "count": 8,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 59,
+              "label": "squeeze",
+              "count": 8,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 17,
+              "label": "fold",
+              "count": 3,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 78,
+              "label": "stretch",
+              "count": 3,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            }
+          ]
+        },
+        {
+          "title": "Mix & pour",
+          "rows": [
+            {
+              "id": 11,
+              "label": "dip",
+              "count": 36,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 48,
+              "label": "scoop",
+              "count": 13,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 41,
+              "label": "pour",
+              "count": 12,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            }
+          ]
+        },
+        {
+          "title": "Clean",
+          "rows": [
+            {
+              "id": 4,
+              "label": "clean",
+              "count": 88,
+              "labelVerified": false,
+              "observedLabelVariants": 4
+            }
+          ]
+        },
+        {
+          "title": "Finish",
+          "rows": [
+            {
+              "id": 1,
+              "label": "apply",
+              "count": 28,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 25,
+              "label": "iron",
+              "count": 7,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 58,
+              "label": "spray",
+              "count": 5,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 37,
+              "label": "paint draw",
+              "count": 3,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 47,
+              "label": "sand",
+              "count": 3,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 57,
+              "label": "smooth",
+              "count": 2,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            }
+          ]
+        },
+        {
+          "title": "Build & craft",
+          "rows": [
+            {
+              "id": 76,
+              "label": "knit",
+              "count": 6,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 54,
+              "label": "sew",
+              "count": 5,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 13,
+              "label": "drill",
+              "count": 3,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 21,
+              "label": "hit",
+              "count": 3,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            }
+          ]
+        },
+        {
+          "title": "Garden",
+          "rows": [
+            {
+              "id": 10,
+              "label": "dig",
+              "count": 18,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 71,
+              "label": "water",
+              "count": 14,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 39,
+              "label": "plant",
+              "count": 1,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            }
+          ]
+        },
+        {
+          "title": "Inspect",
+          "rows": [
+            {
+              "id": 24,
+              "label": "inspect",
+              "count": 4,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 31,
+              "label": "measure",
+              "count": 2,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            }
+          ]
+        },
+        {
+          "title": "Body & play",
+          "rows": [
+            {
+              "id": 40,
+              "label": "play",
+              "count": 12,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 79,
+              "label": "wear",
+              "count": 12,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 5,
+              "label": "climb",
+              "count": 7,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "objects",
+      "title": "Objects",
+      "labelCount": 131,
+      "mappedEvents": 21502,
+      "unmappedEvents": 1017,
+      "missingEvents": 4,
+      "coveragePercent": 95.4669,
+      "groups": [
+        {
+          "title": "Food & ingredients",
+          "rows": [
+            {
+              "id": 81,
+              "label": "vegetable",
+              "count": 946,
+              "labelVerified": false,
+              "observedLabelVariants": 3
+            },
+            {
+              "id": 29,
+              "label": "food",
+              "count": 731,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 21,
+              "label": "dough",
+              "count": 717,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 113,
+              "label": "seasoning",
+              "count": 54,
+              "labelVerified": false,
+              "observedLabelVariants": 3
+            },
+            {
+              "id": 96,
+              "label": "ice",
+              "count": 4,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            }
+          ]
+        },
+        {
+          "title": "Utensils",
+          "rows": [
+            {
+              "id": 36,
+              "label": "knife",
+              "count": 742,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 71,
+              "label": "spoon",
+              "count": 637,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 91,
+              "label": "chopstick",
+              "count": 333,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 68,
+              "label": "sieve",
+              "count": 164,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 62,
+              "label": "scissors",
+              "count": 159,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 19,
+              "label": "cutter (tool)",
+              "count": 129,
+              "labelVerified": false,
+              "observedLabelVariants": 5
+            },
+            {
+              "id": 69,
+              "label": "spatula",
+              "count": 120,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 90,
+              "label": "chopping board",
+              "count": 101,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 92,
+              "label": "fork",
+              "count": 65,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            }
+          ]
+        },
+        {
+          "title": "Cookware & dishes",
+          "rows": [
+            {
+              "id": 37,
+              "label": "lid",
+              "count": 628,
+              "labelVerified": false,
+              "observedLabelVariants": 5
+            },
+            {
+              "id": 54,
+              "label": "plate",
+              "count": 569,
+              "labelVerified": false,
+              "observedLabelVariants": 3
+            },
+            {
+              "id": 6,
+              "label": "bowl",
+              "count": 503,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 18,
+              "label": "cup",
+              "count": 343,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 56,
+              "label": "pot",
+              "count": 327,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 48,
+              "label": "pan",
+              "count": 307,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 80,
+              "label": "tray",
+              "count": 108,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 35,
+              "label": "jug",
+              "count": 96,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 31,
+              "label": "glass",
+              "count": 80,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 41,
+              "label": "mold",
+              "count": 17,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            }
+          ]
+        },
+        {
+          "title": "Appliances",
+          "rows": [
+            {
+              "id": 30,
+              "label": "fridge",
+              "count": 186,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 17,
+              "label": "cooker",
+              "count": 171,
+              "labelVerified": false,
+              "observedLabelVariants": 3
+            },
+            {
+              "id": 102,
+              "label": "oven",
+              "count": 43,
+              "labelVerified": false,
+              "observedLabelVariants": 3
+            },
+            {
+              "id": 126,
+              "label": "weighing scale",
+              "count": 16,
+              "labelVerified": false,
+              "observedLabelVariants": 5
+            },
+            {
+              "id": 107,
+              "label": "cooler",
+              "count": 4,
+              "labelVerified": false,
+              "observedLabelVariants": 4
+            }
+          ]
+        },
+        {
+          "title": "Containers",
+          "rows": [
+            {
+              "id": 16,
+              "label": "container",
+              "count": 1695,
+              "labelVerified": false,
+              "observedLabelVariants": 8
+            },
+            {
+              "id": 1,
+              "label": "bag",
+              "count": 898,
+              "labelVerified": false,
+              "observedLabelVariants": 6
+            },
+            {
+              "id": 5,
+              "label": "bottle",
+              "count": 711,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 10,
+              "label": "bucket",
+              "count": 157,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 127,
+              "label": "wrapper",
+              "count": 149,
+              "labelVerified": false,
+              "observedLabelVariants": 10
+            },
+            {
+              "id": 117,
+              "label": "basin",
+              "count": 4,
+              "labelVerified": false,
+              "observedLabelVariants": 4
+            }
+          ]
+        },
+        {
+          "title": "Home & fixtures",
+          "rows": [
+            {
+              "id": 26,
+              "label": "faucet",
+              "count": 909,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 22,
+              "label": "drawer",
+              "count": 256,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 11,
+              "label": "cabinet",
+              "count": 177,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 20,
+              "label": "door",
+              "count": 141,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 88,
+              "label": "chair",
+              "count": 35,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 74,
+              "label": "table",
+              "count": 28,
+              "labelVerified": false,
+              "observedLabelVariants": 5
+            },
+            {
+              "id": 82,
+              "label": "wall",
+              "count": 28,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 39,
+              "label": "mat",
+              "count": 22,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 97,
+              "label": "ladder",
+              "count": 20,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 106,
+              "label": "rack",
+              "count": 20,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 94,
+              "label": "hanger",
+              "count": 18,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 65,
+              "label": "shelf",
+              "count": 9,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 27,
+              "label": "floor",
+              "count": 6,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            }
+          ]
+        },
+        {
+          "title": "Cleaning & laundry",
+          "rows": [
+            {
+              "id": 78,
+              "label": "towel",
+              "count": 459,
+              "labelVerified": false,
+              "observedLabelVariants": 3
+            },
+            {
+              "id": 70,
+              "label": "sponge",
+              "count": 291,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 44,
+              "label": "napkin",
+              "count": 240,
+              "labelVerified": false,
+              "observedLabelVariants": 6
+            },
+            {
+              "id": 9,
+              "label": "brush",
+              "count": 144,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 120,
+              "label": "spray",
+              "count": 124,
+              "labelVerified": false,
+              "observedLabelVariants": 3
+            },
+            {
+              "id": 124,
+              "label": "vacuum cleaner",
+              "count": 52,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 118,
+              "label": "iron",
+              "count": 45,
+              "labelVerified": false,
+              "observedLabelVariants": 7
+            },
+            {
+              "id": 8,
+              "label": "broom",
+              "count": 35,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 79,
+              "label": "trash",
+              "count": 22,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 125,
+              "label": "iron",
+              "count": 9,
+              "labelVerified": false,
+              "observedLabelVariants": 4
+            },
+            {
+              "id": 42,
+              "label": "mop",
+              "count": 7,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            }
+          ]
+        },
+        {
+          "title": "Hand tools",
+          "rows": [
+            {
+              "id": 64,
+              "label": "screwdriver",
+              "count": 158,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 33,
+              "label": "hammer",
+              "count": 106,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 123,
+              "label": "trowel",
+              "count": 106,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 104,
+              "label": "plier",
+              "count": 83,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 76,
+              "label": "tape measure",
+              "count": 71,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 86,
+              "label": "wrench",
+              "count": 61,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 61,
+              "label": "saw",
+              "count": 57,
+              "labelVerified": false,
+              "observedLabelVariants": 3
+            },
+            {
+              "id": 109,
+              "label": "ruler",
+              "count": 41,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 115,
+              "label": "shears",
+              "count": 38,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 12,
+              "label": "caliper",
+              "count": 31,
+              "labelVerified": false,
+              "observedLabelVariants": 3
+            },
+            {
+              "id": 112,
+              "label": "scraper",
+              "count": 26,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 87,
+              "label": "axe",
+              "count": 9,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            }
+          ]
+        },
+        {
+          "title": "Power tools",
+          "rows": [
+            {
+              "id": 23,
+              "label": "drill",
+              "count": 160,
+              "labelVerified": false,
+              "observedLabelVariants": 3
+            },
+            {
+              "id": 110,
+              "label": "sander",
+              "count": 78,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 128,
+              "label": "solder iron",
+              "count": 11,
+              "labelVerified": false,
+              "observedLabelVariants": 3
+            }
+          ]
+        },
+        {
+          "title": "Materials",
+          "rows": [
+            {
+              "id": 85,
+              "label": "wood",
+              "count": 877,
+              "labelVerified": false,
+              "observedLabelVariants": 3
+            },
+            {
+              "id": 49,
+              "label": "paper",
+              "count": 365,
+              "labelVerified": false,
+              "observedLabelVariants": 4
+            },
+            {
+              "id": 40,
+              "label": "metal",
+              "count": 253,
+              "labelVerified": false,
+              "observedLabelVariants": 4
+            },
+            {
+              "id": 58,
+              "label": "rod",
+              "count": 158,
+              "labelVerified": false,
+              "observedLabelVariants": 4
+            },
+            {
+              "id": 7,
+              "label": "brick",
+              "count": 141,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 72,
+              "label": "stone",
+              "count": 122,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 32,
+              "label": "glue",
+              "count": 69,
+              "labelVerified": false,
+              "observedLabelVariants": 4
+            },
+            {
+              "id": 121,
+              "label": "tape",
+              "count": 64,
+              "labelVerified": false,
+              "observedLabelVariants": 3
+            },
+            {
+              "id": 111,
+              "label": "sandpaper",
+              "count": 39,
+              "labelVerified": false,
+              "observedLabelVariants": 3
+            },
+            {
+              "id": 99,
+              "label": "lubricant",
+              "count": 24,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 14,
+              "label": "cement",
+              "count": 13,
+              "labelVerified": false,
+              "observedLabelVariants": 3
+            },
+            {
+              "id": 77,
+              "label": "tile",
+              "count": 10,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 47,
+              "label": "paint",
+              "count": 9,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            }
+          ]
+        },
+        {
+          "title": "Hardware",
+          "rows": [
+            {
+              "id": 84,
+              "label": "wire",
+              "count": 298,
+              "labelVerified": false,
+              "observedLabelVariants": 3
+            },
+            {
+              "id": 73,
+              "label": "string",
+              "count": 135,
+              "labelVerified": false,
+              "observedLabelVariants": 4
+            },
+            {
+              "id": 63,
+              "label": "screw",
+              "count": 112,
+              "labelVerified": false,
+              "observedLabelVariants": 8
+            },
+            {
+              "id": 59,
+              "label": "rope",
+              "count": 53,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 46,
+              "label": "nut (tool)",
+              "count": 28,
+              "labelVerified": false,
+              "observedLabelVariants": 3
+            },
+            {
+              "id": 60,
+              "label": "rubber band",
+              "count": 10,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 101,
+              "label": "nut (food)",
+              "count": 10,
+              "labelVerified": false,
+              "observedLabelVariants": 3
+            },
+            {
+              "id": 119,
+              "label": "spacer",
+              "count": 2,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            }
+          ]
+        },
+        {
+          "title": "Garden",
+          "rows": [
+            {
+              "id": 53,
+              "label": "plant",
+              "count": 532,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 95,
+              "label": "hose",
+              "count": 139,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 43,
+              "label": "mower",
+              "count": 136,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 116,
+              "label": "shovel",
+              "count": 92,
+              "labelVerified": false,
+              "observedLabelVariants": 6
+            },
+            {
+              "id": 28,
+              "label": "flower",
+              "count": 32,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 67,
+              "label": "sickle",
+              "count": 7,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            }
+          ]
+        },
+        {
+          "title": "Vehicles & parts",
+          "rows": [
+            {
+              "id": 83,
+              "label": "wheel",
+              "count": 175,
+              "labelVerified": false,
+              "observedLabelVariants": 3
+            },
+            {
+              "id": 3,
+              "label": "bicycle",
+              "count": 132,
+              "labelVerified": false,
+              "observedLabelVariants": 5
+            },
+            {
+              "id": 57,
+              "label": "pump",
+              "count": 45,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 50,
+              "label": "pedal",
+              "count": 36,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 25,
+              "label": "engine",
+              "count": 33,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 13,
+              "label": "car",
+              "count": 9,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 100,
+              "label": "air pump nozzle",
+              "count": 2,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            }
+          ]
+        },
+        {
+          "title": "Electronics",
+          "rows": [
+            {
+              "id": 52,
+              "label": "phone",
+              "count": 254,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 15,
+              "label": "computer",
+              "count": 83,
+              "labelVerified": false,
+              "observedLabelVariants": 4
+            },
+            {
+              "id": 75,
+              "label": "tablet",
+              "count": 25,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 108,
+              "label": "remote control",
+              "count": 20,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 89,
+              "label": "chip (wood metal)",
+              "count": 10,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 130,
+              "label": "mouse",
+              "count": 2,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 144,
+              "label": "keyboard",
+              "count": 1,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            }
+          ]
+        },
+        {
+          "title": "Textiles & wear",
+          "rows": [
+            {
+              "id": 34,
+              "label": "garment",
+              "count": 228,
+              "labelVerified": false,
+              "observedLabelVariants": 4
+            },
+            {
+              "id": 93,
+              "label": "glove",
+              "count": 86,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 66,
+              "label": "shoe",
+              "count": 47,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 45,
+              "label": "needle",
+              "count": 32,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 38,
+              "label": "mask",
+              "count": 18,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 114,
+              "label": "sewing machine",
+              "count": 13,
+              "labelVerified": false,
+              "observedLabelVariants": 3
+            }
+          ]
+        },
+        {
+          "title": "Arts & play",
+          "rows": [
+            {
+              "id": 0,
+              "label": "artwork",
+              "count": 87,
+              "labelVerified": false,
+              "observedLabelVariants": 4
+            },
+            {
+              "id": 105,
+              "label": "puzzle or game piece",
+              "count": 76,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 4,
+              "label": "book",
+              "count": 66,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 122,
+              "label": "toy",
+              "count": 62,
+              "labelVerified": false,
+              "observedLabelVariants": 3
+            },
+            {
+              "id": 51,
+              "label": "pen",
+              "count": 56,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 2,
+              "label": "ball",
+              "count": 27,
+              "labelVerified": false,
+              "observedLabelVariants": 4
+            },
+            {
+              "id": 55,
+              "label": "playing cards",
+              "count": 26,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            },
+            {
+              "id": 24,
+              "label": "dumbbell",
+              "count": 12,
+              "labelVerified": false,
+              "observedLabelVariants": 2
+            },
+            {
+              "id": 103,
+              "label": "palette",
+              "count": 6,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            }
+          ]
+        },
+        {
+          "title": "Other IDs",
+          "rows": [
+            {
+              "id": 98,
+              "label": "lever",
+              "count": 56,
+              "labelVerified": false,
+              "observedLabelVariants": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

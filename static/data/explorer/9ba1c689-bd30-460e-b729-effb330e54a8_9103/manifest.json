@@ -1,0 +1,118 @@
+{
+  "event": "9ba1c689-bd30-460e-b729-effb330e54a8_9103",
+  "action": "pick up the lemon from the counter",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 9088,
+  "observation": 9088,
+  "contact": 9103,
+  "anchors": {
+    "9088": {
+      "contact_thumb": {
+        "x": 869.3164506163628,
+        "y": 791.9623964835341,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 835.3808661981631,
+        "y": 701.7745079160143,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          807.78076171875,
+          688.3380925185609,
+          896.5478850064212,
+          680.9366076527699,
+          827.5067891160103,
+          816.6304968589378,
+          908.8766521297089,
+          809.2290119931469
+        ]
+      }
+    },
+    "9103": {
+      "contact_thumb": {
+        "x": 897.0305630061516,
+        "y": 817.3277401431491,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 863.0949785879519,
+        "y": 718.6847370224242,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 9088,
+      "src": "/data/explorer/9ba1c689-bd30-460e-b729-effb330e54a8_9103/000.webp"
+    },
+    {
+      "index": 9089,
+      "src": "/data/explorer/9ba1c689-bd30-460e-b729-effb330e54a8_9103/001.webp"
+    },
+    {
+      "index": 9090,
+      "src": "/data/explorer/9ba1c689-bd30-460e-b729-effb330e54a8_9103/002.webp"
+    },
+    {
+      "index": 9091,
+      "src": "/data/explorer/9ba1c689-bd30-460e-b729-effb330e54a8_9103/003.webp"
+    },
+    {
+      "index": 9092,
+      "src": "/data/explorer/9ba1c689-bd30-460e-b729-effb330e54a8_9103/004.webp"
+    },
+    {
+      "index": 9093,
+      "src": "/data/explorer/9ba1c689-bd30-460e-b729-effb330e54a8_9103/005.webp"
+    },
+    {
+      "index": 9094,
+      "src": "/data/explorer/9ba1c689-bd30-460e-b729-effb330e54a8_9103/006.webp"
+    },
+    {
+      "index": 9095,
+      "src": "/data/explorer/9ba1c689-bd30-460e-b729-effb330e54a8_9103/007.webp"
+    },
+    {
+      "index": 9096,
+      "src": "/data/explorer/9ba1c689-bd30-460e-b729-effb330e54a8_9103/008.webp"
+    },
+    {
+      "index": 9097,
+      "src": "/data/explorer/9ba1c689-bd30-460e-b729-effb330e54a8_9103/009.webp"
+    },
+    {
+      "index": 9098,
+      "src": "/data/explorer/9ba1c689-bd30-460e-b729-effb330e54a8_9103/010.webp"
+    },
+    {
+      "index": 9099,
+      "src": "/data/explorer/9ba1c689-bd30-460e-b729-effb330e54a8_9103/011.webp"
+    },
+    {
+      "index": 9100,
+      "src": "/data/explorer/9ba1c689-bd30-460e-b729-effb330e54a8_9103/012.webp"
+    },
+    {
+      "index": 9101,
+      "src": "/data/explorer/9ba1c689-bd30-460e-b729-effb330e54a8_9103/013.webp"
+    },
+    {
+      "index": 9102,
+      "src": "/data/explorer/9ba1c689-bd30-460e-b729-effb330e54a8_9103/014.webp"
+    },
+    {
+      "index": 9103,
+      "src": "/data/explorer/9ba1c689-bd30-460e-b729-effb330e54a8_9103/015.webp"
+    }
+  ]
+}

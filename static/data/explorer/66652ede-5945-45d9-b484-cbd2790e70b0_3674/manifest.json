@@ -1,0 +1,118 @@
+{
+  "event": "66652ede-5945-45d9-b484-cbd2790e70b0_3674",
+  "action": "take plastic jar from shelf",
+  "width": 1920,
+  "height": 1440,
+  "fps": 30.0,
+  "first": 3659,
+  "observation": 3659,
+  "contact": 3674,
+  "anchors": {
+    "3659": {
+      "contact_index": {
+        "x": 924.3523072461194,
+        "y": 51.28084602225907,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 845.5958326377056,
+        "y": 113.31415803477321,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          910.843,
+          8.675,
+          824.096,
+          13.012,
+          850.12,
+          164.819,
+          936.867,
+          169.157
+        ]
+      }
+    },
+    "3674": {
+      "contact_thumb": {
+        "x": 1008.911865210344,
+        "y": 324.2274188773212,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1083.5232622077885,
+        "y": 237.38078205980148,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 3659,
+      "src": "/data/explorer/66652ede-5945-45d9-b484-cbd2790e70b0_3674/000.webp"
+    },
+    {
+      "index": 3660,
+      "src": "/data/explorer/66652ede-5945-45d9-b484-cbd2790e70b0_3674/001.webp"
+    },
+    {
+      "index": 3661,
+      "src": "/data/explorer/66652ede-5945-45d9-b484-cbd2790e70b0_3674/002.webp"
+    },
+    {
+      "index": 3662,
+      "src": "/data/explorer/66652ede-5945-45d9-b484-cbd2790e70b0_3674/003.webp"
+    },
+    {
+      "index": 3663,
+      "src": "/data/explorer/66652ede-5945-45d9-b484-cbd2790e70b0_3674/004.webp"
+    },
+    {
+      "index": 3664,
+      "src": "/data/explorer/66652ede-5945-45d9-b484-cbd2790e70b0_3674/005.webp"
+    },
+    {
+      "index": 3665,
+      "src": "/data/explorer/66652ede-5945-45d9-b484-cbd2790e70b0_3674/006.webp"
+    },
+    {
+      "index": 3666,
+      "src": "/data/explorer/66652ede-5945-45d9-b484-cbd2790e70b0_3674/007.webp"
+    },
+    {
+      "index": 3667,
+      "src": "/data/explorer/66652ede-5945-45d9-b484-cbd2790e70b0_3674/008.webp"
+    },
+    {
+      "index": 3668,
+      "src": "/data/explorer/66652ede-5945-45d9-b484-cbd2790e70b0_3674/009.webp"
+    },
+    {
+      "index": 3669,
+      "src": "/data/explorer/66652ede-5945-45d9-b484-cbd2790e70b0_3674/010.webp"
+    },
+    {
+      "index": 3670,
+      "src": "/data/explorer/66652ede-5945-45d9-b484-cbd2790e70b0_3674/011.webp"
+    },
+    {
+      "index": 3671,
+      "src": "/data/explorer/66652ede-5945-45d9-b484-cbd2790e70b0_3674/012.webp"
+    },
+    {
+      "index": 3672,
+      "src": "/data/explorer/66652ede-5945-45d9-b484-cbd2790e70b0_3674/013.webp"
+    },
+    {
+      "index": 3673,
+      "src": "/data/explorer/66652ede-5945-45d9-b484-cbd2790e70b0_3674/014.webp"
+    },
+    {
+      "index": 3674,
+      "src": "/data/explorer/66652ede-5945-45d9-b484-cbd2790e70b0_3674/015.webp"
+    }
+  ]
+}

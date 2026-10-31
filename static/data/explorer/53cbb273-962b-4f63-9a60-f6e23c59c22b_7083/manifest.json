@@ -1,0 +1,118 @@
+{
+  "event": "53cbb273-962b-4f63-9a60-f6e23c59c22b_7083",
+  "action": "hold the grass trimmer",
+  "width": 2560,
+  "height": 1920,
+  "fps": 30.0,
+  "first": 7068,
+  "observation": 7068,
+  "contact": 7083,
+  "anchors": {
+    "7068": {
+      "contact_index": {
+        "x": 1004.0816326530611,
+        "y": 741.9661016949152,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 1017.142857142857,
+        "y": 859.1186440677966,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          1321.369,
+          657.034,
+          1048.821,
+          749.506,
+          1051.255,
+          817.643,
+          1331.103,
+          812.776
+        ]
+      }
+    },
+    "7083": {
+      "contact_index": {
+        "x": 1438.3673469387754,
+        "y": 748.4745762711864,
+        "occluded": true,
+        "hard_sample": false
+      },
+      "contact_thumb": {
+        "x": 1438.3673469387754,
+        "y": 898.1694915254236,
+        "occluded": true,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 7068,
+      "src": "/data/explorer/53cbb273-962b-4f63-9a60-f6e23c59c22b_7083/000.webp"
+    },
+    {
+      "index": 7069,
+      "src": "/data/explorer/53cbb273-962b-4f63-9a60-f6e23c59c22b_7083/001.webp"
+    },
+    {
+      "index": 7070,
+      "src": "/data/explorer/53cbb273-962b-4f63-9a60-f6e23c59c22b_7083/002.webp"
+    },
+    {
+      "index": 7071,
+      "src": "/data/explorer/53cbb273-962b-4f63-9a60-f6e23c59c22b_7083/003.webp"
+    },
+    {
+      "index": 7072,
+      "src": "/data/explorer/53cbb273-962b-4f63-9a60-f6e23c59c22b_7083/004.webp"
+    },
+    {
+      "index": 7073,
+      "src": "/data/explorer/53cbb273-962b-4f63-9a60-f6e23c59c22b_7083/005.webp"
+    },
+    {
+      "index": 7074,
+      "src": "/data/explorer/53cbb273-962b-4f63-9a60-f6e23c59c22b_7083/006.webp"
+    },
+    {
+      "index": 7075,
+      "src": "/data/explorer/53cbb273-962b-4f63-9a60-f6e23c59c22b_7083/007.webp"
+    },
+    {
+      "index": 7076,
+      "src": "/data/explorer/53cbb273-962b-4f63-9a60-f6e23c59c22b_7083/008.webp"
+    },
+    {
+      "index": 7077,
+      "src": "/data/explorer/53cbb273-962b-4f63-9a60-f6e23c59c22b_7083/009.webp"
+    },
+    {
+      "index": 7078,
+      "src": "/data/explorer/53cbb273-962b-4f63-9a60-f6e23c59c22b_7083/010.webp"
+    },
+    {
+      "index": 7079,
+      "src": "/data/explorer/53cbb273-962b-4f63-9a60-f6e23c59c22b_7083/011.webp"
+    },
+    {
+      "index": 7080,
+      "src": "/data/explorer/53cbb273-962b-4f63-9a60-f6e23c59c22b_7083/012.webp"
+    },
+    {
+      "index": 7081,
+      "src": "/data/explorer/53cbb273-962b-4f63-9a60-f6e23c59c22b_7083/013.webp"
+    },
+    {
+      "index": 7082,
+      "src": "/data/explorer/53cbb273-962b-4f63-9a60-f6e23c59c22b_7083/014.webp"
+    },
+    {
+      "index": 7083,
+      "src": "/data/explorer/53cbb273-962b-4f63-9a60-f6e23c59c22b_7083/015.webp"
+    }
+  ]
+}

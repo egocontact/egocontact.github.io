@@ -1,0 +1,118 @@
+{
+  "event": "00be9fe7-617c-46cf-a0de-7432896c1705_8089",
+  "action": "hold a white cover with orange handles",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 8074,
+  "observation": 8074,
+  "contact": 8089,
+  "anchors": {
+    "8074": {
+      "contact_thumb": {
+        "x": 967.4501359693672,
+        "y": 551.6195723150771,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 979.3631516414608,
+        "y": 469.99891889554374,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          738.5553823397606,
+          308.72834017917717,
+          1029.7049155186228,
+          491.8412446534739,
+          811.8005479193486,
+          806.7954403492643,
+          511.49536904303807,
+          592.553342114337
+        ]
+      }
+    },
+    "8089": {
+      "contact_thumb": {
+        "x": 941.4685788097555,
+        "y": 578.8264567882549,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 961.8908913904871,
+        "y": 502.30709420744233,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 8074,
+      "src": "/data/explorer/00be9fe7-617c-46cf-a0de-7432896c1705_8089/000.webp"
+    },
+    {
+      "index": 8075,
+      "src": "/data/explorer/00be9fe7-617c-46cf-a0de-7432896c1705_8089/001.webp"
+    },
+    {
+      "index": 8076,
+      "src": "/data/explorer/00be9fe7-617c-46cf-a0de-7432896c1705_8089/002.webp"
+    },
+    {
+      "index": 8077,
+      "src": "/data/explorer/00be9fe7-617c-46cf-a0de-7432896c1705_8089/003.webp"
+    },
+    {
+      "index": 8078,
+      "src": "/data/explorer/00be9fe7-617c-46cf-a0de-7432896c1705_8089/004.webp"
+    },
+    {
+      "index": 8079,
+      "src": "/data/explorer/00be9fe7-617c-46cf-a0de-7432896c1705_8089/005.webp"
+    },
+    {
+      "index": 8080,
+      "src": "/data/explorer/00be9fe7-617c-46cf-a0de-7432896c1705_8089/006.webp"
+    },
+    {
+      "index": 8081,
+      "src": "/data/explorer/00be9fe7-617c-46cf-a0de-7432896c1705_8089/007.webp"
+    },
+    {
+      "index": 8082,
+      "src": "/data/explorer/00be9fe7-617c-46cf-a0de-7432896c1705_8089/008.webp"
+    },
+    {
+      "index": 8083,
+      "src": "/data/explorer/00be9fe7-617c-46cf-a0de-7432896c1705_8089/009.webp"
+    },
+    {
+      "index": 8084,
+      "src": "/data/explorer/00be9fe7-617c-46cf-a0de-7432896c1705_8089/010.webp"
+    },
+    {
+      "index": 8085,
+      "src": "/data/explorer/00be9fe7-617c-46cf-a0de-7432896c1705_8089/011.webp"
+    },
+    {
+      "index": 8086,
+      "src": "/data/explorer/00be9fe7-617c-46cf-a0de-7432896c1705_8089/012.webp"
+    },
+    {
+      "index": 8087,
+      "src": "/data/explorer/00be9fe7-617c-46cf-a0de-7432896c1705_8089/013.webp"
+    },
+    {
+      "index": 8088,
+      "src": "/data/explorer/00be9fe7-617c-46cf-a0de-7432896c1705_8089/014.webp"
+    },
+    {
+      "index": 8089,
+      "src": "/data/explorer/00be9fe7-617c-46cf-a0de-7432896c1705_8089/015.webp"
+    }
+  ]
+}

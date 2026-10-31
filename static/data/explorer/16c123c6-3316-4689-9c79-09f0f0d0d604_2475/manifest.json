@@ -1,0 +1,118 @@
+{
+  "event": "16c123c6-3316-4689-9c79-09f0f0d0d604_2475",
+  "action": "open the dishwasher door",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 2460,
+  "observation": 2460,
+  "contact": 2475,
+  "anchors": {
+    "2460": {
+      "contact_thumb": {
+        "x": 884.3877551020408,
+        "y": 563.7966101694916,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 891.7346938775511,
+        "y": 527.1864406779661,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          1161.753,
+          331.315,
+          787.41,
+          606.693,
+          826.135,
+          834.741,
+          1299.442,
+          787.41
+        ]
+      }
+    },
+    "2475": {
+      "contact_thumb": {
+        "x": 856.8367346938776,
+        "y": 772.4745762711865,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 853.1632653061225,
+        "y": 724.8813559322034,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 2460,
+      "src": "/data/explorer/16c123c6-3316-4689-9c79-09f0f0d0d604_2475/000.webp"
+    },
+    {
+      "index": 2461,
+      "src": "/data/explorer/16c123c6-3316-4689-9c79-09f0f0d0d604_2475/001.webp"
+    },
+    {
+      "index": 2462,
+      "src": "/data/explorer/16c123c6-3316-4689-9c79-09f0f0d0d604_2475/002.webp"
+    },
+    {
+      "index": 2463,
+      "src": "/data/explorer/16c123c6-3316-4689-9c79-09f0f0d0d604_2475/003.webp"
+    },
+    {
+      "index": 2464,
+      "src": "/data/explorer/16c123c6-3316-4689-9c79-09f0f0d0d604_2475/004.webp"
+    },
+    {
+      "index": 2465,
+      "src": "/data/explorer/16c123c6-3316-4689-9c79-09f0f0d0d604_2475/005.webp"
+    },
+    {
+      "index": 2466,
+      "src": "/data/explorer/16c123c6-3316-4689-9c79-09f0f0d0d604_2475/006.webp"
+    },
+    {
+      "index": 2467,
+      "src": "/data/explorer/16c123c6-3316-4689-9c79-09f0f0d0d604_2475/007.webp"
+    },
+    {
+      "index": 2468,
+      "src": "/data/explorer/16c123c6-3316-4689-9c79-09f0f0d0d604_2475/008.webp"
+    },
+    {
+      "index": 2469,
+      "src": "/data/explorer/16c123c6-3316-4689-9c79-09f0f0d0d604_2475/009.webp"
+    },
+    {
+      "index": 2470,
+      "src": "/data/explorer/16c123c6-3316-4689-9c79-09f0f0d0d604_2475/010.webp"
+    },
+    {
+      "index": 2471,
+      "src": "/data/explorer/16c123c6-3316-4689-9c79-09f0f0d0d604_2475/011.webp"
+    },
+    {
+      "index": 2472,
+      "src": "/data/explorer/16c123c6-3316-4689-9c79-09f0f0d0d604_2475/012.webp"
+    },
+    {
+      "index": 2473,
+      "src": "/data/explorer/16c123c6-3316-4689-9c79-09f0f0d0d604_2475/013.webp"
+    },
+    {
+      "index": 2474,
+      "src": "/data/explorer/16c123c6-3316-4689-9c79-09f0f0d0d604_2475/014.webp"
+    },
+    {
+      "index": 2475,
+      "src": "/data/explorer/16c123c6-3316-4689-9c79-09f0f0d0d604_2475/015.webp"
+    }
+  ]
+}

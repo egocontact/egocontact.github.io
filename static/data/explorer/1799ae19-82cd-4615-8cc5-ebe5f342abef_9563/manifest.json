@@ -1,0 +1,118 @@
+{
+  "event": "1799ae19-82cd-4615-8cc5-ebe5f342abef_9563",
+  "action": "pull cabinet door",
+  "width": 1920,
+  "height": 1440,
+  "fps": 30.0,
+  "first": 9548,
+  "observation": 9548,
+  "contact": 9563,
+  "anchors": {
+    "9548": {
+      "contact_thumb": {
+        "x": 1382.2375684870872,
+        "y": 487.3619255155809,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1441.2917770205809,
+        "y": 410.0613144307419,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          1544.096,
+          8.675,
+          1283.855,
+          650.602,
+          1865.06,
+          1132.048,
+          1899.759,
+          39.036
+        ]
+      }
+    },
+    "9563": {
+      "contact_thumb": {
+        "x": 1140.11529097237,
+        "y": 877.5459624200064,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 1280.3690362394177,
+        "y": 796.564369854937,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 9548,
+      "src": "/data/explorer/1799ae19-82cd-4615-8cc5-ebe5f342abef_9563/000.webp"
+    },
+    {
+      "index": 9549,
+      "src": "/data/explorer/1799ae19-82cd-4615-8cc5-ebe5f342abef_9563/001.webp"
+    },
+    {
+      "index": 9550,
+      "src": "/data/explorer/1799ae19-82cd-4615-8cc5-ebe5f342abef_9563/002.webp"
+    },
+    {
+      "index": 9551,
+      "src": "/data/explorer/1799ae19-82cd-4615-8cc5-ebe5f342abef_9563/003.webp"
+    },
+    {
+      "index": 9552,
+      "src": "/data/explorer/1799ae19-82cd-4615-8cc5-ebe5f342abef_9563/004.webp"
+    },
+    {
+      "index": 9553,
+      "src": "/data/explorer/1799ae19-82cd-4615-8cc5-ebe5f342abef_9563/005.webp"
+    },
+    {
+      "index": 9554,
+      "src": "/data/explorer/1799ae19-82cd-4615-8cc5-ebe5f342abef_9563/006.webp"
+    },
+    {
+      "index": 9555,
+      "src": "/data/explorer/1799ae19-82cd-4615-8cc5-ebe5f342abef_9563/007.webp"
+    },
+    {
+      "index": 9556,
+      "src": "/data/explorer/1799ae19-82cd-4615-8cc5-ebe5f342abef_9563/008.webp"
+    },
+    {
+      "index": 9557,
+      "src": "/data/explorer/1799ae19-82cd-4615-8cc5-ebe5f342abef_9563/009.webp"
+    },
+    {
+      "index": 9558,
+      "src": "/data/explorer/1799ae19-82cd-4615-8cc5-ebe5f342abef_9563/010.webp"
+    },
+    {
+      "index": 9559,
+      "src": "/data/explorer/1799ae19-82cd-4615-8cc5-ebe5f342abef_9563/011.webp"
+    },
+    {
+      "index": 9560,
+      "src": "/data/explorer/1799ae19-82cd-4615-8cc5-ebe5f342abef_9563/012.webp"
+    },
+    {
+      "index": 9561,
+      "src": "/data/explorer/1799ae19-82cd-4615-8cc5-ebe5f342abef_9563/013.webp"
+    },
+    {
+      "index": 9562,
+      "src": "/data/explorer/1799ae19-82cd-4615-8cc5-ebe5f342abef_9563/014.webp"
+    },
+    {
+      "index": 9563,
+      "src": "/data/explorer/1799ae19-82cd-4615-8cc5-ebe5f342abef_9563/015.webp"
+    }
+  ]
+}

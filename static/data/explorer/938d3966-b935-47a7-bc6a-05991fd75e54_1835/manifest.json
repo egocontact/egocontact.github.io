@@ -1,0 +1,118 @@
+{
+  "event": "938d3966-b935-47a7-bc6a-05991fd75e54_1835",
+  "action": "pick a Mushroom from the ground",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 1820,
+  "observation": 1820,
+  "contact": 1835,
+  "anchors": {
+    "1820": {
+      "contact_thumb": {
+        "x": 840.9419847542815,
+        "y": 612.9007992729784,
+        "occluded": true,
+        "hard_sample": true
+      },
+      "contact_index": {
+        "x": 849.8635718009103,
+        "y": 574.3525399546415,
+        "occluded": true,
+        "hard_sample": true
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          892.0214017735334,
+          534.2732070813413,
+          791.4375,
+          544.7505529189241,
+          799.8194918144611,
+          630.6647887871027,
+          898.3078956343792,
+          624.378381284553
+        ]
+      }
+    },
+    "1835": {
+      "contact_index": {
+        "x": 859.4875123850742,
+        "y": 559.5262863706658,
+        "occluded": true,
+        "hard_sample": true
+      },
+      "contact_thumb": {
+        "x": 856.5136500361981,
+        "y": 601.0397964057978,
+        "occluded": true,
+        "hard_sample": true
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 1820,
+      "src": "/data/explorer/938d3966-b935-47a7-bc6a-05991fd75e54_1835/000.webp"
+    },
+    {
+      "index": 1821,
+      "src": "/data/explorer/938d3966-b935-47a7-bc6a-05991fd75e54_1835/001.webp"
+    },
+    {
+      "index": 1822,
+      "src": "/data/explorer/938d3966-b935-47a7-bc6a-05991fd75e54_1835/002.webp"
+    },
+    {
+      "index": 1823,
+      "src": "/data/explorer/938d3966-b935-47a7-bc6a-05991fd75e54_1835/003.webp"
+    },
+    {
+      "index": 1824,
+      "src": "/data/explorer/938d3966-b935-47a7-bc6a-05991fd75e54_1835/004.webp"
+    },
+    {
+      "index": 1825,
+      "src": "/data/explorer/938d3966-b935-47a7-bc6a-05991fd75e54_1835/005.webp"
+    },
+    {
+      "index": 1826,
+      "src": "/data/explorer/938d3966-b935-47a7-bc6a-05991fd75e54_1835/006.webp"
+    },
+    {
+      "index": 1827,
+      "src": "/data/explorer/938d3966-b935-47a7-bc6a-05991fd75e54_1835/007.webp"
+    },
+    {
+      "index": 1828,
+      "src": "/data/explorer/938d3966-b935-47a7-bc6a-05991fd75e54_1835/008.webp"
+    },
+    {
+      "index": 1829,
+      "src": "/data/explorer/938d3966-b935-47a7-bc6a-05991fd75e54_1835/009.webp"
+    },
+    {
+      "index": 1830,
+      "src": "/data/explorer/938d3966-b935-47a7-bc6a-05991fd75e54_1835/010.webp"
+    },
+    {
+      "index": 1831,
+      "src": "/data/explorer/938d3966-b935-47a7-bc6a-05991fd75e54_1835/011.webp"
+    },
+    {
+      "index": 1832,
+      "src": "/data/explorer/938d3966-b935-47a7-bc6a-05991fd75e54_1835/012.webp"
+    },
+    {
+      "index": 1833,
+      "src": "/data/explorer/938d3966-b935-47a7-bc6a-05991fd75e54_1835/013.webp"
+    },
+    {
+      "index": 1834,
+      "src": "/data/explorer/938d3966-b935-47a7-bc6a-05991fd75e54_1835/014.webp"
+    },
+    {
+      "index": 1835,
+      "src": "/data/explorer/938d3966-b935-47a7-bc6a-05991fd75e54_1835/015.webp"
+    }
+  ]
+}

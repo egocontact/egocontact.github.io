@@ -1,0 +1,118 @@
+{
+  "event": "671c9807-2ef7-4d03-8e68-1253eabc8ee5_5391",
+  "action": "open carton box cover",
+  "width": 1440,
+  "height": 1080,
+  "fps": 30.0,
+  "first": 5376,
+  "observation": 5376,
+  "contact": 5391,
+  "anchors": {
+    "5376": {
+      "contact_thumb": {
+        "x": 831.9863421587947,
+        "y": 473.5990298803235,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 862.4174487279548,
+        "y": 464.50301671646974,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_obj_bbox": {
+        "coords": [
+          905.5538006362201,
+          355.18433931484503,
+          784.5954663759927,
+          383.88610410796383,
+          858.4005516873179,
+          543.7959365267685,
+          960.907614619714,
+          529.4450541302091
+        ]
+      }
+    },
+    "5391": {
+      "contact_thumb": {
+        "x": 776.6017839239439,
+        "y": 549.3991395791041,
+        "occluded": false,
+        "hard_sample": false
+      },
+      "contact_index": {
+        "x": 825.2915544346,
+        "y": 540.3031264152505,
+        "occluded": false,
+        "hard_sample": false
+      }
+    }
+  },
+  "frames": [
+    {
+      "index": 5376,
+      "src": "/data/explorer/671c9807-2ef7-4d03-8e68-1253eabc8ee5_5391/000.webp"
+    },
+    {
+      "index": 5377,
+      "src": "/data/explorer/671c9807-2ef7-4d03-8e68-1253eabc8ee5_5391/001.webp"
+    },
+    {
+      "index": 5378,
+      "src": "/data/explorer/671c9807-2ef7-4d03-8e68-1253eabc8ee5_5391/002.webp"
+    },
+    {
+      "index": 5379,
+      "src": "/data/explorer/671c9807-2ef7-4d03-8e68-1253eabc8ee5_5391/003.webp"
+    },
+    {
+      "index": 5380,
+      "src": "/data/explorer/671c9807-2ef7-4d03-8e68-1253eabc8ee5_5391/004.webp"
+    },
+    {
+      "index": 5381,
+      "src": "/data/explorer/671c9807-2ef7-4d03-8e68-1253eabc8ee5_5391/005.webp"
+    },
+    {
+      "index": 5382,
+      "src": "/data/explorer/671c9807-2ef7-4d03-8e68-1253eabc8ee5_5391/006.webp"
+    },
+    {
+      "index": 5383,
+      "src": "/data/explorer/671c9807-2ef7-4d03-8e68-1253eabc8ee5_5391/007.webp"
+    },
+    {
+      "index": 5384,
+      "src": "/data/explorer/671c9807-2ef7-4d03-8e68-1253eabc8ee5_5391/008.webp"
+    },
+    {
+      "index": 5385,
+      "src": "/data/explorer/671c9807-2ef7-4d03-8e68-1253eabc8ee5_5391/009.webp"
+    },
+    {
+      "index": 5386,
+      "src": "/data/explorer/671c9807-2ef7-4d03-8e68-1253eabc8ee5_5391/010.webp"
+    },
+    {
+      "index": 5387,
+      "src": "/data/explorer/671c9807-2ef7-4d03-8e68-1253eabc8ee5_5391/011.webp"
+    },
+    {
+      "index": 5388,
+      "src": "/data/explorer/671c9807-2ef7-4d03-8e68-1253eabc8ee5_5391/012.webp"
+    },
+    {
+      "index": 5389,
+      "src": "/data/explorer/671c9807-2ef7-4d03-8e68-1253eabc8ee5_5391/013.webp"
+    },
+    {
+      "index": 5390,
+      "src": "/data/explorer/671c9807-2ef7-4d03-8e68-1253eabc8ee5_5391/014.webp"
+    },
+    {
+      "index": 5391,
+      "src": "/data/explorer/671c9807-2ef7-4d03-8e68-1253eabc8ee5_5391/015.webp"
+    }
+  ]
+}
