@@ -62,7 +62,23 @@
       aria-controls="paper-navigation"
       onclick={() => (open = !open)}
     >
-      Contents <span class:turned={open} aria-hidden="true">⌄</span>
+      Contents
+      <svg
+        class="contents-chevron"
+        class:turned={open}
+        width="16"
+        height="16"
+        viewBox="0 0 16 16"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="1.75"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        aria-hidden="true"
+        focusable="false"
+      >
+        <path d="m4 6 4 4 4-4" />
+      </svg>
     </button>
   </div>
   <div id="paper-navigation" class="nav-panel" class:expanded={open}>
@@ -292,10 +308,12 @@
       padding: 6px 12px;
       cursor: pointer;
     }
-    .mobile-bar button span {
-      font-size: 1rem;
+    .contents-chevron {
+      display: block;
+      flex: 0 0 16px;
+      transform-origin: center;
     }
-    .mobile-bar button span.turned {
+    .contents-chevron.turned {
       transform: rotate(180deg);
     }
     .nav-panel {
