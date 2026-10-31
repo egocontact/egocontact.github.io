@@ -1,9 +1,9 @@
 <script lang="ts">
-  import { title, authors, affiliations } from "#lib/data/project.js";
+  import { title, authors, affiliations, paperUrl } from "#lib/data/project.js";
   const resources = [
-    { label: "Paper", icon: "ai ai-arxiv" },
-    { label: "Code", icon: "fab fa-github" },
-    { label: "Data", icon: "fas fa-database" },
+    { label: "Paper", icon: "ai ai-arxiv", href: paperUrl },
+    { label: "Code", icon: "fab fa-github", href: null },
+    { label: "Data", icon: "fas fa-database", href: null },
   ];
 </script>
 
@@ -34,18 +34,30 @@
       </div>
       <div class="publication-links">
         {#each resources as resource}
-          <button
-            class="external-link button is-normal is-rounded is-dark"
-            type="button"
-            disabled
-          >
-            <span class="icon"
-              ><i class={resource.icon} aria-hidden="true"></i></span
+          {#if resource.href}
+            <a
+              class="external-link button is-normal is-rounded is-dark"
+              href={resource.href}
             >
-            <span class="resource-label"
-              >{resource.label}<small>Coming soon</small></span
+              <span class="icon"
+                ><i class={resource.icon} aria-hidden="true"></i></span
+              >
+              <span class="resource-label">{resource.label}</span>
+            </a>
+          {:else}
+            <button
+              class="external-link button is-normal is-rounded is-dark"
+              type="button"
+              disabled
             >
-          </button>
+              <span class="icon"
+                ><i class={resource.icon} aria-hidden="true"></i></span
+              >
+              <span class="resource-label"
+                >{resource.label}<small>Coming soon</small></span
+              >
+            </button>
+          {/if}
         {/each}
       </div>
     </div>

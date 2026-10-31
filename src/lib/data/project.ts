@@ -54,5 +54,13 @@ export const affiliations = [
     name: "Ulm University",
   },
 ];
-export const citation =
-  "@misc{derylo2026egocontact,\n  title  = {EgoContact: Evaluating Physical Intelligence with Egocentric Video},\n  author = {Deryło, Adam and Gavryushin, Alexey and Cremers, Daniel and Pollefeys, Marc and Wang, Xi},\n  year   = {2026},\n  url    = {https://egocontact.github.io}\n}";
+export const paperUrl = "https://arxiv.org/abs/2610.39167";
+export const citation = `@misc{derylo2026egocontact,
+  title         = {EgoContact: Evaluating Physical Intelligence with Egocentric Video},
+  author        = {Deryło, Adam and Gavryushin, Alexey and Cremers, Daniel and Pollefeys, Marc and Wang, Xi},
+  year          = {2026},
+  eprint        = {2610.39167},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.RO},
+  url           = {${paperUrl}}
+}`;
